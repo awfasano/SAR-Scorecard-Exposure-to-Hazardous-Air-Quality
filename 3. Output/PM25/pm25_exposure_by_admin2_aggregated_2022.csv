@@ -1,0 +1,1664 @@
+L2_CODE,L0_CODE,L0_NAME,L1_CODE,L1_NAME,L2_NAME,total_pop,exposed_pop,percent_exposed,geo_level,wb_status,sovereign,Disputed,year
+AFG1,AFG1,Afghanistan,AFG1,Badakhshan,Arghanj Khwa,33680.67,33680.67,100.0,2.0,Member State,AFG,ND,2022
+AFG10,AFG1,Afghanistan,AFG1,Badakhshan,Keshem,146615.61,146615.61,100.0,2.0,Member State,AFG,ND,2022
+AFG100,AFG1,Afghanistan,AFG8,Faryab,Kohistan,91437.91,91437.91,100.00001,2.0,Member State,AFG,ND,2022
+AFG101,AFG1,Afghanistan,AFG8,Faryab,Maymana,135408.42,135408.42,100.0,2.0,Member State,AFG,ND,2022
+AFG102,AFG1,Afghanistan,AFG8,Faryab,Pashtun kot,308483.97,308483.97,100.0,2.0,Member State,AFG,ND,2022
+AFG103,AFG1,Afghanistan,AFG8,Faryab,Qaram Qol,32358.91,32358.91,100.0,2.0,Member State,AFG,ND,2022
+AFG104,AFG1,Afghanistan,AFG8,Faryab,Qaysar,239440.22,239440.22,100.0,2.0,Member State,AFG,ND,2022
+AFG105,AFG1,Afghanistan,AFG8,Faryab,Qorghan,82935.56,82935.56,100.0,2.0,Member State,AFG,ND,2022
+AFG106,AFG1,Afghanistan,AFG8,Faryab,Shirin Tagab,133943.42,133943.42,100.0,2.0,Member State,AFG,ND,2022
+AFG107,AFG1,Afghanistan,AFG9,Ghazni,Ab Band,26850.176,26850.176,100.0,2.0,Member State,AFG,ND,2022
+AFG108,AFG1,Afghanistan,AFG9,Ghazni,Ajrestan,27853.145,27853.145,100.0,2.0,Member State,AFG,ND,2022
+AFG109,AFG1,Afghanistan,AFG9,Ghazni,Andar,117919.86,117919.86,100.0,2.0,Member State,AFG,ND,2022
+AFG11,AFG1,Afghanistan,AFG1,Badakhshan,Khash,65898.36,65898.36,100.0,2.0,Member State,AFG,ND,2022
+AFG110,AFG1,Afghanistan,AFG9,Ghazni,Deh Yak,50865.324,50865.324,100.0,2.0,Member State,AFG,ND,2022
+AFG111,AFG1,Afghanistan,AFG9,Ghazni,Gelan,55562.258,55562.258,100.00001,2.0,Member State,AFG,ND,2022
+AFG112,AFG1,Afghanistan,AFG9,Ghazni,Ghazni,154518.86,154518.86,100.0,2.0,Member State,AFG,ND,2022
+AFG113,AFG1,Afghanistan,AFG9,Ghazni,Giro,36252.715,36252.715,100.0,2.0,Member State,AFG,ND,2022
+AFG114,AFG1,Afghanistan,AFG9,Ghazni,Jaghatu,34085.996,34085.996,100.0,2.0,Member State,AFG,ND,2022
+AFG115,AFG1,Afghanistan,AFG9,Ghazni,Jaghuri,165657.6,165657.6,100.0,2.0,Member State,AFG,ND,2022
+AFG116,AFG1,Afghanistan,AFG9,Ghazni,Khwaja Umari,18779.895,18779.895,100.0,2.0,Member State,AFG,ND,2022
+AFG117,AFG1,Afghanistan,AFG9,Ghazni,Malestan,78401.1,78401.1,100.0,2.0,Member State,AFG,ND,2022
+AFG118,AFG1,Afghanistan,AFG9,Ghazni,Muqur,46899.12,46899.12,100.0,2.0,Member State,AFG,ND,2022
+AFG119,AFG1,Afghanistan,AFG9,Ghazni,Nawa,28927.105,28927.105,100.0,2.0,Member State,AFG,ND,2022
+AFG12,AFG1,Afghanistan,AFG1,Badakhshan,Khwahan,29306.87,29306.87,100.0,2.0,Member State,AFG,ND,2022
+AFG120,AFG1,Afghanistan,AFG9,Ghazni,Nawur,91941.76,91941.76,100.0,2.0,Member State,AFG,ND,2022
+AFG121,AFG1,Afghanistan,AFG9,Ghazni,Qarabagh,143045.5,143045.5,100.0,2.0,Member State,AFG,ND,2022
+AFG122,AFG1,Afghanistan,AFG9,Ghazni,Rashidan,16952.54,16952.54,100.0,2.0,Member State,AFG,ND,2022
+AFG123,AFG1,Afghanistan,AFG9,Ghazni,Waghaz,35511.008,35511.008,100.0,2.0,Member State,AFG,ND,2022
+AFG124,AFG1,Afghanistan,AFG9,Ghazni,Wali Muhammad-e- Shahid,16662.238,16662.238,100.0,2.0,Member State,AFG,ND,2022
+AFG125,AFG1,Afghanistan,AFG9,Ghazni,Zana Khan,12477.82,12477.82,100.0,2.0,Member State,AFG,ND,2022
+AFG126,AFG1,Afghanistan,AFG10,Ghor,Chaghcharan,224310.62,224310.62,100.0,2.0,Member State,AFG,ND,2022
+AFG127,AFG1,Afghanistan,AFG10,Ghor,Chahar Sadra,44350.79,44350.79,100.0,2.0,Member State,AFG,ND,2022
+AFG128,AFG1,Afghanistan,AFG10,Ghor,Dawlat Yar,55160.188,55160.188,100.00001,2.0,Member State,AFG,ND,2022
+AFG129,AFG1,Afghanistan,AFG10,Ghor,Du Lina,63263.934,63263.934,100.0,2.0,Member State,AFG,ND,2022
+AFG13,AFG1,Afghanistan,AFG1,Badakhshan,Kof Ab,40610.316,40610.316,100.0,2.0,Member State,AFG,ND,2022
+AFG130,AFG1,Afghanistan,AFG10,Ghor,Lal Wa Sarjangal,184117.56,184117.56,100.0,2.0,Member State,AFG,ND,2022
+AFG131,AFG1,Afghanistan,AFG10,Ghor,Pasaband,157328.94,157328.94,100.0,2.0,Member State,AFG,ND,2022
+AFG132,AFG1,Afghanistan,AFG10,Ghor,Saghar,57887.434,57887.434,100.0,2.0,Member State,AFG,ND,2022
+AFG133,AFG1,Afghanistan,AFG10,Ghor,Shahrak,97439.26,97439.26,100.0,2.0,Member State,AFG,ND,2022
+AFG134,AFG1,Afghanistan,AFG10,Ghor,Taywarah,152480.12,152480.12,100.0,2.0,Member State,AFG,ND,2022
+AFG135,AFG1,Afghanistan,AFG10,Ghor,Tolak,84407.875,84407.875,100.00001,2.0,Member State,AFG,ND,2022
+AFG136,AFG1,Afghanistan,AFG11,Hilmand,Baghran,123351.26,123351.26,100.0,2.0,Member State,AFG,ND,2022
+AFG137,AFG1,Afghanistan,AFG11,Hilmand,Deh shu,30612.8,30612.8,100.0,2.0,Member State,AFG,ND,2022
+AFG138,AFG1,Afghanistan,AFG11,Hilmand,Garm Ser,138626.3,138626.3,100.0,2.0,Member State,AFG,ND,2022
+AFG139,AFG1,Afghanistan,AFG11,Hilmand,Kajaki,105525.28,105525.28,100.0,2.0,Member State,AFG,ND,2022
+AFG14,AFG1,Afghanistan,AFG1,Badakhshan,Kohistan,26442.748,26442.748,100.0,2.0,Member State,AFG,ND,2022
+AFG140,AFG1,Afghanistan,AFG11,Hilmand,Lashkar Gah,200579.39,200579.39,100.00001,2.0,Member State,AFG,ND,2022
+AFG141,AFG1,Afghanistan,AFG11,Hilmand,Musa Qaleh,88975.87,88975.87,100.0,2.0,Member State,AFG,ND,2022
+AFG142,AFG1,Afghanistan,AFG11,Hilmand,Nad-e-Ali,203075.45,203075.45,100.0,2.0,Member State,AFG,ND,2022
+AFG143,AFG1,Afghanistan,AFG11,Hilmand,Nahr-e-Saraj,170054.23,170054.23,100.0,2.0,Member State,AFG,ND,2022
+AFG144,AFG1,Afghanistan,AFG11,Hilmand,Naw Zad,75047.32,75047.32,100.0,2.0,Member State,AFG,ND,2022
+AFG145,AFG1,Afghanistan,AFG11,Hilmand,Nawa-e-Barak Zaiy,80281.63,80281.63,100.0,2.0,Member State,AFG,ND,2022
+AFG146,AFG1,Afghanistan,AFG11,Hilmand,Reg(khan Neshin),31215.223,31215.223,100.0,2.0,Member State,AFG,ND,2022
+AFG147,AFG1,Afghanistan,AFG11,Hilmand,Sangin,91763.88,91763.88,100.0,2.0,Member State,AFG,ND,2022
+AFG148,AFG1,Afghanistan,AFG11,Hilmand,Wa Sher,24633.959,24633.959,100.00001,2.0,Member State,AFG,ND,2022
+AFG149,AFG1,Afghanistan,AFG12,Hirat,Adraskan,93205.38,93205.38,100.0,2.0,Member State,AFG,ND,2022
+AFG15,AFG1,Afghanistan,AFG1,Badakhshan,Koran wa Monjan,18424.977,18424.977,100.0,2.0,Member State,AFG,ND,2022
+AFG150,AFG1,Afghanistan,AFG12,Hirat,Chisht-e-Sharif,43269.223,43269.223,100.00001,2.0,Member State,AFG,ND,2022
+AFG151,AFG1,Afghanistan,AFG12,Hirat,Farsi,55338.656,55338.656,100.0,2.0,Member State,AFG,ND,2022
+AFG152,AFG1,Afghanistan,AFG12,Hirat,Ghoryan,155541.55,155541.55,100.0,2.0,Member State,AFG,ND,2022
+AFG153,AFG1,Afghanistan,AFG12,Hirat,Gulran,163727.23,163727.23,100.0,2.0,Member State,AFG,ND,2022
+AFG154,AFG1,Afghanistan,AFG12,Hirat,Guzara,259440.98,259440.98,100.0,2.0,Member State,AFG,ND,2022
+AFG155,AFG1,Afghanistan,AFG12,Hirat,Hirat,277256.5,277256.5,100.0,2.0,Member State,AFG,ND,2022
+AFG156,AFG1,Afghanistan,AFG12,Hirat,Injil,949775.8,949775.8,100.0,2.0,Member State,AFG,ND,2022
+AFG157,AFG1,Afghanistan,AFG12,Hirat,Karukh,118754.15,118754.15,100.0,2.0,Member State,AFG,ND,2022
+AFG158,AFG1,Afghanistan,AFG12,Hirat,Kohsan,94262.24,94262.24,100.0,2.0,Member State,AFG,ND,2022
+AFG159,AFG1,Afghanistan,AFG12,Hirat,Kushk,218676.7,218676.7,100.0,2.0,Member State,AFG,ND,2022
+AFG16,AFG1,Afghanistan,AFG1,Badakhshan,Raghistan,71667.17,71667.17,100.0,2.0,Member State,AFG,ND,2022
+AFG160,AFG1,Afghanistan,AFG12,Hirat,Kushk-e-Kohna,79846.62,79846.62,100.0,2.0,Member State,AFG,ND,2022
+AFG161,AFG1,Afghanistan,AFG12,Hirat,Obe,135167.77,135167.77,100.0,2.0,Member State,AFG,ND,2022
+AFG162,AFG1,Afghanistan,AFG12,Hirat,Pashtun  Zarghun,177740.58,177740.58,100.0,2.0,Member State,AFG,ND,2022
+AFG163,AFG1,Afghanistan,AFG12,Hirat,Shindand,324693.5,324693.5,100.0,2.0,Member State,AFG,ND,2022
+AFG164,AFG1,Afghanistan,AFG12,Hirat,Zinda Jan,106705.06,106705.06,100.0,2.0,Member State,AFG,ND,2022
+AFG165,AFG1,Afghanistan,AFG13,Jawzjan,Aqcha,83465.91,83465.91,100.0,2.0,Member State,AFG,ND,2022
+AFG166,AFG1,Afghanistan,AFG13,Jawzjan,Darz Ab,66874.34,66874.34,100.0,2.0,Member State,AFG,ND,2022
+AFG167,AFG1,Afghanistan,AFG13,Jawzjan,Fayz Abad,57560.777,57560.777,99.99999,2.0,Member State,AFG,ND,2022
+AFG168,AFG1,Afghanistan,AFG13,Jawzjan,Khamyab,18602.95,18602.95,100.0,2.0,Member State,AFG,ND,2022
+AFG169,AFG1,Afghanistan,AFG13,Jawzjan,Khanaqa,51948.93,51948.93,100.0,2.0,Member State,AFG,ND,2022
+AFG17,AFG1,Afghanistan,AFG1,Badakhshan,Shahr-e-Buzorg,96067.76,96067.76,100.0,2.0,Member State,AFG,ND,2022
+AFG170,AFG1,Afghanistan,AFG13,Jawzjan,Khwaja Du Koh,36403.965,36403.965,100.0,2.0,Member State,AFG,ND,2022
+AFG171,AFG1,Afghanistan,AFG13,Jawzjan,Mardyan,51191.934,51191.934,100.0,2.0,Member State,AFG,ND,2022
+AFG172,AFG1,Afghanistan,AFG13,Jawzjan,Mingajik,52709.168,52709.168,100.00001,2.0,Member State,AFG,ND,2022
+AFG173,AFG1,Afghanistan,AFG13,Jawzjan,Qarqin,34214.79,34214.79,100.0,2.0,Member State,AFG,ND,2022
+AFG174,AFG1,Afghanistan,AFG13,Jawzjan,Qush Tepa,32738.95,32738.95,100.0,2.0,Member State,AFG,ND,2022
+AFG175,AFG1,Afghanistan,AFG13,Jawzjan,Shiberghan,221488.3,221488.3,100.0,2.0,Member State,AFG,ND,2022
+AFG176,AFG1,Afghanistan,AFG14,Kabul,Bagrami,148479.67,148479.67,100.0,2.0,Member State,AFG,ND,2022
+AFG177,AFG1,Afghanistan,AFG14,Kabul,Chahar Asyab,72225.375,72225.375,100.0,2.0,Member State,AFG,ND,2022
+AFG178,AFG1,Afghanistan,AFG14,Kabul,Deh Sabz,104924.32,104924.32,100.0,2.0,Member State,AFG,ND,2022
+AFG179,AFG1,Afghanistan,AFG14,Kabul,Estalef,51093.305,51093.305,100.0,2.0,Member State,AFG,ND,2022
+AFG18,AFG1,Afghanistan,AFG1,Badakhshan,Shaki,45988.43,45988.43,100.0,2.0,Member State,AFG,ND,2022
+AFG180,AFG1,Afghanistan,AFG14,Kabul,Farza,42236.02,42236.02,100.0,2.0,Member State,AFG,ND,2022
+AFG181,AFG1,Afghanistan,AFG14,Kabul,Guldara,32388.441,32388.441,100.0,2.0,Member State,AFG,ND,2022
+AFG182,AFG1,Afghanistan,AFG14,Kabul,Kabul,5272214.0,5272214.0,100.0,2.0,Member State,AFG,ND,2022
+AFG183,AFG1,Afghanistan,AFG14,Kabul,Kalakan,52248.156,52248.156,100.0,2.0,Member State,AFG,ND,2022
+AFG184,AFG1,Afghanistan,AFG14,Kabul,Khak-e- Jabbar,23254.709,23254.709,100.00001,2.0,Member State,AFG,ND,2022
+AFG185,AFG1,Afghanistan,AFG14,Kabul,Mir Bacha Kot,82510.54,82510.54,100.0,2.0,Member State,AFG,ND,2022
+AFG186,AFG1,Afghanistan,AFG14,Kabul,Musayi,38504.6,38504.6,100.0,2.0,Member State,AFG,ND,2022
+AFG187,AFG1,Afghanistan,AFG14,Kabul,Paghman,238601.36,238601.36,100.0,2.0,Member State,AFG,ND,2022
+AFG188,AFG1,Afghanistan,AFG14,Kabul,Qarabagh,117942.195,117942.195,100.00001,2.0,Member State,AFG,ND,2022
+AFG189,AFG1,Afghanistan,AFG14,Kabul,Shakardara,146655.42,146655.42,100.0,2.0,Member State,AFG,ND,2022
+AFG19,AFG1,Afghanistan,AFG1,Badakhshan,Shighnan,49271.355,49271.355,100.0,2.0,Member State,AFG,ND,2022
+AFG190,AFG1,Afghanistan,AFG14,Kabul,Surobi,94002.234,94002.234,99.99999,2.0,Member State,AFG,ND,2022
+AFG191,AFG1,Afghanistan,AFG15,Kandahar,Arghandab,92351.34,92351.34,99.99999,2.0,Member State,AFG,ND,2022
+AFG192,AFG1,Afghanistan,AFG15,Kandahar,Arghistan,57421.25,57421.25,100.0,2.0,Member State,AFG,ND,2022
+AFG193,AFG1,Afghanistan,AFG15,Kandahar,Daman,66239.08,66239.08,100.0,2.0,Member State,AFG,ND,2022
+AFG194,AFG1,Afghanistan,AFG15,Kandahar,Ghorak,15869.167,15869.167,100.0,2.0,Member State,AFG,ND,2022
+AFG195,AFG1,Afghanistan,AFG15,Kandahar,Kandahar,896284.94,896284.94,100.0,2.0,Member State,AFG,ND,2022
+AFG196,AFG1,Afghanistan,AFG15,Kandahar,Khakrez,37454.555,37454.555,100.0,2.0,Member State,AFG,ND,2022
+AFG197,AFG1,Afghanistan,AFG15,Kandahar,Maruf,52283.082,52283.082,99.99999,2.0,Member State,AFG,ND,2022
+AFG198,AFG1,Afghanistan,AFG15,Kandahar,Maywand,97681.04,97681.04,100.0,2.0,Member State,AFG,ND,2022
+AFG199,AFG1,Afghanistan,AFG15,Kandahar,Miyanshin,23735.914,23735.914,100.00001,2.0,Member State,AFG,ND,2022
+AFG2,AFG1,Afghanistan,AFG1,Badakhshan,Argo,162069.39,162069.39,100.0,2.0,Member State,AFG,ND,2022
+AFG20,AFG1,Afghanistan,AFG1,Badakhshan,Shuhada,63360.535,63360.535,100.0,2.0,Member State,AFG,ND,2022
+AFG200,AFG1,Afghanistan,AFG15,Kandahar,Nesh,22381.89,22381.89,100.0,2.0,Member State,AFG,ND,2022
+AFG201,AFG1,Afghanistan,AFG15,Kandahar,Panj wayi,140166.08,140166.08,100.0,2.0,Member State,AFG,ND,2022
+AFG202,AFG1,Afghanistan,AFG15,Kandahar,Reg,14933.125,14933.125,100.0,2.0,Member State,AFG,ND,2022
+AFG203,AFG1,Afghanistan,AFG15,Kandahar,Shah Wali Kot,74024.67,74024.67,100.0,2.0,Member State,AFG,ND,2022
+AFG204,AFG1,Afghanistan,AFG15,Kandahar,Shor Abak,18238.982,18238.982,100.0,2.0,Member State,AFG,ND,2022
+AFG205,AFG1,Afghanistan,AFG15,Kandahar,Spin Boldak,157971.36,157971.36,100.0,2.0,Member State,AFG,ND,2022
+AFG206,AFG1,Afghanistan,AFG15,Kandahar,Zheray,140069.17,140069.17,100.0,2.0,Member State,AFG,ND,2022
+AFG207,AFG1,Afghanistan,AFG16,Kapisa,Alasay,55064.445,55064.445,100.0,2.0,Member State,AFG,ND,2022
+AFG208,AFG1,Afghanistan,AFG16,Kapisa,Hesa Awal-e- Kohestan,92820.69,92820.69,100.0,2.0,Member State,AFG,ND,2022
+AFG209,AFG1,Afghanistan,AFG16,Kapisa,Hisa Duwum-e- Kohestan,73056.4,73056.4,100.0,2.0,Member State,AFG,ND,2022
+AFG21,AFG1,Afghanistan,AFG1,Badakhshan,Tagab,49908.566,49908.566,100.0,2.0,Member State,AFG,ND,2022
+AFG210,AFG1,Afghanistan,AFG16,Kapisa,Koh Band,34972.207,34972.207,100.0,2.0,Member State,AFG,ND,2022
+AFG211,AFG1,Afghanistan,AFG16,Kapisa,Mahmud-e- Raqi,107425.69,107425.69,100.0,2.0,Member State,AFG,ND,2022
+AFG212,AFG1,Afghanistan,AFG16,Kapisa,Nejrab,158661.86,158661.86,100.0,2.0,Member State,AFG,ND,2022
+AFG213,AFG1,Afghanistan,AFG16,Kapisa,Tagab,119362.4,119362.4,100.0,2.0,Member State,AFG,ND,2022
+AFG214,AFG1,Afghanistan,AFG17,Khost,Bak,43509.5,43509.5,100.0,2.0,Member State,AFG,ND,2022
+AFG215,AFG1,Afghanistan,AFG17,Khost,Gurbuz,59748.223,59748.223,100.00001,2.0,Member State,AFG,ND,2022
+AFG216,AFG1,Afghanistan,AFG17,Khost,Jaji Maydan,43549.844,43549.844,100.0,2.0,Member State,AFG,ND,2022
+AFG217,AFG1,Afghanistan,AFG17,Khost,Khost(Matun),281572.47,281572.47,100.0,2.0,Member State,AFG,ND,2022
+AFG218,AFG1,Afghanistan,AFG17,Khost,Mando Zayi,112315.69,112315.69,100.0,2.0,Member State,AFG,ND,2022
+AFG219,AFG1,Afghanistan,AFG17,Khost,Musa Khel,83547.58,83547.58,100.0,2.0,Member State,AFG,ND,2022
+AFG22,AFG1,Afghanistan,AFG1,Badakhshan,Teshkan,54597.508,54597.508,100.00001,2.0,Member State,AFG,ND,2022
+AFG220,AFG1,Afghanistan,AFG17,Khost,Nadir Shah Kot,65649.56,65649.56,100.0,2.0,Member State,AFG,ND,2022
+AFG221,AFG1,Afghanistan,AFG17,Khost,Qalandar,21008.582,21008.582,100.0,2.0,Member State,AFG,ND,2022
+AFG222,AFG1,Afghanistan,AFG17,Khost,Sabri,144788.2,144788.2,100.0,2.0,Member State,AFG,ND,2022
+AFG223,AFG1,Afghanistan,AFG17,Khost,Shamal (Shamul),27731.197,27731.197,100.0,2.0,Member State,AFG,ND,2022
+AFG224,AFG1,Afghanistan,AFG17,Khost,Spera,48410.996,48410.996,100.0,2.0,Member State,AFG,ND,2022
+AFG225,AFG1,Afghanistan,AFG17,Khost,Tani,113321.75,113321.75,100.0,2.0,Member State,AFG,ND,2022
+AFG226,AFG1,Afghanistan,AFG17,Khost,Tere Zayi,88847.27,88847.27,99.99999,2.0,Member State,AFG,ND,2022
+AFG227,AFG1,Afghanistan,AFG18,Kunar,Asad Abad,52632.25,52632.25,100.0,2.0,Member State,AFG,ND,2022
+AFG228,AFG1,Afghanistan,AFG18,Kunar,Bar Kunar,32604.127,32604.127,100.0,2.0,Member State,AFG,ND,2022
+AFG229,AFG1,Afghanistan,AFG18,Kunar,Chapa Dara,51322.67,51322.67,100.0,2.0,Member State,AFG,ND,2022
+AFG23,AFG1,Afghanistan,AFG1,Badakhshan,Wakhan,26500.217,26500.217,100.0,2.0,Member State,AFG,ND,2022
+AFG230,AFG1,Afghanistan,AFG18,Kunar,Chawkay,60640.01,60640.01,100.0,2.0,Member State,AFG,ND,2022
+AFG231,AFG1,Afghanistan,AFG18,Kunar,Dangam,24013.207,24013.207,100.0,2.0,Member State,AFG,ND,2022
+AFG232,AFG1,Afghanistan,AFG18,Kunar,Dara-e-Pech,88135.68,88135.68,100.0,2.0,Member State,AFG,ND,2022
+AFG233,AFG1,Afghanistan,AFG18,Kunar,Ghazi Abad,31198.832,31198.832,100.0,2.0,Member State,AFG,ND,2022
+AFG234,AFG1,Afghanistan,AFG18,Kunar,Khas Kunar,56086.926,56086.926,100.0,2.0,Member State,AFG,ND,2022
+AFG235,AFG1,Afghanistan,AFG18,Kunar,Marawara,35521.742,35521.742,100.0,2.0,Member State,AFG,ND,2022
+AFG236,AFG1,Afghanistan,AFG18,Kunar,Narang,49195.01,49195.01,100.0,2.0,Member State,AFG,ND,2022
+AFG237,AFG1,Afghanistan,AFG18,Kunar,Nari,40618.094,40618.094,100.0,2.0,Member State,AFG,ND,2022
+AFG238,AFG1,Afghanistan,AFG18,Kunar,Nurgal,51916.074,51916.074,100.0,2.0,Member State,AFG,ND,2022
+AFG239,AFG1,Afghanistan,AFG18,Kunar,Sarkani,39685.758,39685.758,100.0,2.0,Member State,AFG,ND,2022
+AFG24,AFG1,Afghanistan,AFG1,Badakhshan,Warduj,38123.55,38123.55,100.0,2.0,Member State,AFG,ND,2022
+AFG240,AFG1,Afghanistan,AFG18,Kunar,Shigal wa shel tan,47644.312,47644.312,99.99999,2.0,Member State,AFG,ND,2022
+AFG241,AFG1,Afghanistan,AFG18,Kunar,Wata Pur,44844.72,44844.72,100.0,2.0,Member State,AFG,ND,2022
+AFG242,AFG1,Afghanistan,AFG19,Kunduz,Ali Abad,58422.008,58422.008,100.0,2.0,Member State,AFG,ND,2022
+AFG243,AFG1,Afghanistan,AFG19,Kunduz,Chahar Darah,93414.65,93414.65,100.0,2.0,Member State,AFG,ND,2022
+AFG244,AFG1,Afghanistan,AFG19,Kunduz,Dasht-e-Archi,106926.96,106926.96,100.0,2.0,Member State,AFG,ND,2022
+AFG245,AFG1,Afghanistan,AFG19,Kunduz,Imam Saheb,288051.22,288051.22,100.0,2.0,Member State,AFG,ND,2022
+AFG246,AFG1,Afghanistan,AFG19,Kunduz,Khan Abad,195527.45,195527.45,100.0,2.0,Member State,AFG,ND,2022
+AFG247,AFG1,Afghanistan,AFG19,Kunduz,Kunduz,386877.88,386877.88,100.0,2.0,Member State,AFG,ND,2022
+AFG248,AFG1,Afghanistan,AFG19,Kunduz,Qala-e-Zal,88135.97,88135.97,100.0,2.0,Member State,AFG,ND,2022
+AFG249,AFG1,Afghanistan,AFG20,Laghman,Alingar,157130.89,157130.89,100.0,2.0,Member State,AFG,ND,2022
+AFG25,AFG1,Afghanistan,AFG1,Badakhshan,Yaftal-e-Sufla,93600.5,93600.5,100.0,2.0,Member State,AFG,ND,2022
+AFG250,AFG1,Afghanistan,AFG20,Laghman,Alishang,120231.484,120231.484,100.0,2.0,Member State,AFG,ND,2022
+AFG251,AFG1,Afghanistan,AFG20,Laghman,Daulat Shah,55517.582,55517.582,100.0,2.0,Member State,AFG,ND,2022
+AFG252,AFG1,Afghanistan,AFG20,Laghman,Mehtarlam,232996.81,232996.81,100.0,2.0,Member State,AFG,ND,2022
+AFG253,AFG1,Afghanistan,AFG20,Laghman,Qarghayi,163078.75,163078.75,100.0,2.0,Member State,AFG,ND,2022
+AFG254,AFG1,Afghanistan,AFG21,Logar,Azra,32927.38,32927.38,100.0,2.0,Member State,AFG,ND,2022
+AFG255,AFG1,Afghanistan,AFG21,Logar,Baraki Barak,137838.12,137838.12,100.0,2.0,Member State,AFG,ND,2022
+AFG256,AFG1,Afghanistan,AFG21,Logar,Charkh,70891.94,70891.94,100.0,2.0,Member State,AFG,ND,2022
+AFG257,AFG1,Afghanistan,AFG21,Logar,Kharwar,41710.965,41710.965,100.0,2.0,Member State,AFG,ND,2022
+AFG258,AFG1,Afghanistan,AFG21,Logar,Khoshi,38136.492,38136.492,100.0,2.0,Member State,AFG,ND,2022
+AFG259,AFG1,Afghanistan,AFG21,Logar,Mohammad Agha,120407.91,120407.91,100.0,2.0,Member State,AFG,ND,2022
+AFG26,AFG1,Afghanistan,AFG1,Badakhshan,Yamgan,45136.344,45136.344,100.0,2.0,Member State,AFG,ND,2022
+AFG260,AFG1,Afghanistan,AFG21,Logar,Pul-e- Alam,169596.27,169596.27,100.0,2.0,Member State,AFG,ND,2022
+AFG261,AFG1,Afghanistan,AFG22,Nangarhar,Achin,166726.39,166726.39,100.0,2.0,Member State,AFG,ND,2022
+AFG262,AFG1,Afghanistan,AFG22,Nangarhar,Bati Kot,133887.72,133887.72,100.0,2.0,Member State,AFG,ND,2022
+AFG263,AFG1,Afghanistan,AFG22,Nangarhar,Behsud,192580.73,192580.73,100.0,2.0,Member State,AFG,ND,2022
+AFG264,AFG1,Afghanistan,AFG22,Nangarhar,Chaparhar,97577.34,97577.34,99.99999,2.0,Member State,AFG,ND,2022
+AFG265,AFG1,Afghanistan,AFG22,Nangarhar,Dara-e-Nur,66383.055,66383.055,100.0,2.0,Member State,AFG,ND,2022
+AFG266,AFG1,Afghanistan,AFG22,Nangarhar,Deh Bala,64360.332,64360.332,100.0,2.0,Member State,AFG,ND,2022
+AFG267,AFG1,Afghanistan,AFG22,Nangarhar,Dur Baba,39998.24,39998.24,100.0,2.0,Member State,AFG,ND,2022
+AFG268,AFG1,Afghanistan,AFG22,Nangarhar,Goshta,48707.29,48707.29,100.0,2.0,Member State,AFG,ND,2022
+AFG269,AFG1,Afghanistan,AFG22,Nangarhar,Hesarak,50339.125,50339.125,100.0,2.0,Member State,AFG,ND,2022
+AFG27,AFG1,Afghanistan,AFG1,Badakhshan,Yawan,57924.008,57924.008,100.0,2.0,Member State,AFG,ND,2022
+AFG270,AFG1,Afghanistan,AFG22,Nangarhar,Jalalabad,260143.98,260143.98,100.0,2.0,Member State,AFG,ND,2022
+AFG271,AFG1,Afghanistan,AFG22,Nangarhar,Kama,122341.16,122341.16,100.0,2.0,Member State,AFG,ND,2022
+AFG272,AFG1,Afghanistan,AFG22,Nangarhar,Khowgiani,213348.39,213348.39,100.00001,2.0,Member State,AFG,ND,2022
+AFG273,AFG1,Afghanistan,AFG22,Nangarhar,Kot,75398.04,75398.04,100.0,2.0,Member State,AFG,ND,2022
+AFG274,AFG1,Afghanistan,AFG22,Nangarhar,Kuz Kunar,89496.89,89496.89,100.0,2.0,Member State,AFG,ND,2022
+AFG275,AFG1,Afghanistan,AFG22,Nangarhar,Lal Pur,35878.727,35878.727,100.0,2.0,Member State,AFG,ND,2022
+AFG276,AFG1,Afghanistan,AFG22,Nangarhar,Muhmand Dara,82209.55,82209.55,100.0,2.0,Member State,AFG,ND,2022
+AFG277,AFG1,Afghanistan,AFG22,Nangarhar,Nazian,27046.873,27046.873,100.0,2.0,Member State,AFG,ND,2022
+AFG278,AFG1,Afghanistan,AFG22,Nangarhar,Pachier Agam,68192.734,68192.734,100.0,2.0,Member State,AFG,ND,2022
+AFG279,AFG1,Afghanistan,AFG22,Nangarhar,Rodat,110283.66,110283.66,100.0,2.0,Member State,AFG,ND,2022
+AFG28,AFG1,Afghanistan,AFG1,Badakhshan,Zebak,14659.974,14659.974,100.0,2.0,Member State,AFG,ND,2022
+AFG280,AFG1,Afghanistan,AFG22,Nangarhar,Sherzad,104090.15,104090.15,100.0,2.0,Member State,AFG,ND,2022
+AFG281,AFG1,Afghanistan,AFG22,Nangarhar,Shinwar,77562.055,77562.055,100.0,2.0,Member State,AFG,ND,2022
+AFG282,AFG1,Afghanistan,AFG22,Nangarhar,Surkh Rod,275798.9,275798.9,100.0,2.0,Member State,AFG,ND,2022
+AFG283,AFG1,Afghanistan,AFG23,Nimroz,Chahar Burjak,34448.18,34448.18,100.0,2.0,Member State,AFG,ND,2022
+AFG284,AFG1,Afghanistan,AFG23,Nimroz,Chakhansur,33328.28,33328.28,100.0,2.0,Member State,AFG,ND,2022
+AFG285,AFG1,Afghanistan,AFG23,Nimroz,Kang,28765.234,28765.234,100.0,2.0,Member State,AFG,ND,2022
+AFG286,AFG1,Afghanistan,AFG23,Nimroz,Khash Rod,44494.684,44494.684,100.0,2.0,Member State,AFG,ND,2022
+AFG287,AFG1,Afghanistan,AFG23,Nimroz,Zaranj,81949.44,81949.44,100.0,2.0,Member State,AFG,ND,2022
+AFG288,AFG1,Afghanistan,AFG24,Nuristan,Barg-e- Matal,23257.666,23257.666,99.99999,2.0,Member State,AFG,ND,2022
+AFG289,AFG1,Afghanistan,AFG24,Nuristan,Du Ab,11486.116,11486.116,100.0,2.0,Member State,AFG,ND,2022
+AFG29,AFG1,Afghanistan,AFG2,Badghis,Ab Kamari,129541.0,129541.0,100.0,2.0,Member State,AFG,ND,2022
+AFG290,AFG1,Afghanistan,AFG24,Nuristan,Kamdesh,38203.426,38203.426,100.0,2.0,Member State,AFG,ND,2022
+AFG291,AFG1,Afghanistan,AFG24,Nuristan,Mandol,31523.791,31523.791,100.0,2.0,Member State,AFG,ND,2022
+AFG292,AFG1,Afghanistan,AFG24,Nuristan,Nurgaram,53687.383,53687.383,100.00001,2.0,Member State,AFG,ND,2022
+AFG293,AFG1,Afghanistan,AFG24,Nuristan,Poruns,21333.996,21333.996,99.99999,2.0,Member State,AFG,ND,2022
+AFG294,AFG1,Afghanistan,AFG24,Nuristan,Wama,17646.85,17646.85,100.0,2.0,Member State,AFG,ND,2022
+AFG295,AFG1,Afghanistan,AFG24,Nuristan,Waygal,32336.533,32336.533,100.0,2.0,Member State,AFG,ND,2022
+AFG296,AFG1,Afghanistan,AFG25,Paktika,Bermel (Burmul),52439.508,52439.508,100.00001,2.0,Member State,AFG,ND,2022
+AFG297,AFG1,Afghanistan,AFG25,Paktika,Dila,38199.48,38199.48,100.0,2.0,Member State,AFG,ND,2022
+AFG298,AFG1,Afghanistan,AFG25,Paktika,Gian,49336.33,49336.33,100.0,2.0,Member State,AFG,ND,2022
+AFG299,AFG1,Afghanistan,AFG25,Paktika,Gomal,12434.559,12434.559,100.0,2.0,Member State,AFG,ND,2022
+AFG3,AFG1,Afghanistan,AFG1,Badakhshan,Baharak,52426.88,52426.88,100.0,2.0,Member State,AFG,ND,2022
+AFG30,AFG1,Afghanistan,AFG2,Badghis,Bala Murghab,174692.3,174692.3,100.0,2.0,Member State,AFG,ND,2022
+AFG300,AFG1,Afghanistan,AFG25,Paktika,Jani Khel,36528.42,36528.42,100.0,2.0,Member State,AFG,ND,2022
+AFG301,AFG1,Afghanistan,AFG25,Paktika,Mata Khan,38076.105,38076.105,100.0,2.0,Member State,AFG,ND,2022
+AFG302,AFG1,Afghanistan,AFG25,Paktika,Nika,16993.33,16993.33,100.0,2.0,Member State,AFG,ND,2022
+AFG303,AFG1,Afghanistan,AFG25,Paktika,Omna,17840.574,17840.574,100.0,2.0,Member State,AFG,ND,2022
+AFG304,AFG1,Afghanistan,AFG25,Paktika,Sar Hawzeh(Rawzeh),34861.074,34861.074,100.0,2.0,Member State,AFG,ND,2022
+AFG305,AFG1,Afghanistan,AFG25,Paktika,Sarobi,18525.48,18525.48,100.0,2.0,Member State,AFG,ND,2022
+AFG306,AFG1,Afghanistan,AFG25,Paktika,Sharan,74819.766,74819.766,100.0,2.0,Member State,AFG,ND,2022
+AFG307,AFG1,Afghanistan,AFG25,Paktika,Turwo (Tarwe),3270.0942,3270.0942,100.00001,2.0,Member State,AFG,ND,2022
+AFG308,AFG1,Afghanistan,AFG25,Paktika,Urgun,85914.9,85914.9,100.0,2.0,Member State,AFG,ND,2022
+AFG309,AFG1,Afghanistan,AFG25,Paktika,Waza Khah,34053.61,34053.61,100.0,2.0,Member State,AFG,ND,2022
+AFG31,AFG1,Afghanistan,AFG2,Badghis,Ghormach,99285.83,99285.83,100.0,2.0,Member State,AFG,ND,2022
+AFG310,AFG1,Afghanistan,AFG25,Paktika,Wor Mamay,5401.5005,5401.5005,100.0,2.0,Member State,AFG,ND,2022
+AFG311,AFG1,Afghanistan,AFG25,Paktika,Yahya Khel,26494.475,26494.475,100.0,2.0,Member State,AFG,ND,2022
+AFG312,AFG1,Afghanistan,AFG25,Paktika,Yosuf Khel,20596.027,20596.027,100.0,2.0,Member State,AFG,ND,2022
+AFG313,AFG1,Afghanistan,AFG25,Paktika,Zarghun Shahr,44551.94,44551.94,100.0,2.0,Member State,AFG,ND,2022
+AFG314,AFG1,Afghanistan,AFG25,Paktika,Ziruk,28278.607,28278.607,100.0,2.0,Member State,AFG,ND,2022
+AFG315,AFG1,Afghanistan,AFG26,Paktya,Ahmadaba,44357.56,44357.56,100.0,2.0,Member State,AFG,ND,2022
+AFG316,AFG1,Afghanistan,AFG26,Paktya,Ali Khel (Jaji),96996.14,96996.14,100.0,2.0,Member State,AFG,ND,2022
+AFG317,AFG1,Afghanistan,AFG26,Paktya,Chamkani,79279.5,79279.5,100.0,2.0,Member State,AFG,ND,2022
+AFG318,AFG1,Afghanistan,AFG26,Paktya,Dand wa Patan,36307.227,36307.227,100.0,2.0,Member State,AFG,ND,2022
+AFG319,AFG1,Afghanistan,AFG26,Paktya,Gardez,132195.14,132195.14,100.0,2.0,Member State,AFG,ND,2022
+AFG32,AFG1,Afghanistan,AFG2,Badghis,Jawand,144503.73,144503.73,100.0,2.0,Member State,AFG,ND,2022
+AFG320,AFG1,Afghanistan,AFG26,Paktya,Jani Khel,54322.043,54322.043,100.0,2.0,Member State,AFG,ND,2022
+AFG321,AFG1,Afghanistan,AFG26,Paktya,Lija Ahmad Khel,65187.6,65187.6,100.0,2.0,Member State,AFG,ND,2022
+AFG322,AFG1,Afghanistan,AFG26,Paktya,Sayed Karam,101437.516,101437.516,100.00001,2.0,Member State,AFG,ND,2022
+AFG323,AFG1,Afghanistan,AFG26,Paktya,Shawak,8043.419,8043.419,100.0,2.0,Member State,AFG,ND,2022
+AFG324,AFG1,Afghanistan,AFG26,Paktya,Zadran,57589.594,57589.594,100.0,2.0,Member State,AFG,ND,2022
+AFG325,AFG1,Afghanistan,AFG26,Paktya,Zurmat,170138.2,170138.2,100.0,2.0,Member State,AFG,ND,2022
+AFG326,AFG1,Afghanistan,AFG27,Panjsher,Bazarak,23357.994,23357.994,100.0,2.0,Member State,AFG,ND,2022
+AFG327,AFG1,Afghanistan,AFG27,Panjsher,Dara,35800.555,35800.555,100.0,2.0,Member State,AFG,ND,2022
+AFG328,AFG1,Afghanistan,AFG27,Panjsher,Khenj (Hes-e- Awal),55690.363,55690.363,100.0,2.0,Member State,AFG,ND,2022
+AFG329,AFG1,Afghanistan,AFG27,Panjsher,Onaba(Anawa),29571.969,29571.969,100.00001,2.0,Member State,AFG,ND,2022
+AFG33,AFG1,Afghanistan,AFG2,Badghis,Muqur,56140.785,56140.785,100.0,2.0,Member State,AFG,ND,2022
+AFG330,AFG1,Afghanistan,AFG27,Panjsher,Parian,21201.482,21201.482,100.0,2.0,Member State,AFG,ND,2022
+AFG331,AFG1,Afghanistan,AFG27,Panjsher,Rukha,31067.025,31067.025,100.0,2.0,Member State,AFG,ND,2022
+AFG332,AFG1,Afghanistan,AFG27,Panjsher,Shutul,16099.821,16099.821,100.0,2.0,Member State,AFG,ND,2022
+AFG333,AFG1,Afghanistan,AFG28,Parwan,Bagram,152821.88,152821.88,100.0,2.0,Member State,AFG,ND,2022
+AFG334,AFG1,Afghanistan,AFG28,Parwan,Chaharikar,248668.3,248668.3,100.0,2.0,Member State,AFG,ND,2022
+AFG335,AFG1,Afghanistan,AFG28,Parwan,Jabalussaraj,95721.914,95721.914,99.99999,2.0,Member State,AFG,ND,2022
+AFG336,AFG1,Afghanistan,AFG28,Parwan,Koh-e- Safi,43001.617,43001.617,99.99999,2.0,Member State,AFG,ND,2022
+AFG337,AFG1,Afghanistan,AFG28,Parwan,Salang,35645.324,35645.324,100.0,2.0,Member State,AFG,ND,2022
+AFG338,AFG1,Afghanistan,AFG28,Parwan,Sayd Khel,62532.7,62532.7,100.0,2.0,Member State,AFG,ND,2022
+AFG339,AFG1,Afghanistan,AFG28,Parwan,Shekh  Ali,36116.03,36116.03,100.0,2.0,Member State,AFG,ND,2022
+AFG34,AFG1,Afghanistan,AFG2,Badghis,Qadis,166687.75,166687.75,100.0,2.0,Member State,AFG,ND,2022
+AFG340,AFG1,Afghanistan,AFG28,Parwan,Shinwari,59471.004,59471.004,100.0,2.0,Member State,AFG,ND,2022
+AFG341,AFG1,Afghanistan,AFG28,Parwan,Surkhe Parsa,56853.49,56853.49,100.0,2.0,Member State,AFG,ND,2022
+AFG342,AFG1,Afghanistan,AFG28,Parwan,Syah Gerd,135470.83,135470.83,100.0,2.0,Member State,AFG,ND,2022
+AFG343,AFG1,Afghanistan,AFG29,Samangan,Aybak,149919.97,149919.97,100.0,2.0,Member State,AFG,ND,2022
+AFG344,AFG1,Afghanistan,AFG29,Samangan,Darah Suf-e- Payin,85420.914,85420.914,99.99999,2.0,Member State,AFG,ND,2022
+AFG345,AFG1,Afghanistan,AFG29,Samangan,Darah Suf-e-Bala,98170.1,98170.1,100.0,2.0,Member State,AFG,ND,2022
+AFG346,AFG1,Afghanistan,AFG29,Samangan,Feroz Nakhchir,21108.557,21108.557,100.00001,2.0,Member State,AFG,ND,2022
+AFG347,AFG1,Afghanistan,AFG29,Samangan,Hazrat-e- Sultan,95226.984,95226.984,99.99999,2.0,Member State,AFG,ND,2022
+AFG348,AFG1,Afghanistan,AFG29,Samangan,Khuram wa Sarbagh,62225.473,62225.473,100.0,2.0,Member State,AFG,ND,2022
+AFG349,AFG1,Afghanistan,AFG29,Samangan,Ruy-e-Du Ab,69621.46,69621.46,100.0,2.0,Member State,AFG,ND,2022
+AFG35,AFG1,Afghanistan,AFG2,Badghis,Qala-e-Naw,114692.26,114692.26,100.0,2.0,Member State,AFG,ND,2022
+AFG350,AFG1,Afghanistan,AFG30,Sar-e-Pul,Balkh Ab,74332.2,74332.2,100.0,2.0,Member State,AFG,ND,2022
+AFG351,AFG1,Afghanistan,AFG30,Sar-e-Pul,Gosfandi,81398.375,81398.375,100.0,2.0,Member State,AFG,ND,2022
+AFG352,AFG1,Afghanistan,AFG30,Sar-e-Pul,Kohistanat,120139.3,120139.3,100.0,2.0,Member State,AFG,ND,2022
+AFG353,AFG1,Afghanistan,AFG30,Sar-e-Pul,Sang(San)Charak,148852.0,148852.0,100.0,2.0,Member State,AFG,ND,2022
+AFG354,AFG1,Afghanistan,AFG30,Sar-e-Pul,Sar-e-Pul,232295.25,232295.25,99.99999,2.0,Member State,AFG,ND,2022
+AFG355,AFG1,Afghanistan,AFG30,Sar-e-Pul,Sayad,79601.984,79601.984,100.0,2.0,Member State,AFG,ND,2022
+AFG356,AFG1,Afghanistan,AFG30,Sar-e-Pul,Sozma Qala,75015.83,75015.83,100.0,2.0,Member State,AFG,ND,2022
+AFG357,AFG1,Afghanistan,AFG31,Takhar,Baharak,58621.68,58621.68,100.0,2.0,Member State,AFG,ND,2022
+AFG358,AFG1,Afghanistan,AFG31,Takhar,Bangi,62057.773,62057.773,100.0,2.0,Member State,AFG,ND,2022
+AFG359,AFG1,Afghanistan,AFG31,Takhar,Chah Ab,125421.6,125421.6,100.0,2.0,Member State,AFG,ND,2022
+AFG36,AFG1,Afghanistan,AFG3,Baghlan,Andarab,37675.61,37675.61,100.0,2.0,Member State,AFG,ND,2022
+AFG360,AFG1,Afghanistan,AFG31,Takhar,Chal,44520.9,44520.9,100.0,2.0,Member State,AFG,ND,2022
+AFG361,AFG1,Afghanistan,AFG31,Takhar,Darqad,39096.43,39096.43,100.0,2.0,Member State,AFG,ND,2022
+AFG362,AFG1,Afghanistan,AFG31,Takhar,Dasht-e-Qala,63313.426,63313.426,100.0,2.0,Member State,AFG,ND,2022
+AFG363,AFG1,Afghanistan,AFG31,Takhar,Farkhar,78915.32,78915.32,100.0,2.0,Member State,AFG,ND,2022
+AFG364,AFG1,Afghanistan,AFG31,Takhar,Hazar Sumuch,28943.365,28943.365,100.0,2.0,Member State,AFG,ND,2022
+AFG365,AFG1,Afghanistan,AFG31,Takhar,Ishkamish,96810.5,96810.5,100.0,2.0,Member State,AFG,ND,2022
+AFG366,AFG1,Afghanistan,AFG31,Takhar,Kalafgan,57021.625,57021.625,100.0,2.0,Member State,AFG,ND,2022
+AFG367,AFG1,Afghanistan,AFG31,Takhar,Khwaja Bahawuddin,42102.918,42102.918,100.00001,2.0,Member State,AFG,ND,2022
+AFG368,AFG1,Afghanistan,AFG31,Takhar,Khwaja Ghar,106893.5,106893.5,100.0,2.0,Member State,AFG,ND,2022
+AFG369,AFG1,Afghanistan,AFG31,Takhar,Namak Ab,20515.463,20515.463,100.0,2.0,Member State,AFG,ND,2022
+AFG37,AFG1,Afghanistan,AFG3,Baghlan,Baghlan-e-jadid,250029.1,250029.1,100.0,2.0,Member State,AFG,ND,2022
+AFG370,AFG1,Afghanistan,AFG31,Takhar,Rostaq,256837.22,256837.22,100.0,2.0,Member State,AFG,ND,2022
+AFG371,AFG1,Afghanistan,AFG31,Takhar,Taloqan,359637.34,359637.34,100.00001,2.0,Member State,AFG,ND,2022
+AFG372,AFG1,Afghanistan,AFG31,Takhar,Warsaj,61849.938,61849.938,100.00001,2.0,Member State,AFG,ND,2022
+AFG373,AFG1,Afghanistan,AFG31,Takhar,Yangi Qala,78731.43,78731.43,100.0,2.0,Member State,AFG,ND,2022
+AFG374,AFG1,Afghanistan,AFG32,Uruzgan,Chora,98763.87,98763.87,100.0,2.0,Member State,AFG,ND,2022
+AFG375,AFG1,Afghanistan,AFG32,Uruzgan,Dehrawud,94120.336,94120.336,100.00001,2.0,Member State,AFG,ND,2022
+AFG376,AFG1,Afghanistan,AFG32,Uruzgan,Khas Uruzgan,86009.18,86009.18,100.0,2.0,Member State,AFG,ND,2022
+AFG377,AFG1,Afghanistan,AFG32,Uruzgan,Shahid-e-Hassas,90939.875,90939.875,100.00001,2.0,Member State,AFG,ND,2022
+AFG378,AFG1,Afghanistan,AFG32,Uruzgan,Tirin Kot,157388.12,157388.12,100.0,2.0,Member State,AFG,ND,2022
+AFG379,AFG1,Afghanistan,AFG33,Wardak,Chak,139964.28,139964.28,100.0,2.0,Member State,AFG,ND,2022
+AFG38,AFG1,Afghanistan,AFG3,Baghlan,Burka,79944.79,79944.79,100.0,2.0,Member State,AFG,ND,2022
+AFG380,AFG1,Afghanistan,AFG33,Wardak,Day Mirdad,51054.43,51054.43,100.0,2.0,Member State,AFG,ND,2022
+AFG381,AFG1,Afghanistan,AFG33,Wardak,Hesa Awal-e- Behsud,62356.914,62356.914,100.0,2.0,Member State,AFG,ND,2022
+AFG382,AFG1,Afghanistan,AFG33,Wardak,Jaghatu,76483.72,76483.72,100.0,2.0,Member State,AFG,ND,2022
+AFG383,AFG1,Afghanistan,AFG33,Wardak,Jalrez,86147.586,86147.586,100.00001,2.0,Member State,AFG,ND,2022
+AFG384,AFG1,Afghanistan,AFG33,Wardak,Markaz-e-Behsud,198575.06,198575.06,100.0,2.0,Member State,AFG,ND,2022
+AFG385,AFG1,Afghanistan,AFG33,Wardak,Maydan Shahr,67486.84,67486.84,100.0,2.0,Member State,AFG,ND,2022
+AFG386,AFG1,Afghanistan,AFG33,Wardak,Nerkh,103063.66,103063.66,100.0,2.0,Member State,AFG,ND,2022
+AFG387,AFG1,Afghanistan,AFG33,Wardak,Saydabad,190194.97,190194.97,99.99999,2.0,Member State,AFG,ND,2022
+AFG388,AFG1,Afghanistan,AFG34,Zabul,Arghandab,49170.58,49170.58,100.0,2.0,Member State,AFG,ND,2022
+AFG389,AFG1,Afghanistan,AFG34,Zabul,Atghar,13135.879,13135.879,100.0,2.0,Member State,AFG,ND,2022
+AFG39,AFG1,Afghanistan,AFG3,Baghlan,Dahana-e-Ghory,87840.52,87840.52,99.99999,2.0,Member State,AFG,ND,2022
+AFG390,AFG1,Afghanistan,AFG34,Zabul,Day chopan,58772.188,58772.188,100.00001,2.0,Member State,AFG,ND,2022
+AFG391,AFG1,Afghanistan,AFG34,Zabul,Kakar,36642.848,36642.848,100.0,2.0,Member State,AFG,ND,2022
+AFG392,AFG1,Afghanistan,AFG34,Zabul,Mizan,20883.895,20883.895,100.0,2.0,Member State,AFG,ND,2022
+AFG393,AFG1,Afghanistan,AFG34,Zabul,Naw Bahar,27461.354,27461.354,100.0,2.0,Member State,AFG,ND,2022
+AFG394,AFG1,Afghanistan,AFG34,Zabul,Qalat,53404.523,53404.523,100.0,2.0,Member State,AFG,ND,2022
+AFG395,AFG1,Afghanistan,AFG34,Zabul,Shah Joy,87314.78,87314.78,100.0,2.0,Member State,AFG,ND,2022
+AFG396,AFG1,Afghanistan,AFG34,Zabul,Shinkay,36055.41,36055.41,100.0,2.0,Member State,AFG,ND,2022
+AFG397,AFG1,Afghanistan,AFG34,Zabul,Shomulzay,37563.94,37563.94,100.0,2.0,Member State,AFG,ND,2022
+AFG398,AFG1,Afghanistan,AFG34,Zabul,Tarnak Wa Jaldak,26342.47,26342.47,100.0,2.0,Member State,AFG,ND,2022
+AFG4,AFG1,Afghanistan,AFG1,Badakhshan,Darayem,106174.14,106174.14,100.0,2.0,Member State,AFG,ND,2022
+AFG40,AFG1,Afghanistan,AFG3,Baghlan,Deh Salah,45916.766,45916.766,100.0,2.0,Member State,AFG,ND,2022
+AFG41,AFG1,Afghanistan,AFG3,Baghlan,Dushi,101800.14,101800.14,100.0,2.0,Member State,AFG,ND,2022
+AFG42,AFG1,Afghanistan,AFG3,Baghlan,Firing Wa Gharu,24102.97,24102.97,100.0,2.0,Member State,AFG,ND,2022
+AFG43,AFG1,Afghanistan,AFG3,Baghlan,Guzargah-e- Nur,15153.015,15153.015,100.0,2.0,Member State,AFG,ND,2022
+AFG44,AFG1,Afghanistan,AFG3,Baghlan,Khenjan,42513.086,42513.086,100.0,2.0,Member State,AFG,ND,2022
+AFG45,AFG1,Afghanistan,AFG3,Baghlan,Khowst wa Fereng,92650.914,92650.914,99.99999,2.0,Member State,AFG,ND,2022
+AFG46,AFG1,Afghanistan,AFG3,Baghlan,Khwaja Hejran,34712.016,34712.016,100.0,2.0,Member State,AFG,ND,2022
+AFG47,AFG1,Afghanistan,AFG3,Baghlan,Nahrin,105125.05,105125.05,100.0,2.0,Member State,AFG,ND,2022
+AFG48,AFG1,Afghanistan,AFG3,Baghlan,Pul-e- khumri,307677.1,307677.1,100.0,2.0,Member State,AFG,ND,2022
+AFG49,AFG1,Afghanistan,AFG3,Baghlan,Pul-e-Hesar,41048.355,41048.355,100.0,2.0,Member State,AFG,ND,2022
+AFG5,AFG1,Afghanistan,AFG1,Badakhshan,Darwaz,46309.74,46309.74,100.0,2.0,Member State,AFG,ND,2022
+AFG50,AFG1,Afghanistan,AFG3,Baghlan,Tala wa barfak,44443.27,44443.27,100.0,2.0,Member State,AFG,ND,2022
+AFG51,AFG1,Afghanistan,AFG4,Balkh,Balkh,172861.75,172861.75,100.00001,2.0,Member State,AFG,ND,2022
+AFG52,AFG1,Afghanistan,AFG4,Balkh,Chahar Bolak,106367.086,106367.086,100.00001,2.0,Member State,AFG,ND,2022
+AFG53,AFG1,Afghanistan,AFG4,Balkh,Chahar Kent,59622.027,59622.027,99.99999,2.0,Member State,AFG,ND,2022
+AFG54,AFG1,Afghanistan,AFG4,Balkh,Chemtal,129402.12,129402.12,100.0,2.0,Member State,AFG,ND,2022
+AFG55,AFG1,Afghanistan,AFG4,Balkh,Dawlat Abad,144824.48,144824.48,100.0,2.0,Member State,AFG,ND,2022
+AFG56,AFG1,Afghanistan,AFG4,Balkh,Deh Dadi,94366.68,94366.68,100.0,2.0,Member State,AFG,ND,2022
+AFG57,AFG1,Afghanistan,AFG4,Balkh,Kaldar,25198.867,25198.867,100.0,2.0,Member State,AFG,ND,2022
+AFG58,AFG1,Afghanistan,AFG4,Balkh,Khulm,96916.12,96916.12,100.0,2.0,Member State,AFG,ND,2022
+AFG59,AFG1,Afghanistan,AFG4,Balkh,Kishindeh,66429.97,66429.97,100.0,2.0,Member State,AFG,ND,2022
+AFG6,AFG1,Afghanistan,AFG1,Badakhshan,Darwaz-e-Balla,39762.37,39762.37,100.0,2.0,Member State,AFG,ND,2022
+AFG60,AFG1,Afghanistan,AFG4,Balkh,Marmul,15022.674,15022.674,100.0,2.0,Member State,AFG,ND,2022
+AFG61,AFG1,Afghanistan,AFG4,Balkh,Mazar-e-Sharif,471220.44,471220.44,100.0,2.0,Member State,AFG,ND,2022
+AFG62,AFG1,Afghanistan,AFG4,Balkh,Nahr-e- Shahi,113877.07,113877.07,100.0,2.0,Member State,AFG,ND,2022
+AFG63,AFG1,Afghanistan,AFG4,Balkh,Sholgareh,160584.92,160584.92,100.0,2.0,Member State,AFG,ND,2022
+AFG64,AFG1,Afghanistan,AFG4,Balkh,Shor Tepa,56738.113,56738.113,100.0,2.0,Member State,AFG,ND,2022
+AFG65,AFG1,Afghanistan,AFG4,Balkh,Zari,60021.395,60021.395,100.0,2.0,Member State,AFG,ND,2022
+AFG66,AFG1,Afghanistan,AFG5,Bamyan,Bamyan,126150.51,126150.51,100.0,2.0,Member State,AFG,ND,2022
+AFG67,AFG1,Afghanistan,AFG5,Bamyan,Kahmard,58181.586,58181.586,100.0,2.0,Member State,AFG,ND,2022
+AFG68,AFG1,Afghanistan,AFG5,Bamyan,Panjab,107730.8,107730.8,100.0,2.0,Member State,AFG,ND,2022
+AFG69,AFG1,Afghanistan,AFG5,Bamyan,Sayghan,37542.117,37542.117,100.0,2.0,Member State,AFG,ND,2022
+AFG7,AFG1,Afghanistan,AFG1,Badakhshan,Faiz Abad,102940.9,102940.9,100.0,2.0,Member State,AFG,ND,2022
+AFG70,AFG1,Afghanistan,AFG5,Bamyan,Shibar,49246.258,49246.258,100.00001,2.0,Member State,AFG,ND,2022
+AFG71,AFG1,Afghanistan,AFG5,Bamyan,Waras,171296.34,171296.34,100.0,2.0,Member State,AFG,ND,2022
+AFG72,AFG1,Afghanistan,AFG5,Bamyan,Yakawlang,141279.06,141279.06,100.0,2.0,Member State,AFG,ND,2022
+AFG73,AFG1,Afghanistan,AFG6,Daykundi,Ashtarlay,72794.11,72794.11,100.0,2.0,Member State,AFG,ND,2022
+AFG74,AFG1,Afghanistan,AFG6,Daykundi,Gizab,105540.516,105540.516,100.00001,2.0,Member State,AFG,ND,2022
+AFG75,AFG1,Afghanistan,AFG6,Daykundi,Kajran,52643.113,52643.113,100.0,2.0,Member State,AFG,ND,2022
+AFG76,AFG1,Afghanistan,AFG6,Daykundi,Khadir,69946.72,69946.72,100.0,2.0,Member State,AFG,ND,2022
+AFG77,AFG1,Afghanistan,AFG6,Daykundi,kiti,52541.47,52541.47,100.0,2.0,Member State,AFG,ND,2022
+AFG78,AFG1,Afghanistan,AFG6,Daykundi,Miramor,96758.66,96758.66,100.00001,2.0,Member State,AFG,ND,2022
+AFG79,AFG1,Afghanistan,AFG6,Daykundi,Nili,60441.79,60441.79,100.0,2.0,Member State,AFG,ND,2022
+AFG8,AFG1,Afghanistan,AFG1,Badakhshan,Ishkashem,24387.814,24387.814,100.0,2.0,Member State,AFG,ND,2022
+AFG80,AFG1,Afghanistan,AFG6,Daykundi,Sang-e-Takht,77415.13,77415.13,100.0,2.0,Member State,AFG,ND,2022
+AFG81,AFG1,Afghanistan,AFG6,Daykundi,Shahristan,102056.3,102056.3,100.0,2.0,Member State,AFG,ND,2022
+AFG82,AFG1,Afghanistan,AFG7,Farah,Anar Dara,47821.68,47821.68,100.0,2.0,Member State,AFG,ND,2022
+AFG83,AFG1,Afghanistan,AFG7,Farah,Bakwa,60890.383,60890.383,100.0,2.0,Member State,AFG,ND,2022
+AFG84,AFG1,Afghanistan,AFG7,Farah,Bala Buluk,124352.57,124352.57,100.0,2.0,Member State,AFG,ND,2022
+AFG85,AFG1,Afghanistan,AFG7,Farah,Farah,194409.23,194409.23,100.0,2.0,Member State,AFG,ND,2022
+AFG86,AFG1,Afghanistan,AFG7,Farah,Gulestan,73654.375,73654.375,100.0,2.0,Member State,AFG,ND,2022
+AFG87,AFG1,Afghanistan,AFG7,Farah,Khak-e-Safed,52086.23,52086.23,100.0,2.0,Member State,AFG,ND,2022
+AFG88,AFG1,Afghanistan,AFG7,Farah,Lash-e-Juwayn,45832.715,45832.715,100.0,2.0,Member State,AFG,ND,2022
+AFG89,AFG1,Afghanistan,AFG7,Farah,Pur Chaman,89195.46,89195.46,100.0,2.0,Member State,AFG,ND,2022
+AFG9,AFG1,Afghanistan,AFG1,Badakhshan,Jorm,68807.805,68807.805,100.0,2.0,Member State,AFG,ND,2022
+AFG90,AFG1,Afghanistan,AFG7,Farah,Pusht Rod,71612.86,71612.86,100.0,2.0,Member State,AFG,ND,2022
+AFG91,AFG1,Afghanistan,AFG7,Farah,Qala-e-Kah,51687.75,51687.75,100.0,2.0,Member State,AFG,ND,2022
+AFG92,AFG1,Afghanistan,AFG7,Farah,Shib Koh,37362.08,37362.08,100.0,2.0,Member State,AFG,ND,2022
+AFG93,AFG1,Afghanistan,AFG8,Faryab,Almar,119972.23,119972.23,100.0,2.0,Member State,AFG,ND,2022
+AFG94,AFG1,Afghanistan,AFG8,Faryab,Andkhoy,61727.152,61727.152,100.0,2.0,Member State,AFG,ND,2022
+AFG95,AFG1,Afghanistan,AFG8,Faryab,Bil Cheragh,83837.71,83837.71,100.0,2.0,Member State,AFG,ND,2022
+AFG96,AFG1,Afghanistan,AFG8,Faryab,Dawlat Abad,80959.25,80959.25,100.0,2.0,Member State,AFG,ND,2022
+AFG97,AFG1,Afghanistan,AFG8,Faryab,Garziwan,124516.91,124516.91,100.0,2.0,Member State,AFG,ND,2022
+AFG98,AFG1,Afghanistan,AFG8,Faryab,Khan-e-Chahar Bagh,38134.14,38134.14,100.0,2.0,Member State,AFG,ND,2022
+AFG99,AFG1,Afghanistan,AFG8,Faryab,Khwaja Sabzposh,88490.67,88490.67,100.0,2.0,Member State,AFG,ND,2022
+BGD399,BGD23,Bangladesh,BGD35,Barishal,Barguna,917247.75,917247.75,100.0,2.0,Member State,BGD,ND,2022
+BGD400,BGD23,Bangladesh,BGD35,Barishal,Barisal,2340424.2,2340424.2,100.0,2.0,Member State,BGD,ND,2022
+BGD401,BGD23,Bangladesh,BGD35,Barishal,Bhola,1830829.9,1830829.9,100.0,2.0,Member State,BGD,ND,2022
+BGD402,BGD23,Bangladesh,BGD35,Barishal,Jhalakati,698594.0,698594.0,100.0,2.0,Member State,BGD,ND,2022
+BGD403,BGD23,Bangladesh,BGD35,Barishal,Patuakhali,1624786.5,1624786.5,100.0,2.0,Member State,BGD,ND,2022
+BGD404,BGD23,Bangladesh,BGD35,Barishal,Pirojpur,1139566.5,1139566.5,100.0,2.0,Member State,BGD,ND,2022
+BGD405,BGD23,Bangladesh,BGD36,Chattogram,Bandarban,545028.1,545028.1,100.0,2.0,Member State,BGD,ND,2022
+BGD406,BGD23,Bangladesh,BGD36,Chattogram,Brahmanbaria,3340578.8,3340578.8,100.00001,2.0,Member State,BGD,ND,2022
+BGD407,BGD23,Bangladesh,BGD36,Chattogram,Chandpur,2563573.2,2563573.2,100.0,2.0,Member State,BGD,ND,2022
+BGD408,BGD23,Bangladesh,BGD36,Chattogram,Chittagong,8657741.0,8657741.0,100.0,2.0,Member State,BGD,ND,2022
+BGD409,BGD23,Bangladesh,BGD36,Chattogram,Cumilla,6274748.5,6274748.5,100.00001,2.0,Member State,BGD,ND,2022
+BGD410,BGD23,Bangladesh,BGD36,Chattogram,Cox's Bazar,2574859.5,2574859.5,100.0,2.0,Member State,BGD,ND,2022
+BGD411,BGD23,Bangladesh,BGD36,Chattogram,Feni,1664239.0,1664239.0,100.0,2.0,Member State,BGD,ND,2022
+BGD412,BGD23,Bangladesh,BGD36,Chattogram,Khagrachari,758458.7,758458.7,100.00001,2.0,Member State,BGD,ND,2022
+BGD413,BGD23,Bangladesh,BGD36,Chattogram,Lakshmipur,2036874.6,2036874.6,100.0,2.0,Member State,BGD,ND,2022
+BGD414,BGD23,Bangladesh,BGD36,Chattogram,Noakhali,3574644.2,3574644.2,100.0,2.0,Member State,BGD,ND,2022
+BGD415,BGD23,Bangladesh,BGD36,Chattogram,Parbattya Chattagram,727503.9,727503.9,99.99999,2.0,Member State,BGD,ND,2022
+BGD416,BGD23,Bangladesh,BGD37,Dhaka,Dhaka,16407053.0,16407053.0,100.0,2.0,Member State,BGD,ND,2022
+BGD417,BGD23,Bangladesh,BGD37,Dhaka,Faridpur,2085794.0,2085794.0,99.99999,2.0,Member State,BGD,ND,2022
+BGD418,BGD23,Bangladesh,BGD37,Dhaka,Gazipur,6098894.5,6098894.5,100.0,2.0,Member State,BGD,ND,2022
+BGD419,BGD23,Bangladesh,BGD37,Dhaka,Gopalganj,1164344.5,1164344.5,100.0,2.0,Member State,BGD,ND,2022
+BGD420,BGD23,Bangladesh,BGD37,Dhaka,Kishoreganj,3320458.0,3320458.0,100.0,2.0,Member State,BGD,ND,2022
+BGD421,BGD23,Bangladesh,BGD37,Dhaka,Madaripur,1237363.6,1237363.6,100.0,2.0,Member State,BGD,ND,2022
+BGD422,BGD23,Bangladesh,BGD37,Dhaka,Manikganj,1556428.5,1556428.5,100.0,2.0,Member State,BGD,ND,2022
+BGD423,BGD23,Bangladesh,BGD37,Dhaka,Munshiganj,1665895.8,1665895.8,99.99999,2.0,Member State,BGD,ND,2022
+BGD424,BGD23,Bangladesh,BGD37,Dhaka,Narayanganj,3985693.5,3985693.5,100.0,2.0,Member State,BGD,ND,2022
+BGD425,BGD23,Bangladesh,BGD37,Dhaka,Narsingdi,2691203.5,2691203.5,100.0,2.0,Member State,BGD,ND,2022
+BGD426,BGD23,Bangladesh,BGD37,Dhaka,Rajbari,1178675.0,1178675.0,100.0,2.0,Member State,BGD,ND,2022
+BGD427,BGD23,Bangladesh,BGD37,Dhaka,Shariatpur,1215236.1,1215236.1,100.0,2.0,Member State,BGD,ND,2022
+BGD428,BGD23,Bangladesh,BGD37,Dhaka,Tangail,3972355.0,3972355.0,100.0,2.0,Member State,BGD,ND,2022
+BGD429,BGD23,Bangladesh,BGD38,Khulna,Bagerhat,1476405.0,1476405.0,100.0,2.0,Member State,BGD,ND,2022
+BGD430,BGD23,Bangladesh,BGD38,Khulna,Chuadanga,1261344.6,1261344.6,100.0,2.0,Member State,BGD,ND,2022
+BGD431,BGD23,Bangladesh,BGD38,Khulna,Jashore,3176464.0,3176464.0,100.0,2.0,Member State,BGD,ND,2022
+BGD432,BGD23,Bangladesh,BGD38,Khulna,Jhenaidah,2012493.9,2012493.9,100.0,2.0,Member State,BGD,ND,2022
+BGD433,BGD23,Bangladesh,BGD38,Khulna,Khulna,2357467.0,2357467.0,100.0,2.0,Member State,BGD,ND,2022
+BGD434,BGD23,Bangladesh,BGD38,Khulna,Kushtia,2193037.8,2193037.8,100.0,2.0,Member State,BGD,ND,2022
+BGD435,BGD23,Bangladesh,BGD38,Khulna,Magura,1044029.06,1044029.06,100.0,2.0,Member State,BGD,ND,2022
+BGD436,BGD23,Bangladesh,BGD38,Khulna,Meherpur,730361.7,730361.7,100.0,2.0,Member State,BGD,ND,2022
+BGD437,BGD23,Bangladesh,BGD38,Khulna,Narail,791169.7,791169.7,100.0,2.0,Member State,BGD,ND,2022
+BGD438,BGD23,Bangladesh,BGD38,Khulna,Satkhira,2071951.8,2071951.8,100.0,2.0,Member State,BGD,ND,2022
+BGD439,BGD23,Bangladesh,BGD39,Mymensingh,Jamalpur,2498948.0,2498948.0,100.0,2.0,Member State,BGD,ND,2022
+BGD440,BGD23,Bangladesh,BGD39,Mymensingh,Mymensingh,5953490.0,5953490.0,100.0,2.0,Member State,BGD,ND,2022
+BGD441,BGD23,Bangladesh,BGD39,Mymensingh,Netrakona,2518343.0,2518343.0,100.0,2.0,Member State,BGD,ND,2022
+BGD442,BGD23,Bangladesh,BGD39,Mymensingh,Sherpur,1484572.6,1484572.6,100.0,2.0,Member State,BGD,ND,2022
+BGD443,BGD23,Bangladesh,BGD40,Rajshahi,Bogura,3919606.5,3919606.5,100.0,2.0,Member State,BGD,ND,2022
+BGD444,BGD23,Bangladesh,BGD40,Rajshahi,Jaipurhat,998965.5,998965.5,100.0,2.0,Member State,BGD,ND,2022
+BGD445,BGD23,Bangladesh,BGD40,Rajshahi,Naogaon,2875278.0,2875278.0,100.0,2.0,Member State,BGD,ND,2022
+BGD446,BGD23,Bangladesh,BGD40,Rajshahi,Natore,1929004.9,1929004.9,99.99999,2.0,Member State,BGD,ND,2022
+BGD447,BGD23,Bangladesh,BGD40,Rajshahi,Chapainawabganj,1974966.1,1974966.1,100.0,2.0,Member State,BGD,ND,2022
+BGD448,BGD23,Bangladesh,BGD40,Rajshahi,Pabna,2925380.0,2925380.0,99.99999,2.0,Member State,BGD,ND,2022
+BGD449,BGD23,Bangladesh,BGD40,Rajshahi,Rajshahi,3013098.2,3013098.2,100.0,2.0,Member State,BGD,ND,2022
+BGD450,BGD23,Bangladesh,BGD40,Rajshahi,Sirajganj,3676710.5,3676710.5,100.0,2.0,Member State,BGD,ND,2022
+BGD451,BGD23,Bangladesh,BGD41,Rangpur,Dinajpur,3410213.8,3410213.8,100.0,2.0,Member State,BGD,ND,2022
+BGD452,BGD23,Bangladesh,BGD41,Rangpur,Gaibandha,2709006.0,2709006.0,100.0,2.0,Member State,BGD,ND,2022
+BGD453,BGD23,Bangladesh,BGD41,Rangpur,Kurigram,2425155.0,2425155.0,100.0,2.0,Member State,BGD,ND,2022
+BGD454,BGD23,Bangladesh,BGD41,Rangpur,Lalmonirhat,1435994.8,1435994.8,100.0,2.0,Member State,BGD,ND,2022
+BGD455,BGD23,Bangladesh,BGD41,Rangpur,Nilphamari,2155610.5,2155610.5,100.0,2.0,Member State,BGD,ND,2022
+BGD456,BGD23,Bangladesh,BGD41,Rangpur,Panchagarh,1156872.2,1156872.2,100.0,2.0,Member State,BGD,ND,2022
+BGD457,BGD23,Bangladesh,BGD41,Rangpur,Rangpur,3296773.8,3296773.8,100.0,2.0,Member State,BGD,ND,2022
+BGD458,BGD23,Bangladesh,BGD41,Rangpur,Thakurgaon,1613959.0,1613959.0,100.0,2.0,Member State,BGD,ND,2022
+BGD459,BGD23,Bangladesh,BGD42,Sylhet,Habiganj,2492299.5,2492299.5,100.0,2.0,Member State,BGD,ND,2022
+BGD460,BGD23,Bangladesh,BGD42,Sylhet,Moulvibazar,2297923.2,2297923.2,100.0,2.0,Member State,BGD,ND,2022
+BGD461,BGD23,Bangladesh,BGD42,Sylhet,Sunamganj,3007516.2,3007516.2,100.0,2.0,Member State,BGD,ND,2022
+BGD462,BGD23,Bangladesh,BGD42,Sylhet,Sylhet,4602995.0,4602995.0,100.0,2.0,Member State,BGD,ND,2022
+BTN463,BTN31,Bhutan,BTN43,Bumthang,Chhoekhor,9424.005,9424.005,100.0,2.0,Member State,BTN,ND,2022
+BTN464,BTN31,Bhutan,BTN43,Bumthang,Chhumig,5109.281,5109.281,100.0,2.0,Member State,BTN,ND,2022
+BTN465,BTN31,Bhutan,BTN43,Bumthang,Tang,2253.4521,2253.4521,100.0,2.0,Member State,BTN,ND,2022
+BTN466,BTN31,Bhutan,BTN43,Bumthang,Ura,2384.9077,2384.9077,100.0,2.0,Member State,BTN,ND,2022
+BTN467,BTN31,Bhutan,BTN44,Chhukha,Bjagchhog,8878.909,8878.909,100.0,2.0,Member State,BTN,ND,2022
+BTN468,BTN31,Bhutan,BTN44,Chhukha,Bongo,11920.505,11920.505,100.0,2.0,Member State,BTN,ND,2022
+BTN469,BTN31,Bhutan,BTN44,Chhukha,Chapchha,5015.2075,5015.2075,100.0,2.0,Member State,BTN,ND,2022
+BTN470,BTN31,Bhutan,BTN44,Chhukha,Darla,10033.294,10033.294,100.0,2.0,Member State,BTN,ND,2022
+BTN471,BTN31,Bhutan,BTN44,Chhukha,Doongna,1652.7722,1652.7722,100.0,2.0,Member State,BTN,ND,2022
+BTN472,BTN31,Bhutan,BTN44,Chhukha,Geling,10894.099,10894.099,100.0,2.0,Member State,BTN,ND,2022
+BTN473,BTN31,Bhutan,BTN44,Chhukha,Getana,1295.245,1295.245,100.0,2.0,Member State,BTN,ND,2022
+BTN474,BTN31,Bhutan,BTN44,Chhukha,Loggchina,2994.3252,2994.3252,100.00001,2.0,Member State,BTN,ND,2022
+BTN475,BTN31,Bhutan,BTN44,Chhukha,Maedtabkha,1104.2914,1104.2914,100.0,2.0,Member State,BTN,ND,2022
+BTN476,BTN31,Bhutan,BTN44,Chhukha,Phuentshogling,43928.387,43928.387,99.99999,2.0,Member State,BTN,ND,2022
+BTN477,BTN31,Bhutan,BTN44,Chhukha,Sampheling,12986.258,12986.258,100.0,2.0,Member State,BTN,ND,2022
+BTN478,BTN31,Bhutan,BTN45,Dagana,Dorona,1003.5844,1003.5844,100.0,2.0,Member State,BTN,ND,2022
+BTN479,BTN31,Bhutan,BTN45,Dagana,Drukjeygang,3278.8525,3278.8525,100.0,2.0,Member State,BTN,ND,2022
+BTN480,BTN31,Bhutan,BTN45,Dagana,Gesarling,1620.4529,1620.4529,99.99999,2.0,Member State,BTN,ND,2022
+BTN481,BTN31,Bhutan,BTN45,Dagana,Gozhi,3074.6533,3074.6533,100.0,2.0,Member State,BTN,ND,2022
+BTN482,BTN31,Bhutan,BTN45,Dagana,Karmaling,1662.6713,1662.6713,100.0,2.0,Member State,BTN,ND,2022
+BTN483,BTN31,Bhutan,BTN45,Dagana,Karna,2517.9875,2517.9875,100.0,2.0,Member State,BTN,ND,2022
+BTN484,BTN31,Bhutan,BTN45,Dagana,Khebisa,1533.0851,1533.0851,100.00001,2.0,Member State,BTN,ND,2022
+BTN485,BTN31,Bhutan,BTN45,Dagana,Largyab,995.5771,995.5771,100.0,2.0,Member State,BTN,ND,2022
+BTN486,BTN31,Bhutan,BTN45,Dagana,LhamoiDzingkha,4379.151,4379.151,100.0,2.0,Member State,BTN,ND,2022
+BTN487,BTN31,Bhutan,BTN45,Dagana,Nichula,762.661,762.661,100.0,2.0,Member State,BTN,ND,2022
+BTN488,BTN31,Bhutan,BTN45,Dagana,Tashiding,2132.0044,2132.0044,100.0,2.0,Member State,BTN,ND,2022
+BTN489,BTN31,Bhutan,BTN45,Dagana,Tsangkha,1734.029,1734.029,100.0,2.0,Member State,BTN,ND,2022
+BTN490,BTN31,Bhutan,BTN45,Dagana,Tsendagang,2405.9038,2405.9038,100.0,2.0,Member State,BTN,ND,2022
+BTN491,BTN31,Bhutan,BTN45,Dagana,Tseza,3145.0378,3145.0378,100.0,2.0,Member State,BTN,ND,2022
+BTN492,BTN31,Bhutan,BTN46,Gasa,Khamaed,623.84015,623.84015,100.0,2.0,Member State,BTN,ND,2022
+BTN493,BTN31,Bhutan,BTN46,Gasa,Khatoed,333.1548,333.1548,99.99999,2.0,Member State,BTN,ND,2022
+BTN494,BTN31,Bhutan,BTN46,Gasa,Laya,1268.4009,1268.4009,100.0,2.0,Member State,BTN,ND,2022
+BTN495,BTN31,Bhutan,BTN46,Gasa,Lunana,721.9881,721.9881,100.0,2.0,Member State,BTN,ND,2022
+BTN496,BTN31,Bhutan,BTN47,Haa,Bji,1175.2261,1175.2261,100.0,2.0,Member State,BTN,ND,2022
+BTN497,BTN31,Bhutan,BTN47,Haa,Gakiling,1261.1642,1261.1642,100.0,2.0,Member State,BTN,ND,2022
+BTN498,BTN31,Bhutan,BTN47,Haa,Kartshog,2316.27,2316.27,100.0,2.0,Member State,BTN,ND,2022
+BTN499,BTN31,Bhutan,BTN47,Haa,Samar,2524.2612,2524.2612,100.0,2.0,Member State,BTN,ND,2022
+BTN500,BTN31,Bhutan,BTN47,Haa,Sombaykha,835.6762,835.6762,99.99999,2.0,Member State,BTN,ND,2022
+BTN501,BTN31,Bhutan,BTN47,Haa,Uesu,4840.233,4840.233,100.0,2.0,Member State,BTN,ND,2022
+BTN502,BTN31,Bhutan,BTN48,Lhuentse,Gangzur,3703.1638,3703.1638,100.0,2.0,Member State,BTN,ND,2022
+BTN503,BTN31,Bhutan,BTN48,Lhuentse,Jarey,1705.5217,1705.5217,100.0,2.0,Member State,BTN,ND,2022
+BTN504,BTN31,Bhutan,BTN48,Lhuentse,Khoma,1940.9733,1940.9733,100.0,2.0,Member State,BTN,ND,2022
+BTN505,BTN31,Bhutan,BTN48,Lhuentse,Kurtoed,514.1228,514.1228,100.0,2.0,Member State,BTN,ND,2022
+BTN506,BTN31,Bhutan,BTN48,Lhuentse,Maedtsho,1939.6052,1939.6052,100.0,2.0,Member State,BTN,ND,2022
+BTN507,BTN31,Bhutan,BTN48,Lhuentse,Maenbi,2656.028,2656.028,100.0,2.0,Member State,BTN,ND,2022
+BTN508,BTN31,Bhutan,BTN48,Lhuentse,Minjey,1625.4357,1625.4357,100.0,2.0,Member State,BTN,ND,2022
+BTN509,BTN31,Bhutan,BTN48,Lhuentse,Tsaenkhar,2537.2012,2537.2012,100.0,2.0,Member State,BTN,ND,2022
+BTN510,BTN31,Bhutan,BTN49,Monggar,Balam,1144.6866,1144.6866,100.0,2.0,Member State,BTN,ND,2022
+BTN511,BTN31,Bhutan,BTN49,Monggar,Chagsakhar,2304.6672,2304.6672,100.0,2.0,Member State,BTN,ND,2022
+BTN512,BTN31,Bhutan,BTN49,Monggar,Chhaling,2335.6067,2335.6067,100.0,2.0,Member State,BTN,ND,2022
+BTN513,BTN31,Bhutan,BTN49,Monggar,Dramedtse,3122.391,3122.391,100.00001,2.0,Member State,BTN,ND,2022
+BTN514,BTN31,Bhutan,BTN49,Monggar,Drepoong,2627.5435,2627.5435,100.0,2.0,Member State,BTN,ND,2022
+BTN515,BTN31,Bhutan,BTN49,Monggar,Gongdue,1814.5974,1814.5974,100.0,2.0,Member State,BTN,ND,2022
+BTN516,BTN31,Bhutan,BTN49,Monggar,Jurmed,1754.6943,1754.6943,100.0,2.0,Member State,BTN,ND,2022
+BTN517,BTN31,Bhutan,BTN49,Monggar,Kengkhar,2640.7048,2640.7048,99.99999,2.0,Member State,BTN,ND,2022
+BTN518,BTN31,Bhutan,BTN49,Monggar,Monggar,8737.469,8737.469,100.0,2.0,Member State,BTN,ND,2022
+BTN519,BTN31,Bhutan,BTN49,Monggar,Narang,1327.846,1327.846,100.0,2.0,Member State,BTN,ND,2022
+BTN520,BTN31,Bhutan,BTN49,Monggar,Ngatshang,2122.3496,2122.3496,100.0,2.0,Member State,BTN,ND,2022
+BTN521,BTN31,Bhutan,BTN49,Monggar,Saling,6474.55,6474.55,100.0,2.0,Member State,BTN,ND,2022
+BTN522,BTN31,Bhutan,BTN49,Monggar,Shermuhoong,2662.0337,2662.0337,100.0,2.0,Member State,BTN,ND,2022
+BTN523,BTN31,Bhutan,BTN49,Monggar,Silambi,1898.0117,1898.0117,100.0,2.0,Member State,BTN,ND,2022
+BTN524,BTN31,Bhutan,BTN49,Monggar,Thangrong,2387.8547,2387.8547,100.0,2.0,Member State,BTN,ND,2022
+BTN525,BTN31,Bhutan,BTN49,Monggar,Tsakaling,1834.284,1834.284,100.0,2.0,Member State,BTN,ND,2022
+BTN526,BTN31,Bhutan,BTN49,Monggar,Tsamang,1575.766,1575.766,100.0,2.0,Member State,BTN,ND,2022
+BTN527,BTN31,Bhutan,BTN50,Paro,Dokar,2933.1418,2933.1418,100.0,2.0,Member State,BTN,ND,2022
+BTN528,BTN31,Bhutan,BTN50,Paro,Dopsharri,3143.0864,3143.0864,100.00001,2.0,Member State,BTN,ND,2022
+BTN529,BTN31,Bhutan,BTN50,Paro,Doteng,1089.8512,1089.8512,100.0,2.0,Member State,BTN,ND,2022
+BTN530,BTN31,Bhutan,BTN50,Paro,Hoongrel,1093.5359,1093.5359,100.0,2.0,Member State,BTN,ND,2022
+BTN531,BTN31,Bhutan,BTN50,Paro,Lamgong,4214.0737,4214.0737,100.0,2.0,Member State,BTN,ND,2022
+BTN532,BTN31,Bhutan,BTN50,Paro,Loongnyi,6630.3057,6630.3057,100.0,2.0,Member State,BTN,ND,2022
+BTN533,BTN31,Bhutan,BTN50,Paro,Najya,3814.2114,3814.2114,100.0,2.0,Member State,BTN,ND,2022
+BTN534,BTN31,Bhutan,BTN50,Paro,Sharpa,9120.395,9120.395,100.0,2.0,Member State,BTN,ND,2022
+BTN535,BTN31,Bhutan,BTN50,Paro,Tsento,4106.6787,4106.6787,100.0,2.0,Member State,BTN,ND,2022
+BTN536,BTN31,Bhutan,BTN50,Paro,Wangchang,6882.5796,6882.5796,100.0,2.0,Member State,BTN,ND,2022
+BTN537,BTN31,Bhutan,BTN51,Pemagatshel,Chhimoong,989.81793,989.81793,100.0,2.0,Member State,BTN,ND,2022
+BTN538,BTN31,Bhutan,BTN51,Pemagatshel,Chhoekhorling,1689.5654,1689.5654,100.0,2.0,Member State,BTN,ND,2022
+BTN539,BTN31,Bhutan,BTN51,Pemagatshel,Chongshing,1439.0404,1439.0404,100.00001,2.0,Member State,BTN,ND,2022
+BTN540,BTN31,Bhutan,BTN51,Pemagatshel,Dechhenling,2322.0256,2322.0256,100.0,2.0,Member State,BTN,ND,2022
+BTN541,BTN31,Bhutan,BTN51,Pemagatshel,Dungmaed,1601.9747,1601.9747,100.0,2.0,Member State,BTN,ND,2022
+BTN542,BTN31,Bhutan,BTN51,Pemagatshel,Khar,2179.3235,2179.3235,100.0,2.0,Member State,BTN,ND,2022
+BTN543,BTN31,Bhutan,BTN51,Pemagatshel,Nanong,2900.72,2900.72,100.0,2.0,Member State,BTN,ND,2022
+BTN544,BTN31,Bhutan,BTN51,Pemagatshel,Norboogang,3465.6016,3465.6016,100.0,2.0,Member State,BTN,ND,2022
+BTN545,BTN31,Bhutan,BTN51,Pemagatshel,Shumar,5776.079,5776.079,100.00001,2.0,Member State,BTN,ND,2022
+BTN546,BTN31,Bhutan,BTN51,Pemagatshel,Yurung,1474.3091,1474.3091,100.0,2.0,Member State,BTN,ND,2022
+BTN547,BTN31,Bhutan,BTN51,Pemagatshel,Zobel,2416.2083,2416.2083,100.0,2.0,Member State,BTN,ND,2022
+BTN548,BTN31,Bhutan,BTN52,Punakha,Barp,5194.1978,5194.1978,100.0,2.0,Member State,BTN,ND,2022
+BTN549,BTN31,Bhutan,BTN52,Punakha,Chhubu,1388.1045,1388.1045,100.0,2.0,Member State,BTN,ND,2022
+BTN550,BTN31,Bhutan,BTN52,Punakha,Dzomi,1313.8003,1313.8003,100.0,2.0,Member State,BTN,ND,2022
+BTN551,BTN31,Bhutan,BTN52,Punakha,Goenshari,416.84766,416.84766,100.0,2.0,Member State,BTN,ND,2022
+BTN552,BTN31,Bhutan,BTN52,Punakha,Guma,3109.2944,3109.2944,100.0,2.0,Member State,BTN,ND,2022
+BTN553,BTN31,Bhutan,BTN52,Punakha,Kabisa,2510.0593,2510.0593,100.0,2.0,Member State,BTN,ND,2022
+BTN554,BTN31,Bhutan,BTN52,Punakha,Lingmukha,2225.2253,2225.2253,100.0,2.0,Member State,BTN,ND,2022
+BTN555,BTN31,Bhutan,BTN52,Punakha,Shelngabjemi,833.325,833.325,100.0,2.0,Member State,BTN,ND,2022
+BTN556,BTN31,Bhutan,BTN52,Punakha,Talog,2889.7034,2889.7034,100.0,2.0,Member State,BTN,ND,2022
+BTN557,BTN31,Bhutan,BTN52,Punakha,Toedpaisa,3217.2383,3217.2383,99.99999,2.0,Member State,BTN,ND,2022
+BTN558,BTN31,Bhutan,BTN52,Punakha,Toedwang,1111.4946,1111.4946,100.0,2.0,Member State,BTN,ND,2022
+BTN559,BTN31,Bhutan,BTN53,Samdrupjongkhar,Dewathang,14968.635,14968.635,100.0,2.0,Member State,BTN,ND,2022
+BTN560,BTN31,Bhutan,BTN53,Samdrupjongkhar,Gomdar,3352.0842,3352.0842,100.00001,2.0,Member State,BTN,ND,2022
+BTN561,BTN31,Bhutan,BTN53,Samdrupjongkhar,Langchenphu,4430.374,4430.374,100.0,2.0,Member State,BTN,ND,2022
+BTN562,BTN31,Bhutan,BTN53,Samdrupjongkhar,Lauri,3536.2354,3536.2354,100.0,2.0,Member State,BTN,ND,2022
+BTN563,BTN31,Bhutan,BTN53,Samdrupjongkhar,Martshala,3334.0066,3334.0066,100.0,2.0,Member State,BTN,ND,2022
+BTN564,BTN31,Bhutan,BTN53,Samdrupjongkhar,Orong,3936.8237,3936.8237,100.0,2.0,Member State,BTN,ND,2022
+BTN565,BTN31,Bhutan,BTN53,Samdrupjongkhar,Pemathang,2211.8828,2211.8828,100.0,2.0,Member State,BTN,ND,2022
+BTN566,BTN31,Bhutan,BTN53,Samdrupjongkhar,Phuentshogthang,4465.533,4465.533,100.0,2.0,Member State,BTN,ND,2022
+BTN567,BTN31,Bhutan,BTN53,Samdrupjongkhar,Samrang,467.2969,467.2969,100.0,2.0,Member State,BTN,ND,2022
+BTN568,BTN31,Bhutan,BTN53,Samdrupjongkhar,Serthig,2493.2388,2493.2388,100.0,2.0,Member State,BTN,ND,2022
+BTN569,BTN31,Bhutan,BTN53,Samdrupjongkhar,Wangphu,2507.4016,2507.4016,100.0,2.0,Member State,BTN,ND,2022
+BTN570,BTN31,Bhutan,BTN54,Samtse,Doomtoed,1440.6362,1440.6362,100.0,2.0,Member State,BTN,ND,2022
+BTN571,BTN31,Bhutan,BTN54,Samtse,Dophugchen,5559.0854,5559.0854,100.0,2.0,Member State,BTN,ND,2022
+BTN572,BTN31,Bhutan,BTN54,Samtse,Duenchhukha,2186.8342,2186.8342,100.0,2.0,Member State,BTN,ND,2022
+BTN573,BTN31,Bhutan,BTN54,Samtse,NamgayChhoeling,5023.4277,5023.4277,100.0,2.0,Member State,BTN,ND,2022
+BTN574,BTN31,Bhutan,BTN54,Samtse,Norboogang,5358.7104,5358.7104,100.0,2.0,Member State,BTN,ND,2022
+BTN575,BTN31,Bhutan,BTN54,Samtse,Norgaygang,3509.976,3509.976,99.99999,2.0,Member State,BTN,ND,2022
+BTN576,BTN31,Bhutan,BTN54,Samtse,Pemaling,10531.548,10531.548,100.0,2.0,Member State,BTN,ND,2022
+BTN577,BTN31,Bhutan,BTN54,Samtse,Phuentshogpelri,10179.841,10179.841,100.0,2.0,Member State,BTN,ND,2022
+BTN578,BTN31,Bhutan,BTN54,Samtse,Samtse,6585.8022,6585.8022,100.00001,2.0,Member State,BTN,ND,2022
+BTN579,BTN31,Bhutan,BTN54,Samtse,Sangngagchhoeling,3601.6714,3601.6714,100.0,2.0,Member State,BTN,ND,2022
+BTN580,BTN31,Bhutan,BTN54,Samtse,Tading,6523.6367,6523.6367,100.0,2.0,Member State,BTN,ND,2022
+BTN581,BTN31,Bhutan,BTN54,Samtse,Tendruk,5765.0835,5765.0835,100.00001,2.0,Member State,BTN,ND,2022
+BTN582,BTN31,Bhutan,BTN54,Samtse,Trashichhoeling,3841.7634,3841.7634,100.0,2.0,Member State,BTN,ND,2022
+BTN583,BTN31,Bhutan,BTN54,Samtse,Ugyentse,1624.0375,1624.0375,100.0,2.0,Member State,BTN,ND,2022
+BTN584,BTN31,Bhutan,BTN54,Samtse,Yoeseltse,2987.6821,2987.6821,100.0,2.0,Member State,BTN,ND,2022
+BTN585,BTN31,Bhutan,BTN55,Sarpang,Chhudzom,2813.359,2813.359,99.99999,2.0,Member State,BTN,ND,2022
+BTN586,BTN31,Bhutan,BTN55,Sarpang,Chhuzangang,3122.3525,3122.3525,100.0,2.0,Member State,BTN,ND,2022
+BTN587,BTN31,Bhutan,BTN55,Sarpang,Dekiling,4828.8154,4828.8154,100.0,2.0,Member State,BTN,ND,2022
+BTN588,BTN31,Bhutan,BTN55,Sarpang,Gakiling,6921.8003,6921.8003,99.99999,2.0,Member State,BTN,ND,2022
+BTN589,BTN31,Bhutan,BTN55,Sarpang,Gelegphu,14979.998,14979.998,100.0,2.0,Member State,BTN,ND,2022
+BTN590,BTN31,Bhutan,BTN55,Sarpang,Jigmechoeling,4409.4937,4409.4937,100.0,2.0,Member State,BTN,ND,2022
+BTN591,BTN31,Bhutan,BTN55,Sarpang,Samtenling,2734.6426,2734.6426,100.0,2.0,Member State,BTN,ND,2022
+BTN592,BTN31,Bhutan,BTN55,Sarpang,Senggey,1583.5867,1583.5867,100.0,2.0,Member State,BTN,ND,2022
+BTN593,BTN31,Bhutan,BTN55,Sarpang,Serzhong,2610.2778,2610.2778,100.0,2.0,Member State,BTN,ND,2022
+BTN594,BTN31,Bhutan,BTN55,Sarpang,Shompangkha,1433.5938,1433.5938,100.0,2.0,Member State,BTN,ND,2022
+BTN595,BTN31,Bhutan,BTN55,Sarpang,Tareythang,172.15123,172.15123,100.0,2.0,Member State,BTN,ND,2022
+BTN596,BTN31,Bhutan,BTN55,Sarpang,Umling,2125.3713,2125.3713,100.0,2.0,Member State,BTN,ND,2022
+BTN597,BTN31,Bhutan,BTN56,Thimphu,Chang,89441.33,89441.33,100.0,2.0,Member State,BTN,ND,2022
+BTN598,BTN31,Bhutan,BTN56,Thimphu,Darkarla,15859.664,15859.664,100.0,2.0,Member State,BTN,ND,2022
+BTN599,BTN31,Bhutan,BTN56,Thimphu,Genyen,1885.4027,1885.4027,100.0,2.0,Member State,BTN,ND,2022
+BTN600,BTN31,Bhutan,BTN56,Thimphu,Kawang,2463.254,2463.254,100.0,2.0,Member State,BTN,ND,2022
+BTN601,BTN31,Bhutan,BTN56,Thimphu,Lingzhi,518.6403,518.6403,100.0,2.0,Member State,BTN,ND,2022
+BTN602,BTN31,Bhutan,BTN56,Thimphu,Maedwang,12688.902,12688.902,100.0,2.0,Member State,BTN,ND,2022
+BTN603,BTN31,Bhutan,BTN56,Thimphu,Naro,396.8053,396.8053,100.0,2.0,Member State,BTN,ND,2022
+BTN604,BTN31,Bhutan,BTN56,Thimphu,Soe,207.96545,207.96545,100.0,2.0,Member State,BTN,ND,2022
+BTN605,BTN31,Bhutan,BTN57,Trashigang,Bartsham,2128.7886,2128.7886,100.0,2.0,Member State,BTN,ND,2022
+BTN606,BTN31,Bhutan,BTN57,Trashigang,Bidoong,1920.1813,1920.1813,100.0,2.0,Member State,BTN,ND,2022
+BTN607,BTN31,Bhutan,BTN57,Trashigang,Kanglung,8406.619,8406.619,100.0,2.0,Member State,BTN,ND,2022
+BTN608,BTN31,Bhutan,BTN57,Trashigang,Kangpar,2882.8057,2882.8057,100.0,2.0,Member State,BTN,ND,2022
+BTN609,BTN31,Bhutan,BTN57,Trashigang,Khaling,5858.7812,5858.7812,100.0,2.0,Member State,BTN,ND,2022
+BTN610,BTN31,Bhutan,BTN57,Trashigang,Lumang,6176.6704,6176.6704,100.0,2.0,Member State,BTN,ND,2022
+BTN611,BTN31,Bhutan,BTN57,Trashigang,Merag,2196.67,2196.67,100.0,2.0,Member State,BTN,ND,2022
+BTN612,BTN31,Bhutan,BTN57,Trashigang,Phongmed,2473.662,2473.662,100.0,2.0,Member State,BTN,ND,2022
+BTN613,BTN31,Bhutan,BTN57,Trashigang,Radhi,3364.311,3364.311,100.0,2.0,Member State,BTN,ND,2022
+BTN614,BTN31,Bhutan,BTN57,Trashigang,Sagteng,2576.3494,2576.3494,100.0,2.0,Member State,BTN,ND,2022
+BTN615,BTN31,Bhutan,BTN57,Trashigang,Samkhar,6555.6816,6555.6816,100.0,2.0,Member State,BTN,ND,2022
+BTN616,BTN31,Bhutan,BTN57,Trashigang,Shongphu,5908.443,5908.443,100.00001,2.0,Member State,BTN,ND,2022
+BTN617,BTN31,Bhutan,BTN57,Trashigang,Thrimshing,3106.8657,3106.8657,100.0,2.0,Member State,BTN,ND,2022
+BTN618,BTN31,Bhutan,BTN57,Trashigang,Udzorong,4214.8994,4214.8994,100.0,2.0,Member State,BTN,ND,2022
+BTN619,BTN31,Bhutan,BTN57,Trashigang,Yangnyer,3038.827,3038.827,100.0,2.0,Member State,BTN,ND,2022
+BTN620,BTN31,Bhutan,BTN58,Trashiyangtse,Boomdeling,1980.8477,1980.8477,100.0,2.0,Member State,BTN,ND,2022
+BTN621,BTN31,Bhutan,BTN58,Trashiyangtse,Jamkhar,1545.5449,1545.5449,100.00001,2.0,Member State,BTN,ND,2022
+BTN622,BTN31,Bhutan,BTN58,Trashiyangtse,Khamdang,3199.895,3199.895,100.0,2.0,Member State,BTN,ND,2022
+BTN623,BTN31,Bhutan,BTN58,Trashiyangtse,Ramjar,1461.981,1461.981,100.0,2.0,Member State,BTN,ND,2022
+BTN624,BTN31,Bhutan,BTN58,Trashiyangtse,Toedtsho,2163.7021,2163.7021,100.0,2.0,Member State,BTN,ND,2022
+BTN625,BTN31,Bhutan,BTN58,Trashiyangtse,Tongmajangsa,2160.9038,2160.9038,100.0,2.0,Member State,BTN,ND,2022
+BTN626,BTN31,Bhutan,BTN58,Trashiyangtse,Yalang,2668.3892,2668.3892,100.0,2.0,Member State,BTN,ND,2022
+BTN627,BTN31,Bhutan,BTN58,Trashiyangtse,Yangtse,4858.464,4858.464,100.0,2.0,Member State,BTN,ND,2022
+BTN628,BTN31,Bhutan,BTN59,Trongsa,Draagteng,2819.4915,2819.4915,100.0,2.0,Member State,BTN,ND,2022
+BTN629,BTN31,Bhutan,BTN59,Trongsa,Korphu,1216.9027,1216.9027,100.0,2.0,Member State,BTN,ND,2022
+BTN630,BTN31,Bhutan,BTN59,Trongsa,Langthil,4206.549,4206.549,100.0,2.0,Member State,BTN,ND,2022
+BTN631,BTN31,Bhutan,BTN59,Trongsa,Nubi,5624.936,5624.936,100.00001,2.0,Member State,BTN,ND,2022
+BTN632,BTN31,Bhutan,BTN59,Trongsa,Tangsibji,3178.8538,3178.8538,100.0,2.0,Member State,BTN,ND,2022
+BTN633,BTN31,Bhutan,BTN60,Tsirang,Barshong,1012.5816,1012.5816,100.0,2.0,Member State,BTN,ND,2022
+BTN634,BTN31,Bhutan,BTN60,Tsirang,Doonglagang,1946.6799,1946.6799,100.0,2.0,Member State,BTN,ND,2022
+BTN635,BTN31,Bhutan,BTN60,Tsirang,Gosarling,1957.4225,1957.4225,100.0,2.0,Member State,BTN,ND,2022
+BTN636,BTN31,Bhutan,BTN60,Tsirang,Kilkhorthang,3702.1504,3702.1504,100.0,2.0,Member State,BTN,ND,2022
+BTN637,BTN31,Bhutan,BTN60,Tsirang,Mendrelgang,1651.229,1651.229,100.0,2.0,Member State,BTN,ND,2022
+BTN638,BTN31,Bhutan,BTN60,Tsirang,Patshaling,2084.2493,2084.2493,100.0,2.0,Member State,BTN,ND,2022
+BTN639,BTN31,Bhutan,BTN60,Tsirang,Phungtenchhu,1272.5687,1272.5687,100.0,2.0,Member State,BTN,ND,2022
+BTN640,BTN31,Bhutan,BTN60,Tsirang,Rangthangling,2149.22,2149.22,100.0,2.0,Member State,BTN,ND,2022
+BTN641,BTN31,Bhutan,BTN60,Tsirang,Semjong,1218.5269,1218.5269,100.0,2.0,Member State,BTN,ND,2022
+BTN642,BTN31,Bhutan,BTN60,Tsirang,Sergithang,1486.306,1486.306,100.00001,2.0,Member State,BTN,ND,2022
+BTN643,BTN31,Bhutan,BTN60,Tsirang,Tsholingkhar,1699.7788,1699.7788,100.0,2.0,Member State,BTN,ND,2022
+BTN644,BTN31,Bhutan,BTN60,Tsirang,Tsirangtoed,2862.9675,2862.9675,100.0,2.0,Member State,BTN,ND,2022
+BTN645,BTN31,Bhutan,BTN61,Wangduephodrang,Athang,1832.2366,1832.2366,100.0,2.0,Member State,BTN,ND,2022
+BTN646,BTN31,Bhutan,BTN61,Wangduephodrang,Bjednag,3540.3015,3540.3015,100.0,2.0,Member State,BTN,ND,2022
+BTN647,BTN31,Bhutan,BTN61,Wangduephodrang,Dangchhu,1656.7654,1656.7654,99.99999,2.0,Member State,BTN,ND,2022
+BTN648,BTN31,Bhutan,BTN61,Wangduephodrang,Darkar,1984.7451,1984.7451,100.0,2.0,Member State,BTN,ND,2022
+BTN649,BTN31,Bhutan,BTN61,Wangduephodrang,Gangteng,2205.0898,2205.0898,100.0,2.0,Member State,BTN,ND,2022
+BTN650,BTN31,Bhutan,BTN61,Wangduephodrang,GaseTshogongm,4483.356,4483.356,100.0,2.0,Member State,BTN,ND,2022
+BTN651,BTN31,Bhutan,BTN61,Wangduephodrang,GaseTshowogm,3662.4673,3662.4673,100.0,2.0,Member State,BTN,ND,2022
+BTN652,BTN31,Bhutan,BTN61,Wangduephodrang,Kazhi,1671.8484,1671.8484,100.0,2.0,Member State,BTN,ND,2022
+BTN653,BTN31,Bhutan,BTN61,Wangduephodrang,Nahi,3521.4485,3521.4485,100.0,2.0,Member State,BTN,ND,2022
+BTN654,BTN31,Bhutan,BTN61,Wangduephodrang,Nyishog,2532.2917,2532.2917,100.0,2.0,Member State,BTN,ND,2022
+BTN655,BTN31,Bhutan,BTN61,Wangduephodrang,Phangyuel,2662.792,2662.792,99.99999,2.0,Member State,BTN,ND,2022
+BTN656,BTN31,Bhutan,BTN61,Wangduephodrang,Phobji,2842.8672,2842.8672,100.0,2.0,Member State,BTN,ND,2022
+BTN657,BTN31,Bhutan,BTN61,Wangduephodrang,Ruebisa,6419.527,6419.527,100.0,2.0,Member State,BTN,ND,2022
+BTN658,BTN31,Bhutan,BTN61,Wangduephodrang,Saephu,2306.6338,2306.6338,100.0,2.0,Member State,BTN,ND,2022
+BTN659,BTN31,Bhutan,BTN61,Wangduephodrang,Thedtsho,5777.284,5777.284,100.0,2.0,Member State,BTN,ND,2022
+BTN660,BTN31,Bhutan,BTN62,Zhemgang,Bardo,2394.8945,2394.8945,100.0,2.0,Member State,BTN,ND,2022
+BTN661,BTN31,Bhutan,BTN62,Zhemgang,Bjoka,1197.6963,1197.6963,100.0,2.0,Member State,BTN,ND,2022
+BTN662,BTN31,Bhutan,BTN62,Zhemgang,Goshing,1810.3768,1810.3768,100.0,2.0,Member State,BTN,ND,2022
+BTN663,BTN31,Bhutan,BTN62,Zhemgang,Nangkor,3342.5693,3342.5693,100.0,2.0,Member State,BTN,ND,2022
+BTN664,BTN31,Bhutan,BTN62,Zhemgang,Ngangla,2855.5771,2855.5771,100.0,2.0,Member State,BTN,ND,2022
+BTN665,BTN31,Bhutan,BTN62,Zhemgang,Phangkhar,1932.835,1932.835,100.0,2.0,Member State,BTN,ND,2022
+BTN666,BTN31,Bhutan,BTN62,Zhemgang,Shingkhar,1890.7971,1890.7971,100.0,2.0,Member State,BTN,ND,2022
+BTN667,BTN31,Bhutan,BTN62,Zhemgang,Trong,7379.7656,7379.7656,100.0,2.0,Member State,BTN,ND,2022
+DS38520,DS38520,Arunchal Pradesh,DS38520,Arunchal Pradesh,Arunchal Pradesh,1304944.5,1304707.5,99.98184,2.0,,,D,2022
+DS38521,DS38521,Disputed - India/Pakistan,DS38521,Disputed - India/Pakistan,Disputed - India/Pakistan,145.59169,145.59169,100.0,2.0,,,D,2022
+DS38522,DS38522,"Disputed Area, China-India-Nepal",DS38522,"Disputed Area, China-India-Nepal","Disputed Area, China-India-Nepal",29.271643,29.271643,100.0,2.0,,,D,2022
+DS38523,DS38523,Disputed Area - China-India,DS38523,Disputed Area - China-India,Disputed Area - China-India,2972.9045,2972.9045,100.00001,2.0,,,D,2022
+DS38524,DS38524,Disputed Area - China-India,DS38524,Disputed Area - China-India,Disputed Area - China-India,12376.678,12376.678,100.0,2.0,,,D,2022
+DS38525,DS38525,Disputed Area - China-India,DS38525,Disputed Area - China-India,Disputed Area - China-India,265.51868,265.51868,100.0,2.0,,,D,2022
+DS38526,DS38526,Disputed Area - China-India,DS38526,Disputed Area - China-India,Disputed Area - China-India,1000.0711,1000.0711,100.0,2.0,,,D,2022
+DS38527,DS38527,Disputed - India/Pakistan,DS38527,Disputed - India/Pakistan,Disputed - India/Pakistan,9.176121,9.176121,100.0,2.0,,,D,2022
+DS38528,DS38528,Disputed - India/Pakistan,DS38528,Disputed - India/Pakistan,Disputed - India/Pakistan,13.354193,13.354193,100.0,2.0,,,D,2022
+DS38529,DS38529,Disputed - India/Pakistan,DS38529,Disputed - India/Pakistan,Disputed - India/Pakistan,3683.923,3398.5833,92.254456,2.0,,,D,2022
+DS38530,DS38530,Disputed - India/Pakistan,DS38530,Disputed - India/Pakistan,Disputed - India/Pakistan,350.1033,95.50417,27.278854,2.0,,,D,2022
+IND1000,IND115,India,IND82,Madhya Pradesh,Rewa,2811874.8,2811874.8,100.00001,2.0,Member State,IND,ND,2022
+IND1001,IND115,India,IND82,Madhya Pradesh,Sagar,2812476.8,2812476.8,100.0,2.0,Member State,IND,ND,2022
+IND1002,IND115,India,IND82,Madhya Pradesh,Satna,2628425.8,2628425.8,100.0,2.0,Member State,IND,ND,2022
+IND1003,IND115,India,IND82,Madhya Pradesh,Sehore,1592336.6,1592336.6,100.0,2.0,Member State,IND,ND,2022
+IND1004,IND115,India,IND82,Madhya Pradesh,Seoni,1613345.5,1613345.5,100.0,2.0,Member State,IND,ND,2022
+IND1005,IND115,India,IND82,Madhya Pradesh,Shahdol,1076497.4,1076497.4,100.0,2.0,Member State,IND,ND,2022
+IND1006,IND115,India,IND82,Madhya Pradesh,Shajapur,1040820.75,1040820.75,100.0,2.0,Member State,IND,ND,2022
+IND1007,IND115,India,IND82,Madhya Pradesh,Sheopur,894956.8,894956.8,100.0,2.0,Member State,IND,ND,2022
+IND1008,IND115,India,IND82,Madhya Pradesh,Shivpuri,2058619.0,2058619.0,100.0,2.0,Member State,IND,ND,2022
+IND1009,IND115,India,IND82,Madhya Pradesh,Sidhi,1302067.4,1302067.4,100.0,2.0,Member State,IND,ND,2022
+IND1010,IND115,India,IND82,Madhya Pradesh,Singrauli,1565114.4,1565114.4,100.0,2.0,Member State,IND,ND,2022
+IND1011,IND115,India,IND82,Madhya Pradesh,Tikamgarh,1710181.5,1710181.5,100.0,2.0,Member State,IND,ND,2022
+IND1012,IND115,India,IND82,Madhya Pradesh,Ujjain,2275756.2,2275756.2,100.0,2.0,Member State,IND,ND,2022
+IND1013,IND115,India,IND82,Madhya Pradesh,Umaria,855484.5,855484.5,100.0,2.0,Member State,IND,ND,2022
+IND1014,IND115,India,IND82,Madhya Pradesh,Vidisha,1719180.0,1719180.0,100.0,2.0,Member State,IND,ND,2022
+IND1015,IND115,India,IND82,Madhya Pradesh,West Nimar,2208338.2,2208338.2,100.0,2.0,Member State,IND,ND,2022
+IND1016,IND115,India,IND83,Maharashtra,Ahmednagar,5140650.0,5140650.0,100.0,2.0,Member State,IND,ND,2022
+IND1017,IND115,India,IND83,Maharashtra,Akola,2041846.2,2041846.2,100.0,2.0,Member State,IND,ND,2022
+IND1018,IND115,India,IND83,Maharashtra,Amravati,3210117.8,3210117.8,100.0,2.0,Member State,IND,ND,2022
+IND1019,IND115,India,IND83,Maharashtra,Aurangabad,4546405.0,4546405.0,100.0,2.0,Member State,IND,ND,2022
+IND1020,IND115,India,IND83,Maharashtra,Bhandara,1137079.6,1137079.6,100.0,2.0,Member State,IND,ND,2022
+IND1021,IND115,India,IND83,Maharashtra,Bid,3049455.0,3049455.0,100.0,2.0,Member State,IND,ND,2022
+IND1022,IND115,India,IND83,Maharashtra,Buldhana,2953365.8,2953365.8,100.0,2.0,Member State,IND,ND,2022
+IND1023,IND115,India,IND83,Maharashtra,Chandrapur,2361502.0,2361502.0,100.0,2.0,Member State,IND,ND,2022
+IND1024,IND115,India,IND83,Maharashtra,Dhule,2471426.2,2471426.2,100.0,2.0,Member State,IND,ND,2022
+IND1025,IND115,India,IND83,Maharashtra,Gadchiroli,1189451.6,1189451.6,100.0,2.0,Member State,IND,ND,2022
+IND1026,IND115,India,IND83,Maharashtra,Gondiya,1594247.4,1594247.4,100.0,2.0,Member State,IND,ND,2022
+IND1027,IND115,India,IND83,Maharashtra,Hingoli,1425225.9,1425225.9,100.0,2.0,Member State,IND,ND,2022
+IND1028,IND115,India,IND83,Maharashtra,Jalgaon,4791611.0,4791611.0,100.0,2.0,Member State,IND,ND,2022
+IND1029,IND115,India,IND83,Maharashtra,Jalna,2343624.0,2343624.0,100.0,2.0,Member State,IND,ND,2022
+IND1030,IND115,India,IND83,Maharashtra,Kolhapur,3982219.2,3982219.2,100.0,2.0,Member State,IND,ND,2022
+IND1031,IND115,India,IND83,Maharashtra,Latur,2811853.0,2811853.0,100.00001,2.0,Member State,IND,ND,2022
+IND1032,IND115,India,IND83,Maharashtra,Mumbai City,2206710.5,2206710.5,100.0,2.0,Member State,IND,ND,2022
+IND1033,IND115,India,IND83,Maharashtra,Mumbai Suburban,10448150.0,10448150.0,100.0,2.0,Member State,IND,ND,2022
+IND1034,IND115,India,IND83,Maharashtra,Nagpur,5274616.5,5274616.5,100.0,2.0,Member State,IND,ND,2022
+IND1035,IND115,India,IND83,Maharashtra,Nanded,3881113.0,3881113.0,100.0,2.0,Member State,IND,ND,2022
+IND1036,IND115,India,IND83,Maharashtra,Nandurbar,2055555.1,2055555.1,100.0,2.0,Member State,IND,ND,2022
+IND1037,IND115,India,IND83,Maharashtra,Nashik,7339901.5,7339901.5,100.0,2.0,Member State,IND,ND,2022
+IND1038,IND115,India,IND83,Maharashtra,Osmanabad,1920438.8,1920438.8,100.0,2.0,Member State,IND,ND,2022
+IND1039,IND115,India,IND83,Maharashtra,Palghar,3789966.0,3789966.0,100.0,2.0,Member State,IND,ND,2022
+IND1040,IND115,India,IND83,Maharashtra,Parbhani,2083101.8,2083101.8,100.0,2.0,Member State,IND,ND,2022
+IND1041,IND115,India,IND83,Maharashtra,Pune,12037488.0,12037488.0,100.00001,2.0,Member State,IND,ND,2022
+IND1042,IND115,India,IND83,Maharashtra,Raigarh,3042424.2,3042424.2,100.0,2.0,Member State,IND,ND,2022
+IND1043,IND115,India,IND83,Maharashtra,Ratnagiri,1513074.1,1513074.1,100.0,2.0,Member State,IND,ND,2022
+IND1044,IND115,India,IND83,Maharashtra,Sangli,3263958.5,3263958.5,100.0,2.0,Member State,IND,ND,2022
+IND1045,IND115,India,IND83,Maharashtra,Satara,3161694.5,3161694.5,100.0,2.0,Member State,IND,ND,2022
+IND1046,IND115,India,IND83,Maharashtra,Sindhudurg,803561.6,803561.6,100.0,2.0,Member State,IND,ND,2022
+IND1047,IND115,India,IND83,Maharashtra,Solapur,4845047.0,4845047.0,100.0,2.0,Member State,IND,ND,2022
+IND1048,IND115,India,IND83,Maharashtra,Thane,9880159.0,9880159.0,100.0,2.0,Member State,IND,ND,2022
+IND1049,IND115,India,IND83,Maharashtra,Wardha,1372617.2,1372617.2,100.0,2.0,Member State,IND,ND,2022
+IND1050,IND115,India,IND83,Maharashtra,Washim,1371486.9,1371486.9,100.0,2.0,Member State,IND,ND,2022
+IND1051,IND115,India,IND83,Maharashtra,Yavatmal,3132465.8,3132465.8,99.99999,2.0,Member State,IND,ND,2022
+IND1052,IND115,India,IND84,Manipur,Bishnupur,300548.6,300548.6,100.0,2.0,Member State,IND,ND,2022
+IND1053,IND115,India,IND84,Manipur,Chandel,125595.336,125595.336,100.0,2.0,Member State,IND,ND,2022
+IND1054,IND115,India,IND84,Manipur,Churachandpur,258885.48,258885.48,100.0,2.0,Member State,IND,ND,2022
+IND1055,IND115,India,IND84,Manipur,East Imphal,433395.1,433395.1,100.0,2.0,Member State,IND,ND,2022
+IND1056,IND115,India,IND84,Manipur,Jiribam,52453.11,52453.11,100.0,2.0,Member State,IND,ND,2022
+IND1057,IND115,India,IND84,Manipur,Kakching,174871.73,174871.73,100.0,2.0,Member State,IND,ND,2022
+IND1058,IND115,India,IND84,Manipur,Kamjong,61647.6,61647.6,100.0,2.0,Member State,IND,ND,2022
+IND1059,IND115,India,IND84,Manipur,Kangpokpi,274317.03,274317.03,100.0,2.0,Member State,IND,ND,2022
+IND1060,IND115,India,IND84,Manipur,Noney,58690.74,58690.74,100.0,2.0,Member State,IND,ND,2022
+IND1061,IND115,India,IND84,Manipur,Pherzawl,54610.6,54610.6,100.0,2.0,Member State,IND,ND,2022
+IND1062,IND115,India,IND84,Manipur,Senapati,464121.5,464121.5,100.00001,2.0,Member State,IND,ND,2022
+IND1063,IND115,India,IND84,Manipur,Tamenglong,139470.83,139470.83,100.0,2.0,Member State,IND,ND,2022
+IND1064,IND115,India,IND84,Manipur,Tengnoupal,78269.266,78269.266,100.0,2.0,Member State,IND,ND,2022
+IND1065,IND115,India,IND84,Manipur,Thoubal,318278.56,318278.56,100.0,2.0,Member State,IND,ND,2022
+IND1066,IND115,India,IND84,Manipur,Ukhrul,179237.34,179237.34,100.0,2.0,Member State,IND,ND,2022
+IND1067,IND115,India,IND84,Manipur,West Imphal,601227.94,601227.94,100.0,2.0,Member State,IND,ND,2022
+IND1068,IND115,India,IND85,Meghalaya,East Garo Hills,188868.39,188868.39,100.00001,2.0,Member State,IND,ND,2022
+IND1069,IND115,India,IND85,Meghalaya,East Jaintia Hills,158220.52,158220.52,100.0,2.0,Member State,IND,ND,2022
+IND1070,IND115,India,IND85,Meghalaya,East Khasi Hills,1036880.6,1036880.6,100.0,2.0,Member State,IND,ND,2022
+IND1071,IND115,India,IND85,Meghalaya,North Garo Hills,190081.22,190081.22,100.0,2.0,Member State,IND,ND,2022
+IND1072,IND115,India,IND85,Meghalaya,Ri-Bhoi,399545.8,399545.8,100.0,2.0,Member State,IND,ND,2022
+IND1073,IND115,India,IND85,Meghalaya,South Garo Hills,212034.44,212034.44,100.0,2.0,Member State,IND,ND,2022
+IND1074,IND115,India,IND85,Meghalaya,South West Garo Hills,179443.81,179443.81,100.00001,2.0,Member State,IND,ND,2022
+IND1075,IND115,India,IND85,Meghalaya,South West Khasi Hills,140790.23,140790.23,100.0,2.0,Member State,IND,ND,2022
+IND1076,IND115,India,IND85,Meghalaya,West Garo Hills,717261.6,717261.6,100.0,2.0,Member State,IND,ND,2022
+IND1077,IND115,India,IND85,Meghalaya,West Jaintia Hills,384055.3,384055.3,100.0,2.0,Member State,IND,ND,2022
+IND1078,IND115,India,IND85,Meghalaya,West Khasi Hills,341997.94,341997.94,99.99999,2.0,Member State,IND,ND,2022
+IND1079,IND115,India,IND86,Mizoram,Aizawl,488116.94,488116.94,100.0,2.0,Member State,IND,ND,2022
+IND1080,IND115,India,IND86,Mizoram,Champhai,136731.53,136731.53,100.0,2.0,Member State,IND,ND,2022
+IND1081,IND115,India,IND86,Mizoram,Kolasib,125753.15,125753.15,100.0,2.0,Member State,IND,ND,2022
+IND1082,IND115,India,IND86,Mizoram,Lawngtlai,152849.95,152849.95,100.0,2.0,Member State,IND,ND,2022
+IND1083,IND115,India,IND86,Mizoram,Lunglei,194716.55,194716.55,100.0,2.0,Member State,IND,ND,2022
+IND1084,IND115,India,IND86,Mizoram,Mamit,140113.34,140113.34,100.0,2.0,Member State,IND,ND,2022
+IND1085,IND115,India,IND86,Mizoram,Saiha,65431.57,65431.57,100.0,2.0,Member State,IND,ND,2022
+IND1086,IND115,India,IND86,Mizoram,Serchhip,61526.734,61526.734,100.0,2.0,Member State,IND,ND,2022
+IND1087,IND115,India,IND87,Nagaland,Dimapur,517804.97,517804.97,100.0,2.0,Member State,IND,ND,2022
+IND1088,IND115,India,IND87,Nagaland,Kiphire,54901.61,54901.61,100.0,2.0,Member State,IND,ND,2022
+IND1089,IND115,India,IND87,Nagaland,Kohima,312236.28,312236.28,100.0,2.0,Member State,IND,ND,2022
+IND1090,IND115,India,IND87,Nagaland,Longleng,29818.832,29818.832,100.0,2.0,Member State,IND,ND,2022
+IND1091,IND115,India,IND87,Nagaland,Mokokchung,171431.77,171431.77,100.0,2.0,Member State,IND,ND,2022
+IND1092,IND115,India,IND87,Nagaland,Mon,228458.48,228458.48,100.0,2.0,Member State,IND,ND,2022
+IND1093,IND115,India,IND87,Nagaland,Peren,96512.75,96512.75,100.0,2.0,Member State,IND,ND,2022
+IND1094,IND115,India,IND87,Nagaland,Phek,165307.1,165307.1,100.0,2.0,Member State,IND,ND,2022
+IND1095,IND115,India,IND87,Nagaland,Tuensang,199460.75,199460.75,100.00001,2.0,Member State,IND,ND,2022
+IND1096,IND115,India,IND87,Nagaland,Wokha,165894.28,165894.28,100.0,2.0,Member State,IND,ND,2022
+IND1097,IND115,India,IND87,Nagaland,Zunheboto,135455.33,135455.33,100.0,2.0,Member State,IND,ND,2022
+IND1098,IND115,India,IND88,Odisha,Angul,1401278.0,1401278.0,100.00001,2.0,Member State,IND,ND,2022
+IND1099,IND115,India,IND88,Odisha,Baleshwar,2503002.0,2503002.0,100.0,2.0,Member State,IND,ND,2022
+IND1100,IND115,India,IND88,Odisha,Baragarh,1572010.9,1572010.9,100.0,2.0,Member State,IND,ND,2022
+IND1101,IND115,India,IND88,Odisha,Bhadrak,1625038.4,1625038.4,100.0,2.0,Member State,IND,ND,2022
+IND1102,IND115,India,IND88,Odisha,Bolangir,2038919.0,2038919.0,100.0,2.0,Member State,IND,ND,2022
+IND1103,IND115,India,IND88,Odisha,Boudh,523635.75,523635.75,100.0,2.0,Member State,IND,ND,2022
+IND1104,IND115,India,IND88,Odisha,Cuttack,2914233.8,2914233.8,99.99999,2.0,Member State,IND,ND,2022
+IND1105,IND115,India,IND88,Odisha,Deogarh,352320.03,352320.03,100.0,2.0,Member State,IND,ND,2022
+IND1106,IND115,India,IND88,Odisha,Dhenkanal,1394663.1,1394663.1,100.00001,2.0,Member State,IND,ND,2022
+IND1107,IND115,India,IND88,Odisha,Gajapati,637946.5,637946.5,100.0,2.0,Member State,IND,ND,2022
+IND1108,IND115,India,IND88,Odisha,Ganjam,3927093.5,3927093.5,100.0,2.0,Member State,IND,ND,2022
+IND1109,IND115,India,IND88,Odisha,Jagatsinghpur,1266162.2,1266162.2,100.0,2.0,Member State,IND,ND,2022
+IND1110,IND115,India,IND88,Odisha,Jajpur,2053337.8,2053337.8,100.0,2.0,Member State,IND,ND,2022
+IND1111,IND115,India,IND88,Odisha,Jharsuguda,623922.2,623922.2,100.0,2.0,Member State,IND,ND,2022
+IND1112,IND115,India,IND88,Odisha,Kalahandi,1876321.0,1876321.0,100.0,2.0,Member State,IND,ND,2022
+IND1113,IND115,India,IND88,Odisha,Kandhamal,835485.44,835485.44,100.0,2.0,Member State,IND,ND,2022
+IND1114,IND115,India,IND88,Odisha,Kendrapara,1689732.2,1689732.2,100.00001,2.0,Member State,IND,ND,2022
+IND1115,IND115,India,IND88,Odisha,Keonjhar,2125406.5,2125406.5,100.0,2.0,Member State,IND,ND,2022
+IND1116,IND115,India,IND88,Odisha,Khordha,2587888.8,2587888.8,100.0,2.0,Member State,IND,ND,2022
+IND1117,IND115,India,IND88,Odisha,Koraput,1579797.8,1579797.8,100.0,2.0,Member State,IND,ND,2022
+IND1118,IND115,India,IND88,Odisha,Malkangiri,762024.25,762024.25,100.0,2.0,Member State,IND,ND,2022
+IND1119,IND115,India,IND88,Odisha,Mayurbhanj,2912608.2,2912608.2,100.0,2.0,Member State,IND,ND,2022
+IND1120,IND115,India,IND88,Odisha,Nabarangpur,1433025.8,1433025.8,100.0,2.0,Member State,IND,ND,2022
+IND1121,IND115,India,IND88,Odisha,Nayagarh,1015473.1,1015473.1,100.0,2.0,Member State,IND,ND,2022
+IND1122,IND115,India,IND88,Odisha,Nuapada,705359.56,705359.56,100.00001,2.0,Member State,IND,ND,2022
+IND1123,IND115,India,IND88,Odisha,Puri,1844890.1,1844890.1,100.0,2.0,Member State,IND,ND,2022
+IND1124,IND115,India,IND88,Odisha,Rayagada,1136495.4,1136495.4,100.0,2.0,Member State,IND,ND,2022
+IND1125,IND115,India,IND88,Odisha,Sambalpur,1273288.0,1273288.0,100.0,2.0,Member State,IND,ND,2022
+IND1126,IND115,India,IND88,Odisha,Sonepur,668747.56,668747.56,100.0,2.0,Member State,IND,ND,2022
+IND1127,IND115,India,IND88,Odisha,Sundargarh,2374738.8,2374738.8,100.0,2.0,Member State,IND,ND,2022
+IND1128,IND115,India,IND89,Puducherry,Karaikal,219824.7,219824.7,100.0,2.0,Member State,IND,ND,2022
+IND1129,IND115,India,IND89,Puducherry,Mahe,34933.13,34933.13,100.0,2.0,Member State,IND,ND,2022
+IND1130,IND115,India,IND89,Puducherry,Pondicherry,1096523.5,1096523.5,100.0,2.0,Member State,IND,ND,2022
+IND1131,IND115,India,IND89,Puducherry,Yanam,32305.51,32305.51,100.0,2.0,Member State,IND,ND,2022
+IND1132,IND115,India,IND90,Punjab,Amritsar,2833217.8,2833217.8,99.99999,2.0,Member State,IND,ND,2022
+IND1133,IND115,India,IND90,Punjab,Barnala,691703.5,691703.5,100.0,2.0,Member State,IND,ND,2022
+IND1134,IND115,India,IND90,Punjab,Bathinda,1703440.6,1703440.6,100.0,2.0,Member State,IND,ND,2022
+IND1135,IND115,India,IND90,Punjab,Faridkot,660140.56,660140.56,100.0,2.0,Member State,IND,ND,2022
+IND1136,IND115,India,IND90,Punjab,Fatehgarh Sahib,635099.4,635099.4,100.0,2.0,Member State,IND,ND,2022
+IND1137,IND115,India,IND90,Punjab,Fazilka,1154607.0,1154607.0,100.0,2.0,Member State,IND,ND,2022
+IND1138,IND115,India,IND90,Punjab,Firozpur,1068979.8,1068979.8,100.0,2.0,Member State,IND,ND,2022
+IND1139,IND115,India,IND90,Punjab,Gurdaspur,1776529.8,1776529.8,100.0,2.0,Member State,IND,ND,2022
+IND1140,IND115,India,IND90,Punjab,Hoshiarpur,1753823.1,1753823.1,100.00001,2.0,Member State,IND,ND,2022
+IND1141,IND115,India,IND90,Punjab,Jalandhar,2461852.0,2461852.0,100.0,2.0,Member State,IND,ND,2022
+IND1142,IND115,India,IND90,Punjab,Kapurthala,864324.9,864324.9,100.0,2.0,Member State,IND,ND,2022
+IND1143,IND115,India,IND90,Punjab,Ludhiana,3995787.0,3995787.0,100.0,2.0,Member State,IND,ND,2022
+IND1144,IND115,India,IND90,Punjab,Mansa,745556.56,745556.56,100.0,2.0,Member State,IND,ND,2022
+IND1145,IND115,India,IND90,Punjab,Moga,1032923.56,1032923.56,100.0,2.0,Member State,IND,ND,2022
+IND1146,IND115,India,IND90,Punjab,Mohali,1705964.4,1705964.4,100.0,2.0,Member State,IND,ND,2022
+IND1147,IND115,India,IND90,Punjab,Muktsar,1157361.9,1157361.9,100.0,2.0,Member State,IND,ND,2022
+IND1148,IND115,India,IND90,Punjab,Nawan Shehar,638850.4,638850.4,100.0,2.0,Member State,IND,ND,2022
+IND1149,IND115,India,IND90,Punjab,Pathankot,718669.2,718669.2,100.0,2.0,Member State,IND,ND,2022
+IND1150,IND115,India,IND90,Punjab,Patiala,2285361.0,2285361.0,100.0,2.0,Member State,IND,ND,2022
+IND1151,IND115,India,IND90,Punjab,Rupnagar,725329.56,725329.56,100.00001,2.0,Member State,IND,ND,2022
+IND1152,IND115,India,IND90,Punjab,Sangrur,1847539.9,1847539.9,100.0,2.0,Member State,IND,ND,2022
+IND1153,IND115,India,IND90,Punjab,Tarn Taran,1285301.0,1285301.0,100.0,2.0,Member State,IND,ND,2022
+IND1154,IND115,India,IND91,Rajasthan,Ajmer,3001539.8,3001539.8,100.0,2.0,Member State,IND,ND,2022
+IND1155,IND115,India,IND91,Rajasthan,Alwar,4513332.0,4513332.0,100.0,2.0,Member State,IND,ND,2022
+IND1156,IND115,India,IND91,Rajasthan,Banswara,2243730.8,2243730.8,100.0,2.0,Member State,IND,ND,2022
+IND1157,IND115,India,IND91,Rajasthan,Baran,1458948.8,1458948.8,100.0,2.0,Member State,IND,ND,2022
+IND1158,IND115,India,IND91,Rajasthan,Barmer,3370665.8,3370665.8,99.99999,2.0,Member State,IND,ND,2022
+IND1159,IND115,India,IND91,Rajasthan,Bharatpur,2975045.0,2975045.0,100.00001,2.0,Member State,IND,ND,2022
+IND1160,IND115,India,IND91,Rajasthan,Bhilwara,2839204.5,2839204.5,100.0,2.0,Member State,IND,ND,2022
+IND1161,IND115,India,IND91,Rajasthan,Bikaner,3144674.2,3144674.2,100.0,2.0,Member State,IND,ND,2022
+IND1162,IND115,India,IND91,Rajasthan,Bundi,1332463.2,1332463.2,100.0,2.0,Member State,IND,ND,2022
+IND1163,IND115,India,IND91,Rajasthan,Chittorgarh,1844565.4,1844565.4,100.0,2.0,Member State,IND,ND,2022
+IND1164,IND115,India,IND91,Rajasthan,Churu,2222152.0,2222152.0,100.0,2.0,Member State,IND,ND,2022
+IND1165,IND115,India,IND91,Rajasthan,Dausa,2173677.2,2173677.2,100.0,2.0,Member State,IND,ND,2022
+IND1166,IND115,India,IND91,Rajasthan,Dholpur,1512719.6,1512719.6,100.0,2.0,Member State,IND,ND,2022
+IND1167,IND115,India,IND91,Rajasthan,Dungarpur,1682895.8,1682895.8,99.99999,2.0,Member State,IND,ND,2022
+IND1168,IND115,India,IND91,Rajasthan,Ganganagar,2176354.0,2176354.0,100.0,2.0,Member State,IND,ND,2022
+IND1169,IND115,India,IND91,Rajasthan,Hanumangarh,2011815.1,2011815.1,100.0,2.0,Member State,IND,ND,2022
+IND1170,IND115,India,IND91,Rajasthan,Jaipur,8235720.5,8235720.5,100.0,2.0,Member State,IND,ND,2022
+IND1171,IND115,India,IND91,Rajasthan,Jaisalmer,855481.5,855481.5,100.0,2.0,Member State,IND,ND,2022
+IND1172,IND115,India,IND91,Rajasthan,Jalore,2265070.2,2265070.2,100.0,2.0,Member State,IND,ND,2022
+IND1173,IND115,India,IND91,Rajasthan,Jhalawar,1677413.9,1677413.9,100.0,2.0,Member State,IND,ND,2022
+IND1174,IND115,India,IND91,Rajasthan,Jhunjhunun,2461164.8,2461164.8,100.0,2.0,Member State,IND,ND,2022
+IND1175,IND115,India,IND91,Rajasthan,Jodhpur,4649502.0,4649502.0,100.0,2.0,Member State,IND,ND,2022
+IND1176,IND115,India,IND91,Rajasthan,Karauli,1786398.2,1786398.2,100.0,2.0,Member State,IND,ND,2022
+IND1177,IND115,India,IND91,Rajasthan,Kota,2299254.8,2299254.8,100.0,2.0,Member State,IND,ND,2022
+IND1178,IND115,India,IND91,Rajasthan,Nagaur,3848207.5,3848207.5,100.0,2.0,Member State,IND,ND,2022
+IND1179,IND115,India,IND91,Rajasthan,Pali,2268488.8,2268488.8,100.0,2.0,Member State,IND,ND,2022
+IND1180,IND115,India,IND91,Rajasthan,Pratapgarh,1079437.1,1079437.1,100.0,2.0,Member State,IND,ND,2022
+IND1181,IND115,India,IND91,Rajasthan,Rajsamand,1361386.4,1361386.4,100.0,2.0,Member State,IND,ND,2022
+IND1182,IND115,India,IND91,Rajasthan,Sawai Madhopur,1521243.4,1521243.4,100.0,2.0,Member State,IND,ND,2022
+IND1183,IND115,India,IND91,Rajasthan,Sikar,3040879.5,3040879.5,99.99999,2.0,Member State,IND,ND,2022
+IND1184,IND115,India,IND91,Rajasthan,Sirohi,1271733.2,1271733.2,100.0,2.0,Member State,IND,ND,2022
+IND1185,IND115,India,IND91,Rajasthan,Tonk,1648453.9,1648453.9,100.0,2.0,Member State,IND,ND,2022
+IND1186,IND115,India,IND91,Rajasthan,Udaipur,3629356.8,3629356.8,100.0,2.0,Member State,IND,ND,2022
+IND1187,IND115,India,IND92,Sikkim,East Sikkim,337224.12,337224.12,100.0,2.0,Member State,IND,ND,2022
+IND1188,IND115,India,IND92,Sikkim,North Sikkim,45859.04,45859.04,100.0,2.0,Member State,IND,ND,2022
+IND1189,IND115,India,IND92,Sikkim,South Sikkim,164121.7,164121.7,100.0,2.0,Member State,IND,ND,2022
+IND1190,IND115,India,IND92,Sikkim,West Sikkim,133530.55,133530.55,100.0,2.0,Member State,IND,ND,2022
+IND1191,IND115,India,IND93,Tamil Nadu,Ariyalur,784282.75,784282.75,99.99999,2.0,Member State,IND,ND,2022
+IND1192,IND115,India,IND93,Tamil Nadu,Chennai,4177006.2,4177006.2,100.0,2.0,Member State,IND,ND,2022
+IND1193,IND115,India,IND93,Tamil Nadu,Coimbatore,4204621.5,4204621.5,100.0,2.0,Member State,IND,ND,2022
+IND1194,IND115,India,IND93,Tamil Nadu,Cuddalore,3007112.2,3007112.2,100.0,2.0,Member State,IND,ND,2022
+IND1195,IND115,India,IND93,Tamil Nadu,Dharmapuri,1785414.2,1785414.2,100.0,2.0,Member State,IND,ND,2022
+IND1196,IND115,India,IND93,Tamil Nadu,Dindigul,2470399.2,2470399.2,100.0,2.0,Member State,IND,ND,2022
+IND1197,IND115,India,IND93,Tamil Nadu,Erode,2413003.8,2413003.8,100.0,2.0,Member State,IND,ND,2022
+IND1198,IND115,India,IND93,Tamil Nadu,Kancheepuram,6156847.0,6156847.0,99.99999,2.0,Member State,IND,ND,2022
+IND1199,IND115,India,IND93,Tamil Nadu,Kanyakumari,2074057.4,2074057.4,100.0,2.0,Member State,IND,ND,2022
+IND1200,IND115,India,IND93,Tamil Nadu,Karur,1241017.0,1241017.0,100.0,2.0,Member State,IND,ND,2022
+IND1201,IND115,India,IND93,Tamil Nadu,Krishnagiri,2159389.0,2159389.0,100.0,2.0,Member State,IND,ND,2022
+IND1202,IND115,India,IND93,Tamil Nadu,Madurai,3408048.0,3408048.0,100.0,2.0,Member State,IND,ND,2022
+IND1203,IND115,India,IND93,Tamil Nadu,Nagapattinam,1811752.4,1811752.4,100.0,2.0,Member State,IND,ND,2022
+IND1204,IND115,India,IND93,Tamil Nadu,Namakkal,2041373.8,2041373.8,100.0,2.0,Member State,IND,ND,2022
+IND1205,IND115,India,IND93,Tamil Nadu,Nilgiris,712660.3,712660.3,100.0,2.0,Member State,IND,ND,2022
+IND1206,IND115,India,IND93,Tamil Nadu,Perambalur,602641.1,602641.1,100.0,2.0,Member State,IND,ND,2022
+IND1207,IND115,India,IND93,Tamil Nadu,Pudukkottai,1834210.8,1834210.8,100.0,2.0,Member State,IND,ND,2022
+IND1208,IND115,India,IND93,Tamil Nadu,Ramanathapuram,1537596.1,1537596.1,100.0,2.0,Member State,IND,ND,2022
+IND1209,IND115,India,IND93,Tamil Nadu,Salem,3965573.0,3965573.0,100.0,2.0,Member State,IND,ND,2022
+IND1210,IND115,India,IND93,Tamil Nadu,Sivaganga,1540840.5,1540840.5,100.0,2.0,Member State,IND,ND,2022
+IND1211,IND115,India,IND93,Tamil Nadu,Thanjavur,2515525.0,2515525.0,100.0,2.0,Member State,IND,ND,2022
+IND1212,IND115,India,IND93,Tamil Nadu,Theni,1412218.2,1412218.2,100.0,2.0,Member State,IND,ND,2022
+IND1213,IND115,India,IND93,Tamil Nadu,Thiruvallur,4868471.0,4868471.0,100.0,2.0,Member State,IND,ND,2022
+IND1214,IND115,India,IND93,Tamil Nadu,Thiruvarur,1418117.2,1418117.2,100.0,2.0,Member State,IND,ND,2022
+IND1215,IND115,India,IND93,Tamil Nadu,Thoothukudi,1815182.0,1815182.0,100.00001,2.0,Member State,IND,ND,2022
+IND1216,IND115,India,IND93,Tamil Nadu,Tiruchirappalli,3088743.2,3088743.2,100.0,2.0,Member State,IND,ND,2022
+IND1217,IND115,India,IND93,Tamil Nadu,Tirunelveli,3534780.0,3534780.0,100.00001,2.0,Member State,IND,ND,2022
+IND1218,IND115,India,IND93,Tamil Nadu,Tiruppur,3035009.8,3035009.8,99.99999,2.0,Member State,IND,ND,2022
+IND1219,IND115,India,IND93,Tamil Nadu,Tiruvannamalai,2926008.5,2926008.5,100.00001,2.0,Member State,IND,ND,2022
+IND1220,IND115,India,IND93,Tamil Nadu,Vellore,4274647.0,4274647.0,100.0,2.0,Member State,IND,ND,2022
+IND1221,IND115,India,IND93,Tamil Nadu,Villupuram,4091001.0,4091001.0,100.0,2.0,Member State,IND,ND,2022
+IND1222,IND115,India,IND93,Tamil Nadu,Virudhunagar,2122702.5,2122702.5,100.0,2.0,Member State,IND,ND,2022
+IND1223,IND115,India,IND94,Telangana,Adilabad,806796.56,806796.56,100.0,2.0,Member State,IND,ND,2022
+IND1224,IND115,India,IND94,Telangana,Bhadradri,1153766.6,1153766.6,100.0,2.0,Member State,IND,ND,2022
+IND1225,IND115,India,IND94,Telangana,Hyderabad,3203500.8,3203500.8,100.0,2.0,Member State,IND,ND,2022
+IND1226,IND115,India,IND94,Telangana,Jagtial,1069965.0,1069965.0,100.0,2.0,Member State,IND,ND,2022
+IND1227,IND115,India,IND94,Telangana,Jangaon,614199.1,614199.1,100.0,2.0,Member State,IND,ND,2022
+IND1228,IND115,India,IND94,Telangana,Jayashankar,738314.1,738314.1,100.00001,2.0,Member State,IND,ND,2022
+IND1229,IND115,India,IND94,Telangana,Jogulamba,681785.94,681785.94,100.0,2.0,Member State,IND,ND,2022
+IND1230,IND115,India,IND94,Telangana,Kamareddy,1056762.6,1056762.6,100.0,2.0,Member State,IND,ND,2022
+IND1231,IND115,India,IND94,Telangana,Karimnagar,1121349.6,1121349.6,100.0,2.0,Member State,IND,ND,2022
+IND1232,IND115,India,IND94,Telangana,Khammam,1531428.9,1531428.9,99.99999,2.0,Member State,IND,ND,2022
+IND1233,IND115,India,IND94,Telangana,Komaram Bheem,566114.25,566114.25,100.0,2.0,Member State,IND,ND,2022
+IND1234,IND115,India,IND94,Telangana,Mahabubabad,807284.56,807284.56,100.0,2.0,Member State,IND,ND,2022
+IND1235,IND115,India,IND94,Telangana,Mahbubnagar,1745914.2,1745914.2,100.0,2.0,Member State,IND,ND,2022
+IND1236,IND115,India,IND94,Telangana,Mancherial,754118.56,754118.56,100.0,2.0,Member State,IND,ND,2022
+IND1237,IND115,India,IND94,Telangana,Medak,866061.0,866061.0,99.99999,2.0,Member State,IND,ND,2022
+IND1238,IND115,India,IND94,Telangana,Medchal Malkajgiri,4028545.2,4028545.2,100.0,2.0,Member State,IND,ND,2022
+IND1239,IND115,India,IND94,Telangana,Nagarkurnool,984642.06,984642.06,100.0,2.0,Member State,IND,ND,2022
+IND1240,IND115,India,IND94,Telangana,Nalgonda,1803958.0,1803958.0,100.00001,2.0,Member State,IND,ND,2022
+IND1241,IND115,India,IND94,Telangana,Nirmal,749616.6,749616.6,100.0,2.0,Member State,IND,ND,2022
+IND1242,IND115,India,IND94,Telangana,Nizamabad,1727891.0,1727891.0,100.0,2.0,Member State,IND,ND,2022
+IND1243,IND115,India,IND94,Telangana,Peddapalle,922617.7,922617.7,100.0,2.0,Member State,IND,ND,2022
+IND1244,IND115,India,IND94,Telangana,Rajanna,589491.25,589491.25,100.0,2.0,Member State,IND,ND,2022
+IND1245,IND115,India,IND94,Telangana,Rangareddi,3757473.0,3757473.0,100.0,2.0,Member State,IND,ND,2022
+IND1246,IND115,India,IND94,Telangana,Sangareddy,1736888.9,1736888.9,99.99999,2.0,Member State,IND,ND,2022
+IND1247,IND115,India,IND94,Telangana,Siddipet,1106886.5,1106886.5,100.0,2.0,Member State,IND,ND,2022
+IND1248,IND115,India,IND94,Telangana,Suryapet,1155506.0,1155506.0,100.0,2.0,Member State,IND,ND,2022
+IND1249,IND115,India,IND94,Telangana,Vikarabad,1316092.1,1316092.1,100.0,2.0,Member State,IND,ND,2022
+IND1250,IND115,India,IND94,Telangana,Wanaparthy,681754.4,681754.4,100.0,2.0,Member State,IND,ND,2022
+IND1251,IND115,India,IND94,Telangana,Warangal Rural,806525.6,806525.6,100.0,2.0,Member State,IND,ND,2022
+IND1252,IND115,India,IND94,Telangana,Warangal Urban,1165955.1,1165955.1,100.0,2.0,Member State,IND,ND,2022
+IND1253,IND115,India,IND94,Telangana,Yadadri,771586.5,771586.5,100.0,2.0,Member State,IND,ND,2022
+IND1254,IND115,India,IND95,Tripura,Dhalai,452438.22,452438.22,99.99999,2.0,Member State,IND,ND,2022
+IND1255,IND115,India,IND95,Tripura,Gomati,563344.2,563344.2,100.0,2.0,Member State,IND,ND,2022
+IND1256,IND115,India,IND95,Tripura,Khowai,333644.8,333644.8,100.0,2.0,Member State,IND,ND,2022
+IND1257,IND115,India,IND95,Tripura,North Tripura,425010.25,425010.25,100.0,2.0,Member State,IND,ND,2022
+IND1258,IND115,India,IND95,Tripura,Sipahijala,578881.75,578881.75,100.0,2.0,Member State,IND,ND,2022
+IND1259,IND115,India,IND95,Tripura,South Tripura,499640.4,499640.4,100.0,2.0,Member State,IND,ND,2022
+IND1260,IND115,India,IND95,Tripura,Unakoti,379731.53,379731.53,100.0,2.0,Member State,IND,ND,2022
+IND1261,IND115,India,IND95,Tripura,West Tripura,1117266.1,1117266.1,100.0,2.0,Member State,IND,ND,2022
+IND1262,IND115,India,IND96,Uttar Pradesh,Agra,5316986.0,5316986.0,100.0,2.0,Member State,IND,ND,2022
+IND1263,IND115,India,IND96,Uttar Pradesh,Aligarh,4399740.5,4399740.5,100.0,2.0,Member State,IND,ND,2022
+IND1264,IND115,India,IND96,Uttar Pradesh,Allahabad,7146224.5,7146224.5,100.0,2.0,Member State,IND,ND,2022
+IND1265,IND115,India,IND96,Uttar Pradesh,Ambedkar Nagar,2940584.8,2940584.8,100.0,2.0,Member State,IND,ND,2022
+IND1266,IND115,India,IND96,Uttar Pradesh,Amethi,3153835.0,3153835.0,100.0,2.0,Member State,IND,ND,2022
+IND1267,IND115,India,IND96,Uttar Pradesh,Amroha,2214109.8,2214109.8,100.0,2.0,Member State,IND,ND,2022
+IND1268,IND115,India,IND96,Uttar Pradesh,Auraiya,1628346.0,1628346.0,99.99999,2.0,Member State,IND,ND,2022
+IND1269,IND115,India,IND96,Uttar Pradesh,Azamgarh,5204004.0,5204004.0,100.0,2.0,Member State,IND,ND,2022
+IND1270,IND115,India,IND96,Uttar Pradesh,Badaun,3681044.2,3681044.2,100.0,2.0,Member State,IND,ND,2022
+IND1271,IND115,India,IND96,Uttar Pradesh,Baghpat,1352366.9,1352366.9,100.0,2.0,Member State,IND,ND,2022
+IND1272,IND115,India,IND96,Uttar Pradesh,Bahraich,4200538.5,4200538.5,100.0,2.0,Member State,IND,ND,2022
+IND1273,IND115,India,IND96,Uttar Pradesh,Ballia,3711149.8,3711149.8,100.0,2.0,Member State,IND,ND,2022
+IND1274,IND115,India,IND96,Uttar Pradesh,Balrampur,2580177.5,2580177.5,100.0,2.0,Member State,IND,ND,2022
+IND1275,IND115,India,IND96,Uttar Pradesh,Banda,2084351.1,2084351.1,100.0,2.0,Member State,IND,ND,2022
+IND1276,IND115,India,IND96,Uttar Pradesh,Barabanki,3831422.0,3831422.0,100.0,2.0,Member State,IND,ND,2022
+IND1277,IND115,India,IND96,Uttar Pradesh,Bareilly,5370967.5,5370967.5,100.0,2.0,Member State,IND,ND,2022
+IND1278,IND115,India,IND96,Uttar Pradesh,Basti,2740338.0,2740338.0,100.0,2.0,Member State,IND,ND,2022
+IND1279,IND115,India,IND96,Uttar Pradesh,Bijnor,4336806.5,4336806.5,100.0,2.0,Member State,IND,ND,2022
+IND1280,IND115,India,IND96,Uttar Pradesh,Bulandshahr,4137842.0,4137842.0,100.0,2.0,Member State,IND,ND,2022
+IND1281,IND115,India,IND96,Uttar Pradesh,Chandauli,2187499.5,2187499.5,100.0,2.0,Member State,IND,ND,2022
+IND1282,IND115,India,IND96,Uttar Pradesh,Chitrakoot,1278075.6,1278075.6,100.0,2.0,Member State,IND,ND,2022
+IND1283,IND115,India,IND96,Uttar Pradesh,Deoria,3297516.0,3297516.0,100.00001,2.0,Member State,IND,ND,2022
+IND1284,IND115,India,IND96,Uttar Pradesh,Etah,2081633.0,2081633.0,100.0,2.0,Member State,IND,ND,2022
+IND1285,IND115,India,IND96,Uttar Pradesh,Etawah,1856293.6,1856293.6,100.0,2.0,Member State,IND,ND,2022
+IND1286,IND115,India,IND96,Uttar Pradesh,Faizabad,3112605.8,3112605.8,100.0,2.0,Member State,IND,ND,2022
+IND1287,IND115,India,IND96,Uttar Pradesh,Farrukhabad,2152046.5,2152046.5,100.0,2.0,Member State,IND,ND,2022
+IND1288,IND115,India,IND96,Uttar Pradesh,Fatehpur,3054723.2,3054723.2,100.0,2.0,Member State,IND,ND,2022
+IND1289,IND115,India,IND96,Uttar Pradesh,Firozabad,2960850.2,2960850.2,100.0,2.0,Member State,IND,ND,2022
+IND1290,IND115,India,IND96,Uttar Pradesh,Gautam Buddha Nagar,2595182.0,2595182.0,100.0,2.0,Member State,IND,ND,2022
+IND1291,IND115,India,IND96,Uttar Pradesh,Ghaziabad,4806699.5,4806699.5,100.0,2.0,Member State,IND,ND,2022
+IND1292,IND115,India,IND96,Uttar Pradesh,Ghazipur,4193763.2,4193763.2,100.0,2.0,Member State,IND,ND,2022
+IND1293,IND115,India,IND96,Uttar Pradesh,Gonda,4087554.8,4087554.8,100.0,2.0,Member State,IND,ND,2022
+IND1294,IND115,India,IND96,Uttar Pradesh,Gorakhpur,5086518.0,5086518.0,100.0,2.0,Member State,IND,ND,2022
+IND1295,IND115,India,IND96,Uttar Pradesh,Hamirpur,1257313.2,1257313.2,100.0,2.0,Member State,IND,ND,2022
+IND1296,IND115,India,IND96,Uttar Pradesh,Hapur,1839812.5,1839812.5,100.0,2.0,Member State,IND,ND,2022
+IND1297,IND115,India,IND96,Uttar Pradesh,Hardoi,4824749.0,4824749.0,100.0,2.0,Member State,IND,ND,2022
+IND1298,IND115,India,IND96,Uttar Pradesh,Hathras,1801167.8,1801167.8,99.99999,2.0,Member State,IND,ND,2022
+IND1299,IND115,India,IND96,Uttar Pradesh,Jalaun,1908452.1,1908452.1,100.0,2.0,Member State,IND,ND,2022
+IND1300,IND115,India,IND96,Uttar Pradesh,Jaunpur,5014347.5,5014347.5,100.0,2.0,Member State,IND,ND,2022
+IND1301,IND115,India,IND96,Uttar Pradesh,Jhansi,2200910.2,2200910.2,100.0,2.0,Member State,IND,ND,2022
+IND1302,IND115,India,IND96,Uttar Pradesh,Kannauj,1946458.6,1946458.6,100.0,2.0,Member State,IND,ND,2022
+IND1303,IND115,India,IND96,Uttar Pradesh,Kanpur,4968098.5,4968098.5,100.0,2.0,Member State,IND,ND,2022
+IND1304,IND115,India,IND96,Uttar Pradesh,Kanpur Dehat,2019717.1,2019717.1,100.0,2.0,Member State,IND,ND,2022
+IND1305,IND115,India,IND96,Uttar Pradesh,Kasganj,1643141.6,1643141.6,100.0,2.0,Member State,IND,ND,2022
+IND1306,IND115,India,IND96,Uttar Pradesh,Kaushambi,1978374.6,1978374.6,100.0,2.0,Member State,IND,ND,2022
+IND1307,IND115,India,IND96,Uttar Pradesh,Kushinagar,4330968.0,4330968.0,100.0,2.0,Member State,IND,ND,2022
+IND1308,IND115,India,IND96,Uttar Pradesh,Lakhimpur Kheri,4883893.5,4883893.5,100.0,2.0,Member State,IND,ND,2022
+IND1309,IND115,India,IND96,Uttar Pradesh,Lalitpur,1503944.6,1503944.6,100.0,2.0,Member State,IND,ND,2022
+IND1310,IND115,India,IND96,Uttar Pradesh,Lucknow,5822834.0,5822834.0,100.0,2.0,Member State,IND,ND,2022
+IND1311,IND115,India,IND96,Uttar Pradesh,Maharajganj,3400310.2,3400310.2,100.00001,2.0,Member State,IND,ND,2022
+IND1312,IND115,India,IND96,Uttar Pradesh,Mahoba,1079212.8,1079212.8,100.0,2.0,Member State,IND,ND,2022
+IND1313,IND115,India,IND96,Uttar Pradesh,Mainpuri,2211200.8,2211200.8,100.0,2.0,Member State,IND,ND,2022
+IND1314,IND115,India,IND96,Uttar Pradesh,Mathura,3084759.5,3084759.5,99.99999,2.0,Member State,IND,ND,2022
+IND1315,IND115,India,IND96,Uttar Pradesh,Maunathbhanjan,2521854.0,2521854.0,100.0,2.0,Member State,IND,ND,2022
+IND1316,IND115,India,IND96,Uttar Pradesh,Meerut,3897830.2,3897830.2,100.00001,2.0,Member State,IND,ND,2022
+IND1317,IND115,India,IND96,Uttar Pradesh,Mirzapur,3168021.8,3168021.8,100.0,2.0,Member State,IND,ND,2022
+IND1318,IND115,India,IND96,Uttar Pradesh,Moradabad,3723992.0,3723992.0,100.0,2.0,Member State,IND,ND,2022
+IND1319,IND115,India,IND96,Uttar Pradesh,Muzaffarnagar,3375162.2,3375162.2,100.0,2.0,Member State,IND,ND,2022
+IND1320,IND115,India,IND96,Uttar Pradesh,Pilibhit,2415034.5,2415034.5,100.0,2.0,Member State,IND,ND,2022
+IND1321,IND115,India,IND96,Uttar Pradesh,Pratapgarh,3880832.8,3880832.8,100.0,2.0,Member State,IND,ND,2022
+IND1322,IND115,India,IND96,Uttar Pradesh,Rae Bareli,2840329.0,2840329.0,100.0,2.0,Member State,IND,ND,2022
+IND1323,IND115,India,IND96,Uttar Pradesh,Rampur,2847035.5,2847035.5,100.0,2.0,Member State,IND,ND,2022
+IND1324,IND115,India,IND96,Uttar Pradesh,Saharanpur,4115338.0,4115338.0,100.0,2.0,Member State,IND,ND,2022
+IND1325,IND115,India,IND96,Uttar Pradesh,Sambhal,2836826.5,2836826.5,100.0,2.0,Member State,IND,ND,2022
+IND1326,IND115,India,IND96,Uttar Pradesh,Sant Kabir Nagar,1996321.1,1996321.1,100.0,2.0,Member State,IND,ND,2022
+IND1327,IND115,India,IND96,Uttar Pradesh,Sant Ravi Das Nagar,1800886.1,1800886.1,100.0,2.0,Member State,IND,ND,2022
+IND1328,IND115,India,IND96,Uttar Pradesh,Shahjahanpur,3550264.2,3550264.2,100.0,2.0,Member State,IND,ND,2022
+IND1329,IND115,India,IND96,Uttar Pradesh,Shamli,1380774.2,1380774.2,100.0,2.0,Member State,IND,ND,2022
+IND1330,IND115,India,IND96,Uttar Pradesh,Shravasti,1391697.0,1391697.0,100.0,2.0,Member State,IND,ND,2022
+IND1331,IND115,India,IND96,Uttar Pradesh,Siddharth Nagar,3384278.8,3384278.8,100.0,2.0,Member State,IND,ND,2022
+IND1332,IND115,India,IND96,Uttar Pradesh,Sitapur,5415991.0,5415991.0,100.0,2.0,Member State,IND,ND,2022
+IND1333,IND115,India,IND96,Uttar Pradesh,Sonbhadra,2259566.8,2259566.8,100.0,2.0,Member State,IND,ND,2022
+IND1334,IND115,India,IND96,Uttar Pradesh,Sultanpur,2513563.5,2513563.5,100.0,2.0,Member State,IND,ND,2022
+IND1335,IND115,India,IND96,Uttar Pradesh,Unnao,3624566.5,3624566.5,100.0,2.0,Member State,IND,ND,2022
+IND1336,IND115,India,IND96,Uttar Pradesh,Varanasi,4328615.0,4328615.0,100.0,2.0,Member State,IND,ND,2022
+IND1337,IND115,India,IND97,Uttarakhand,Almora,621623.0,621623.0,100.0,2.0,Member State,IND,ND,2022
+IND1338,IND115,India,IND97,Uttarakhand,Bageshwar,258092.66,258092.66,100.0,2.0,Member State,IND,ND,2022
+IND1339,IND115,India,IND97,Uttarakhand,Chamoli,428768.75,428768.75,100.0,2.0,Member State,IND,ND,2022
+IND1340,IND115,India,IND97,Uttarakhand,Champawat,296637.7,296637.7,100.0,2.0,Member State,IND,ND,2022
+IND1341,IND115,India,IND97,Uttarakhand,Dehradun,2157752.5,2157752.5,100.0,2.0,Member State,IND,ND,2022
+IND1342,IND115,India,IND97,Uttarakhand,Haridwar,2441168.0,2441168.0,100.0,2.0,Member State,IND,ND,2022
+IND1343,IND115,India,IND97,Uttarakhand,Nainital,1116712.1,1116712.1,100.0,2.0,Member State,IND,ND,2022
+IND1344,IND115,India,IND97,Uttarakhand,Pauri Garhwal,739714.7,739714.7,100.00001,2.0,Member State,IND,ND,2022
+IND1345,IND115,India,IND97,Uttarakhand,Pithoragarh,510064.8,510064.8,100.0,2.0,Member State,IND,ND,2022
+IND1346,IND115,India,IND97,Uttarakhand,Rudra Prayag,248929.95,248929.95,100.0,2.0,Member State,IND,ND,2022
+IND1347,IND115,India,IND97,Uttarakhand,Tehri Garhwal,671255.75,671255.75,100.0,2.0,Member State,IND,ND,2022
+IND1348,IND115,India,IND97,Uttarakhand,Udham Singh Nagar,2173406.8,2173406.8,100.0,2.0,Member State,IND,ND,2022
+IND1349,IND115,India,IND97,Uttarakhand,Uttarkashi,400463.78,400463.78,100.00001,2.0,Member State,IND,ND,2022
+IND1350,IND115,India,IND98,West Bengal,24 Parganas North,10666242.0,10666242.0,100.0,2.0,Member State,IND,ND,2022
+IND1351,IND115,India,IND98,West Bengal,24 Parganas South,12932960.0,12932960.0,100.0,2.0,Member State,IND,ND,2022
+IND1352,IND115,India,IND98,West Bengal,Alipurduar,1417362.8,1417362.8,100.0,2.0,Member State,IND,ND,2022
+IND1353,IND115,India,IND98,West Bengal,Bankura,3992973.2,3992973.2,100.0,2.0,Member State,IND,ND,2022
+IND1354,IND115,India,IND98,West Bengal,Birbhum,4115585.8,4115585.8,100.0,2.0,Member State,IND,ND,2022
+IND1355,IND115,India,IND98,West Bengal,Dakshin Dinajpur,1915727.2,1915727.2,100.0,2.0,Member State,IND,ND,2022
+IND1356,IND115,India,IND98,West Bengal,Darjeeling,1879490.6,1879490.6,100.0,2.0,Member State,IND,ND,2022
+IND1357,IND115,India,IND98,West Bengal,Hooghly,5639331.5,5639331.5,99.99999,2.0,Member State,IND,ND,2022
+IND1358,IND115,India,IND98,West Bengal,Howrah,4353989.5,4353989.5,100.0,2.0,Member State,IND,ND,2022
+IND1359,IND115,India,IND98,West Bengal,Jalpaiguri,2800140.2,2800140.2,100.0,2.0,Member State,IND,ND,2022
+IND1360,IND115,India,IND98,West Bengal,Jhargram,1251130.9,1251130.9,100.0,2.0,Member State,IND,ND,2022
+IND1361,IND115,India,IND98,West Bengal,Kalimpong,219164.05,219164.05,100.0,2.0,Member State,IND,ND,2022
+IND1362,IND115,India,IND98,West Bengal,Koch Bihar,3406037.5,3406037.5,100.0,2.0,Member State,IND,ND,2022
+IND1363,IND115,India,IND98,West Bengal,Kolkata,2915125.0,2915125.0,100.00001,2.0,Member State,IND,ND,2022
+IND1364,IND115,India,IND98,West Bengal,Malda,4273703.5,4273703.5,100.0,2.0,Member State,IND,ND,2022
+IND1365,IND115,India,IND98,West Bengal,Murshidabad,8407061.0,8407061.0,100.0,2.0,Member State,IND,ND,2022
+IND1366,IND115,India,IND98,West Bengal,Nadia,5517470.5,5517470.5,100.00001,2.0,Member State,IND,ND,2022
+IND1367,IND115,India,IND98,West Bengal,Paschim Barddhaman,3742170.5,3742170.5,100.0,2.0,Member State,IND,ND,2022
+IND1368,IND115,India,IND98,West Bengal,Paschim Medinipur,5538098.5,5538098.5,100.0,2.0,Member State,IND,ND,2022
+IND1369,IND115,India,IND98,West Bengal,Purba Barddhaman,4920846.0,4920846.0,100.0,2.0,Member State,IND,ND,2022
+IND1370,IND115,India,IND98,West Bengal,Purba Medinipur,5801071.5,5801071.5,100.0,2.0,Member State,IND,ND,2022
+IND1371,IND115,India,IND98,West Bengal,Purulia,3421839.5,3421839.5,99.99999,2.0,Member State,IND,ND,2022
+IND1372,IND115,India,IND98,West Bengal,Uttar Dinajpur,3338434.8,3338434.8,100.00001,2.0,Member State,IND,ND,2022
+IND668,IND115,India,IND63,Andaman and Nicobar Islands,Nicobar Islands,28818.695,28818.695,100.0,2.0,Member State,IND,ND,2022
+IND669,IND115,India,IND63,Andaman and Nicobar Islands,North and Middle Andaman,99932.7,99932.7,100.0,2.0,Member State,IND,ND,2022
+IND670,IND115,India,IND63,Andaman and Nicobar Islands,South Andaman,244003.25,244003.25,99.99999,2.0,Member State,IND,ND,2022
+IND671,IND115,India,IND64,Andhra Pradesh,Anantapur,4560914.5,4560914.5,100.0,2.0,Member State,IND,ND,2022
+IND672,IND115,India,IND64,Andhra Pradesh,Chittoor,4605818.0,4605818.0,100.0,2.0,Member State,IND,ND,2022
+IND673,IND115,India,IND64,Andhra Pradesh,Cuddapah,3177128.8,3177128.8,100.0,2.0,Member State,IND,ND,2022
+IND674,IND115,India,IND64,Andhra Pradesh,East Godavari,5549437.5,5549437.5,100.0,2.0,Member State,IND,ND,2022
+IND675,IND115,India,IND64,Andhra Pradesh,Guntur,5402102.0,5402102.0,99.99999,2.0,Member State,IND,ND,2022
+IND676,IND115,India,IND64,Andhra Pradesh,Krishna,4755025.5,4755025.5,100.0,2.0,Member State,IND,ND,2022
+IND677,IND115,India,IND64,Andhra Pradesh,Kurnool,4647256.5,4647256.5,100.0,2.0,Member State,IND,ND,2022
+IND678,IND115,India,IND64,Andhra Pradesh,Nellore,3286013.5,3286013.5,100.0,2.0,Member State,IND,ND,2022
+IND679,IND115,India,IND64,Andhra Pradesh,Prakasam,3750608.5,3750608.5,100.0,2.0,Member State,IND,ND,2022
+IND680,IND115,India,IND64,Andhra Pradesh,Srikakulam,2738253.5,2738253.5,100.0,2.0,Member State,IND,ND,2022
+IND681,IND115,India,IND64,Andhra Pradesh,Vishakhapatnam,4894646.5,4894646.5,100.0,2.0,Member State,IND,ND,2022
+IND682,IND115,India,IND64,Andhra Pradesh,Vizianagaram,2458194.2,2458194.2,100.0,2.0,Member State,IND,ND,2022
+IND683,IND115,India,IND64,Andhra Pradesh,West Godavari,4169555.8,4169555.8,100.0,2.0,Member State,IND,ND,2022
+IND684,IND115,India,IND65,Arunachal Pradesh,Anjaw,6902.3496,6902.3496,100.0,2.0,Member State,IND,ND,2022
+IND685,IND115,India,IND65,Arunachal Pradesh,Changlang,182130.22,182130.22,100.0,2.0,Member State,IND,ND,2022
+IND686,IND115,India,IND65,Arunachal Pradesh,East Siang,55536.953,55536.953,100.0,2.0,Member State,IND,ND,2022
+IND687,IND115,India,IND65,Arunachal Pradesh,Lohit,50886.746,50886.746,100.0,2.0,Member State,IND,ND,2022
+IND688,IND115,India,IND65,Arunachal Pradesh,Longding,60036.277,60036.277,99.99999,2.0,Member State,IND,ND,2022
+IND689,IND115,India,IND65,Arunachal Pradesh,Lower Dibang Valley,54291.71,54291.71,100.0,2.0,Member State,IND,ND,2022
+IND690,IND115,India,IND65,Arunachal Pradesh,Namsai,119355.68,119355.68,100.0,2.0,Member State,IND,ND,2022
+IND691,IND115,India,IND65,Arunachal Pradesh,Tirap,68480.89,68480.89,100.0,2.0,Member State,IND,ND,2022
+IND692,IND115,India,IND66,Assam,Baksa,1265799.4,1265799.4,100.0,2.0,Member State,IND,ND,2022
+IND693,IND115,India,IND66,Assam,Barpeta,1890863.2,1890863.2,100.0,2.0,Member State,IND,ND,2022
+IND694,IND115,India,IND66,Assam,Biswanath,646893.25,646893.25,100.0,2.0,Member State,IND,ND,2022
+IND695,IND115,India,IND66,Assam,Bongaigaon,802880.7,802880.7,100.00001,2.0,Member State,IND,ND,2022
+IND696,IND115,India,IND66,Assam,Cachar,2146091.5,2146091.5,100.0,2.0,Member State,IND,ND,2022
+IND697,IND115,India,IND66,Assam,Charaideo,499008.88,499008.88,100.0,2.0,Member State,IND,ND,2022
+IND698,IND115,India,IND66,Assam,Chirang,617470.7,617470.7,100.0,2.0,Member State,IND,ND,2022
+IND699,IND115,India,IND66,Assam,Darrang,1121320.5,1121320.5,100.0,2.0,Member State,IND,ND,2022
+IND700,IND115,India,IND66,Assam,Dhemaji,708434.0,708434.0,100.0,2.0,Member State,IND,ND,2022
+IND701,IND115,India,IND66,Assam,Dhubri,1392714.5,1392714.5,100.00001,2.0,Member State,IND,ND,2022
+IND702,IND115,India,IND66,Assam,Dibrugarh,1515296.9,1515296.9,99.99999,2.0,Member State,IND,ND,2022
+IND703,IND115,India,IND66,Assam,Dima Hasao,285909.1,285909.1,100.0,2.0,Member State,IND,ND,2022
+IND704,IND115,India,IND66,Assam,Goalpara,1063641.8,1063641.8,100.0,2.0,Member State,IND,ND,2022
+IND705,IND115,India,IND66,Assam,Golaghat,1314628.9,1314628.9,100.0,2.0,Member State,IND,ND,2022
+IND706,IND115,India,IND66,Assam,Hailakandi,767105.44,767105.44,100.0,2.0,Member State,IND,ND,2022
+IND707,IND115,India,IND66,Assam,Hojai,1120798.4,1120798.4,100.0,2.0,Member State,IND,ND,2022
+IND708,IND115,India,IND66,Assam,Jorhat,1040535.0,1040535.0,100.00001,2.0,Member State,IND,ND,2022
+IND709,IND115,India,IND66,Assam,Kamrup,1556444.4,1556444.4,100.0,2.0,Member State,IND,ND,2022
+IND710,IND115,India,IND66,Assam,Kamrup Metropolitan,1436073.5,1436073.5,99.99999,2.0,Member State,IND,ND,2022
+IND711,IND115,India,IND66,Assam,Karbi Anglong,698300.75,698300.75,99.99999,2.0,Member State,IND,ND,2022
+IND712,IND115,India,IND66,Assam,Karimganj,1423860.8,1423860.8,100.0,2.0,Member State,IND,ND,2022
+IND713,IND115,India,IND66,Assam,Kokrajhar,1328749.5,1328749.5,100.0,2.0,Member State,IND,ND,2022
+IND714,IND115,India,IND66,Assam,Lakhimpur,1134758.4,1134758.4,100.0,2.0,Member State,IND,ND,2022
+IND715,IND115,India,IND66,Assam,Majuli,148746.38,148746.38,100.0,2.0,Member State,IND,ND,2022
+IND716,IND115,India,IND66,Assam,Marigaon,1138382.0,1138382.0,100.0,2.0,Member State,IND,ND,2022
+IND717,IND115,India,IND66,Assam,Nagaon,2358076.2,2358076.2,100.0,2.0,Member State,IND,ND,2022
+IND718,IND115,India,IND66,Assam,Nalbari,980957.6,980957.6,100.0,2.0,Member State,IND,ND,2022
+IND719,IND115,India,IND66,Assam,Sibsagar,810317.9,810317.9,99.99999,2.0,Member State,IND,ND,2022
+IND720,IND115,India,IND66,Assam,Sonitpur,1406139.6,1406139.6,100.00001,2.0,Member State,IND,ND,2022
+IND721,IND115,India,IND66,Assam,South Salmara-Mankachar,561502.5,561502.5,100.0,2.0,Member State,IND,ND,2022
+IND722,IND115,India,IND66,Assam,Tinsukia,1419260.5,1419260.5,100.0,2.0,Member State,IND,ND,2022
+IND723,IND115,India,IND66,Assam,Udalguri,906989.8,906989.8,100.0,2.0,Member State,IND,ND,2022
+IND724,IND115,India,IND66,Assam,West Karbi Anglong,364934.44,364934.44,100.0,2.0,Member State,IND,ND,2022
+IND725,IND115,India,IND67,Bihar,Araria,3683876.2,3683876.2,100.0,2.0,Member State,IND,ND,2022
+IND726,IND115,India,IND67,Bihar,Arwal,603971.44,603971.44,100.0,2.0,Member State,IND,ND,2022
+IND727,IND115,India,IND67,Bihar,Aurangabad,3177709.5,3177709.5,100.0,2.0,Member State,IND,ND,2022
+IND728,IND115,India,IND67,Bihar,Banka,2809366.5,2809366.5,100.0,2.0,Member State,IND,ND,2022
+IND729,IND115,India,IND67,Bihar,Begusarai,3871628.8,3871628.8,100.0,2.0,Member State,IND,ND,2022
+IND730,IND115,India,IND67,Bihar,Bhagalpur,3541538.8,3541538.8,100.0,2.0,Member State,IND,ND,2022
+IND731,IND115,India,IND67,Bihar,Bhojpur,3358656.8,3358656.8,100.0,2.0,Member State,IND,ND,2022
+IND732,IND115,India,IND67,Bihar,Buxar,2030431.5,2030431.5,100.0,2.0,Member State,IND,ND,2022
+IND733,IND115,India,IND67,Bihar,Darbhanga,4588196.5,4588196.5,100.0,2.0,Member State,IND,ND,2022
+IND734,IND115,India,IND67,Bihar,East Champaran,6363968.0,6363968.0,100.0,2.0,Member State,IND,ND,2022
+IND735,IND115,India,IND67,Bihar,Gaya,5452959.0,5452959.0,99.99999,2.0,Member State,IND,ND,2022
+IND736,IND115,India,IND67,Bihar,Gopalganj,2930010.5,2930010.5,100.0,2.0,Member State,IND,ND,2022
+IND737,IND115,India,IND67,Bihar,Jamui,2216025.5,2216025.5,100.0,2.0,Member State,IND,ND,2022
+IND738,IND115,India,IND67,Bihar,Jehanabad,1430422.2,1430422.2,100.0,2.0,Member State,IND,ND,2022
+IND739,IND115,India,IND67,Bihar,Kaimur,1986731.1,1986731.1,100.0,2.0,Member State,IND,ND,2022
+IND740,IND115,India,IND67,Bihar,Katihar,3747815.8,3747815.8,100.0,2.0,Member State,IND,ND,2022
+IND741,IND115,India,IND67,Bihar,Khagaria,2064756.4,2064756.4,100.0,2.0,Member State,IND,ND,2022
+IND742,IND115,India,IND67,Bihar,Kishanganj,2229713.5,2229713.5,100.0,2.0,Member State,IND,ND,2022
+IND743,IND115,India,IND67,Bihar,Lakhisarai,1184498.0,1184498.0,100.0,2.0,Member State,IND,ND,2022
+IND744,IND115,India,IND67,Bihar,Madhepura,2501909.2,2501909.2,100.0,2.0,Member State,IND,ND,2022
+IND745,IND115,India,IND67,Bihar,Madhubani,5177955.5,5177955.5,100.0,2.0,Member State,IND,ND,2022
+IND746,IND115,India,IND67,Bihar,Munger,1699510.2,1699510.2,100.0,2.0,Member State,IND,ND,2022
+IND747,IND115,India,IND67,Bihar,Muzaffarpur,6160090.0,6160090.0,100.00001,2.0,Member State,IND,ND,2022
+IND748,IND115,India,IND67,Bihar,Nalanda,3665055.0,3665055.0,100.0,2.0,Member State,IND,ND,2022
+IND749,IND115,India,IND67,Bihar,Nawada,2787193.5,2787193.5,100.0,2.0,Member State,IND,ND,2022
+IND750,IND115,India,IND67,Bihar,Patna,6878557.0,6878557.0,100.0,2.0,Member State,IND,ND,2022
+IND751,IND115,India,IND67,Bihar,Purnia,4157877.2,4157877.2,100.0,2.0,Member State,IND,ND,2022
+IND752,IND115,India,IND67,Bihar,Rohtas,3618055.2,3618055.2,100.0,2.0,Member State,IND,ND,2022
+IND753,IND115,India,IND67,Bihar,Saharsa,2417590.2,2417590.2,100.0,2.0,Member State,IND,ND,2022
+IND754,IND115,India,IND67,Bihar,Samastipur,5495162.5,5495162.5,99.99999,2.0,Member State,IND,ND,2022
+IND755,IND115,India,IND67,Bihar,Saran,4725689.0,4725689.0,100.0,2.0,Member State,IND,ND,2022
+IND756,IND115,India,IND67,Bihar,Sheikhpura,823510.25,823510.25,100.0,2.0,Member State,IND,ND,2022
+IND757,IND115,India,IND67,Bihar,Sheohar,857255.0,857255.0,100.00001,2.0,Member State,IND,ND,2022
+IND758,IND115,India,IND67,Bihar,Sitamarhi,4221879.0,4221879.0,100.0,2.0,Member State,IND,ND,2022
+IND759,IND115,India,IND67,Bihar,Siwan,3892653.5,3892653.5,100.0,2.0,Member State,IND,ND,2022
+IND760,IND115,India,IND67,Bihar,Supaul,2942123.2,2942123.2,100.0,2.0,Member State,IND,ND,2022
+IND761,IND115,India,IND67,Bihar,Vaishali,4623071.0,4623071.0,100.0,2.0,Member State,IND,ND,2022
+IND762,IND115,India,IND67,Bihar,West Champaran,4955195.0,4955195.0,100.0,2.0,Member State,IND,ND,2022
+IND763,IND115,India,IND68,Chandigarh,Chandigarh,880939.9,880939.9,99.99999,2.0,Member State,IND,ND,2022
+IND764,IND115,India,IND69,Chhattisgarh,Balod,966260.8,966260.8,100.0,2.0,Member State,IND,ND,2022
+IND765,IND115,India,IND69,Chhattisgarh,Baloda Bazar,1694256.8,1694256.8,100.0,2.0,Member State,IND,ND,2022
+IND766,IND115,India,IND69,Chhattisgarh,Balrampur,858798.5,858798.5,100.0,2.0,Member State,IND,ND,2022
+IND767,IND115,India,IND69,Chhattisgarh,Bastar,921167.0,921167.0,100.00001,2.0,Member State,IND,ND,2022
+IND768,IND115,India,IND69,Chhattisgarh,Bemetara,918506.44,918506.44,99.99999,2.0,Member State,IND,ND,2022
+IND769,IND115,India,IND69,Chhattisgarh,Bijapur,277683.1,277683.1,100.0,2.0,Member State,IND,ND,2022
+IND770,IND115,India,IND69,Chhattisgarh,Bilaspur,2190927.0,2190927.0,100.0,2.0,Member State,IND,ND,2022
+IND771,IND115,India,IND69,Chhattisgarh,Dantewada,347618.94,347618.94,99.99999,2.0,Member State,IND,ND,2022
+IND772,IND115,India,IND69,Chhattisgarh,Dhamtari,907061.75,907061.75,100.0,2.0,Member State,IND,ND,2022
+IND773,IND115,India,IND69,Chhattisgarh,Durg,2016056.0,2016056.0,100.0,2.0,Member State,IND,ND,2022
+IND774,IND115,India,IND69,Chhattisgarh,Gariaband,781723.8,781723.8,100.0,2.0,Member State,IND,ND,2022
+IND775,IND115,India,IND69,Chhattisgarh,Janjgir-Champa,2031556.9,2031556.9,100.0,2.0,Member State,IND,ND,2022
+IND776,IND115,India,IND69,Chhattisgarh,Jashpur,946761.44,946761.44,100.0,2.0,Member State,IND,ND,2022
+IND777,IND115,India,IND69,Chhattisgarh,Kanker,872714.4,872714.4,100.0,2.0,Member State,IND,ND,2022
+IND778,IND115,India,IND69,Chhattisgarh,Kawardha,1137381.4,1137381.4,100.0,2.0,Member State,IND,ND,2022
+IND779,IND115,India,IND69,Chhattisgarh,Kondagaon,660691.3,660691.3,100.0,2.0,Member State,IND,ND,2022
+IND780,IND115,India,IND69,Chhattisgarh,Korba,1421501.6,1421501.6,100.0,2.0,Member State,IND,ND,2022
+IND781,IND115,India,IND69,Chhattisgarh,Koriya,766945.1,766945.1,100.0,2.0,Member State,IND,ND,2022
+IND782,IND115,India,IND69,Chhattisgarh,Mahasamund,1184315.1,1184315.1,100.0,2.0,Member State,IND,ND,2022
+IND783,IND115,India,IND69,Chhattisgarh,Mungeli,790045.3,790045.3,99.99999,2.0,Member State,IND,ND,2022
+IND784,IND115,India,IND69,Chhattisgarh,Narayanpur,120828.37,120828.37,100.0,2.0,Member State,IND,ND,2022
+IND785,IND115,India,IND69,Chhattisgarh,Raigarh,1662637.0,1662637.0,100.0,2.0,Member State,IND,ND,2022
+IND786,IND115,India,IND69,Chhattisgarh,Raipur,2827666.0,2827666.0,100.0,2.0,Member State,IND,ND,2022
+IND787,IND115,India,IND69,Chhattisgarh,Rajnandgaon,1805004.2,1805004.2,100.00001,2.0,Member State,IND,ND,2022
+IND788,IND115,India,IND69,Chhattisgarh,Sukma,278732.88,278732.88,100.0,2.0,Member State,IND,ND,2022
+IND789,IND115,India,IND69,Chhattisgarh,Surajpur,922518.06,922518.06,100.0,2.0,Member State,IND,ND,2022
+IND790,IND115,India,IND69,Chhattisgarh,Surguja,976207.0,976207.0,100.00001,2.0,Member State,IND,ND,2022
+IND791,IND115,India,IND70,Dadra and Nagar Haveli,Dadra and Nagar Haveli,616354.6,616354.6,100.0,2.0,Member State,IND,ND,2022
+IND792,IND115,India,IND71,Daman and Diu,Daman,150810.66,150810.66,100.0,2.0,Member State,IND,ND,2022
+IND793,IND115,India,IND71,Daman and Diu,Diu,52581.555,52581.555,100.0,2.0,Member State,IND,ND,2022
+IND794,IND115,India,IND72,Delhi,Central,1689558.6,1689558.6,99.99999,2.0,Member State,IND,ND,2022
+IND795,IND115,India,IND72,Delhi,East,1361633.1,1361633.1,100.0,2.0,Member State,IND,ND,2022
+IND796,IND115,India,IND72,Delhi,New Delhi,1074235.9,1074235.9,100.0,2.0,Member State,IND,ND,2022
+IND797,IND115,India,IND72,Delhi,North,2102553.5,2102553.5,100.0,2.0,Member State,IND,ND,2022
+IND798,IND115,India,IND72,Delhi,North East,1429397.8,1429397.8,100.0,2.0,Member State,IND,ND,2022
+IND799,IND115,India,IND72,Delhi,North West,2253108.0,2253108.0,100.0,2.0,Member State,IND,ND,2022
+IND800,IND115,India,IND72,Delhi,Shahdara,1528264.0,1528264.0,100.0,2.0,Member State,IND,ND,2022
+IND801,IND115,India,IND72,Delhi,South,1647451.6,1647451.6,100.0,2.0,Member State,IND,ND,2022
+IND802,IND115,India,IND72,Delhi,South East,1804365.0,1804365.0,100.0,2.0,Member State,IND,ND,2022
+IND803,IND115,India,IND72,Delhi,South West,1746118.9,1746118.9,100.0,2.0,Member State,IND,ND,2022
+IND804,IND115,India,IND72,Delhi,West,3094761.8,3094761.8,99.99999,2.0,Member State,IND,ND,2022
+IND805,IND115,India,IND73,Goa,North Goa,849902.8,849902.8,100.0,2.0,Member State,IND,ND,2022
+IND806,IND115,India,IND73,Goa,South Goa,696548.3,696548.3,100.0,2.0,Member State,IND,ND,2022
+IND807,IND115,India,IND74,Gujarat,Ahmedabad,8774006.0,8774006.0,100.0,2.0,Member State,IND,ND,2022
+IND808,IND115,India,IND74,Gujarat,Amreli,1655386.2,1655386.2,100.0,2.0,Member State,IND,ND,2022
+IND809,IND115,India,IND74,Gujarat,Anand,2768858.8,2768858.8,100.00001,2.0,Member State,IND,ND,2022
+IND810,IND115,India,IND74,Gujarat,Aravalli,1283373.6,1283373.6,100.0,2.0,Member State,IND,ND,2022
+IND811,IND115,India,IND74,Gujarat,Banas Kantha,3751759.8,3751759.8,100.0,2.0,Member State,IND,ND,2022
+IND812,IND115,India,IND74,Gujarat,Bharuch,1706707.0,1706707.0,100.0,2.0,Member State,IND,ND,2022
+IND813,IND115,India,IND74,Gujarat,Bhavnagar,2795297.5,2795297.5,100.0,2.0,Member State,IND,ND,2022
+IND814,IND115,India,IND74,Gujarat,Botad,736528.44,736528.44,99.99999,2.0,Member State,IND,ND,2022
+IND815,IND115,India,IND74,Gujarat,Chhota Udaipur,1214603.0,1214603.0,100.0,2.0,Member State,IND,ND,2022
+IND816,IND115,India,IND74,Gujarat,Dahod,2759749.5,2759749.5,100.0,2.0,Member State,IND,ND,2022
+IND817,IND115,India,IND74,Gujarat,Devbhoomi Dwarka,857840.0,857840.0,100.0,2.0,Member State,IND,ND,2022
+IND818,IND115,India,IND74,Gujarat,Gandhinagar,1334853.9,1334853.9,100.0,2.0,Member State,IND,ND,2022
+IND819,IND115,India,IND74,Gujarat,Gir Somnath,1312976.4,1312976.4,100.0,2.0,Member State,IND,ND,2022
+IND820,IND115,India,IND74,Gujarat,Jamnagar,1469186.1,1469186.1,100.0,2.0,Member State,IND,ND,2022
+IND821,IND115,India,IND74,Gujarat,Junagadh,1647836.9,1647836.9,99.99999,2.0,Member State,IND,ND,2022
+IND822,IND115,India,IND74,Gujarat,Kachchh,2474326.2,2474326.2,100.0,2.0,Member State,IND,ND,2022
+IND823,IND115,India,IND74,Gujarat,Kheda,2037160.6,2037160.6,100.0,2.0,Member State,IND,ND,2022
+IND824,IND115,India,IND74,Gujarat,Mahesana,2180482.8,2180482.8,100.0,2.0,Member State,IND,ND,2022
+IND825,IND115,India,IND74,Gujarat,Mahisagar,1044840.94,1044840.94,100.0,2.0,Member State,IND,ND,2022
+IND826,IND115,India,IND74,Gujarat,Morbi,1098496.5,1098496.5,100.0,2.0,Member State,IND,ND,2022
+IND827,IND115,India,IND74,Gujarat,Narmada,697618.1,697618.1,100.00001,2.0,Member State,IND,ND,2022
+IND828,IND115,India,IND74,Gujarat,Navsari,1414866.5,1414866.5,100.00001,2.0,Member State,IND,ND,2022
+IND829,IND115,India,IND74,Gujarat,Panch Mahals,1964538.5,1964538.5,100.0,2.0,Member State,IND,ND,2022
+IND830,IND115,India,IND74,Gujarat,Patan,1475319.8,1475319.8,99.99999,2.0,Member State,IND,ND,2022
+IND831,IND115,India,IND74,Gujarat,Porbandar,624245.3,624245.3,100.0,2.0,Member State,IND,ND,2022
+IND832,IND115,India,IND74,Gujarat,Rajkot,3554654.2,3554654.2,100.00001,2.0,Member State,IND,ND,2022
+IND833,IND115,India,IND74,Gujarat,Sabar Kantha,1586418.9,1586418.9,100.0,2.0,Member State,IND,ND,2022
+IND834,IND115,India,IND74,Gujarat,Surat,8201036.5,8201036.5,100.0,2.0,Member State,IND,ND,2022
+IND835,IND115,India,IND74,Gujarat,Surendranagar,1820316.5,1820316.5,100.0,2.0,Member State,IND,ND,2022
+IND836,IND115,India,IND74,Gujarat,Tapi,954525.8,954525.8,100.0,2.0,Member State,IND,ND,2022
+IND837,IND115,India,IND74,Gujarat,The Dangs,276062.9,276062.9,100.0,2.0,Member State,IND,ND,2022
+IND838,IND115,India,IND74,Gujarat,Vadodara,3463168.2,3463168.2,100.0,2.0,Member State,IND,ND,2022
+IND839,IND115,India,IND74,Gujarat,Valsad,2052063.0,2052063.0,100.0,2.0,Member State,IND,ND,2022
+IND840,IND115,India,IND75,Haryana,Ambala,1301215.6,1301215.6,100.0,2.0,Member State,IND,ND,2022
+IND841,IND115,India,IND75,Haryana,Bhiwani,1303981.2,1303981.2,100.0,2.0,Member State,IND,ND,2022
+IND842,IND115,India,IND75,Haryana,Charkhi Dadri,551239.8,551239.8,100.0,2.0,Member State,IND,ND,2022
+IND843,IND115,India,IND75,Haryana,Faridabad,2360171.5,2360171.5,100.0,2.0,Member State,IND,ND,2022
+IND844,IND115,India,IND75,Haryana,Fatehabad,1061615.5,1061615.5,100.0,2.0,Member State,IND,ND,2022
+IND845,IND115,India,IND75,Haryana,Gurgaon,2549533.0,2549533.0,100.0,2.0,Member State,IND,ND,2022
+IND846,IND115,India,IND75,Haryana,Hissar,1955060.6,1955060.6,100.0,2.0,Member State,IND,ND,2022
+IND847,IND115,India,IND75,Haryana,Jhajjar,1018060.56,1018060.56,100.0,2.0,Member State,IND,ND,2022
+IND848,IND115,India,IND75,Haryana,Jind,1496445.4,1496445.4,100.00001,2.0,Member State,IND,ND,2022
+IND849,IND115,India,IND75,Haryana,Kaithal,1239293.2,1239293.2,100.0,2.0,Member State,IND,ND,2022
+IND850,IND115,India,IND75,Haryana,Karnal,1706196.0,1706196.0,100.0,2.0,Member State,IND,ND,2022
+IND851,IND115,India,IND75,Haryana,Kurukshetra,1087921.1,1087921.1,100.0,2.0,Member State,IND,ND,2022
+IND852,IND115,India,IND75,Haryana,Mahendragarh,975330.7,975330.7,100.0,2.0,Member State,IND,ND,2022
+IND853,IND115,India,IND75,Haryana,Mewat,1279310.2,1279310.2,100.0,2.0,Member State,IND,ND,2022
+IND854,IND115,India,IND75,Haryana,Palwal,1322863.5,1322863.5,100.0,2.0,Member State,IND,ND,2022
+IND855,IND115,India,IND75,Haryana,Panchkula,593118.0,593118.0,100.0,2.0,Member State,IND,ND,2022
+IND856,IND115,India,IND75,Haryana,Panipat,1463853.6,1463853.6,100.0,2.0,Member State,IND,ND,2022
+IND857,IND115,India,IND75,Haryana,Rewari,1025399.4,1025399.4,100.0,2.0,Member State,IND,ND,2022
+IND858,IND115,India,IND75,Haryana,Rohtak,1206243.8,1206243.8,100.0,2.0,Member State,IND,ND,2022
+IND859,IND115,India,IND75,Haryana,Sirsa,1523123.6,1523123.6,100.0,2.0,Member State,IND,ND,2022
+IND860,IND115,India,IND75,Haryana,Sonepat,1786372.5,1786372.5,100.0,2.0,Member State,IND,ND,2022
+IND861,IND115,India,IND75,Haryana,Yamuna Nagar,1378180.1,1378180.1,100.0,2.0,Member State,IND,ND,2022
+IND862,IND115,India,IND76,Himachal Pradesh,Bilaspur,519642.53,519642.53,100.0,2.0,Member State,IND,ND,2022
+IND863,IND115,India,IND76,Himachal Pradesh,Chamba,594207.4,594207.4,100.0,2.0,Member State,IND,ND,2022
+IND864,IND115,India,IND76,Himachal Pradesh,Hamirpur,504835.97,504835.97,100.0,2.0,Member State,IND,ND,2022
+IND865,IND115,India,IND76,Himachal Pradesh,Kangra,1704313.5,1704313.5,100.0,2.0,Member State,IND,ND,2022
+IND866,IND115,India,IND76,Himachal Pradesh,Kinnaur,87699.39,87699.39,100.0,2.0,Member State,IND,ND,2022
+IND867,IND115,India,IND76,Himachal Pradesh,Kulu,461857.66,461857.66,100.0,2.0,Member State,IND,ND,2022
+IND868,IND115,India,IND76,Himachal Pradesh,Lahaul and Spiti,30396.916,30396.916,100.0,2.0,Member State,IND,ND,2022
+IND869,IND115,India,IND76,Himachal Pradesh,Mandi,1141325.6,1141325.6,100.0,2.0,Member State,IND,ND,2022
+IND870,IND115,India,IND76,Himachal Pradesh,Shimla,904794.44,904794.44,99.99999,2.0,Member State,IND,ND,2022
+IND871,IND115,India,IND76,Himachal Pradesh,Sirmaur,563049.4,563049.4,100.0,2.0,Member State,IND,ND,2022
+IND872,IND115,India,IND76,Himachal Pradesh,Solan,685020.7,685020.7,100.00001,2.0,Member State,IND,ND,2022
+IND873,IND115,India,IND76,Himachal Pradesh,Una,571586.94,571586.94,100.0,2.0,Member State,IND,ND,2022
+IND874,IND115,India,IND77,Jammu and Kashmir,Anantnag,1294246.2,1294246.2,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND875,IND115,India,IND77,Jammu and Kashmir,Badgam,992972.25,992972.25,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND876,IND115,India,IND77,Jammu and Kashmir,Bandipore,380907.22,380907.22,99.99999,2.0,Sovereignty unsettled,IND,ND,2022
+IND877,IND115,India,IND77,Jammu and Kashmir,Baramula,1243209.6,1243209.6,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND878,IND115,India,IND77,Jammu and Kashmir,Doda,564184.3,564184.3,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND879,IND115,India,IND77,Jammu and Kashmir,Ganderbal,576028.9,576028.9,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND880,IND115,India,IND77,Jammu and Kashmir,Jammu,1790085.0,1790085.0,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND881,IND115,India,IND77,Jammu and Kashmir,Kargil,160912.53,160912.53,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND882,IND115,India,IND77,Jammu and Kashmir,Kathua,637945.5,637945.5,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND883,IND115,India,IND77,Jammu and Kashmir,Kishtwar,232020.6,232020.6,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND884,IND115,India,IND77,Jammu and Kashmir,Kulgam,584589.7,584589.7,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND885,IND115,India,IND77,Jammu and Kashmir,Kupwara,1068265.1,1068265.1,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND886,IND115,India,IND77,Jammu and Kashmir,Leh,151908.05,138742.34,91.33311,2.0,Sovereignty unsettled,IND,ND,2022
+IND887,IND115,India,IND77,Jammu and Kashmir,Poonch,680405.06,680405.06,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND888,IND115,India,IND77,Jammu and Kashmir,Pulwama,1000201.3,1000201.3,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND889,IND115,India,IND77,Jammu and Kashmir,Rajauri,679332.8,679332.8,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND890,IND115,India,IND77,Jammu and Kashmir,Ramban,361541.25,361541.25,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND891,IND115,India,IND77,Jammu and Kashmir,Reasi,396807.78,396807.78,100.00001,2.0,Sovereignty unsettled,IND,ND,2022
+IND892,IND115,India,IND77,Jammu and Kashmir,Samba,435275.2,435275.2,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND893,IND115,India,IND77,Jammu and Kashmir,Shupiyan,401417.72,401417.72,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND894,IND115,India,IND77,Jammu and Kashmir,Srinagar,905539.4,905539.4,100.0,2.0,Sovereignty unsettled,IND,ND,2022
+IND895,IND115,India,IND77,Jammu and Kashmir,Udhampur,698927.25,698927.25,100.00001,2.0,Sovereignty unsettled,IND,ND,2022
+IND896,IND115,India,IND78,Jharkhand,Bokaro,2441524.8,2441524.8,100.0,2.0,Member State,IND,ND,2022
+IND897,IND115,India,IND78,Jharkhand,Chatra,1314812.1,1314812.1,100.0,2.0,Member State,IND,ND,2022
+IND898,IND115,India,IND78,Jharkhand,Deoghar,1885836.1,1885836.1,100.0,2.0,Member State,IND,ND,2022
+IND899,IND115,India,IND78,Jharkhand,Dhanbad,3032386.8,3032386.8,100.00001,2.0,Member State,IND,ND,2022
+IND900,IND115,India,IND78,Jharkhand,Dumka,1528042.2,1528042.2,100.0,2.0,Member State,IND,ND,2022
+IND901,IND115,India,IND78,Jharkhand,Garhwa,1701413.8,1701413.8,100.0,2.0,Member State,IND,ND,2022
+IND902,IND115,India,IND78,Jharkhand,Giridih,3037518.8,3037518.8,100.0,2.0,Member State,IND,ND,2022
+IND903,IND115,India,IND78,Jharkhand,Godda,1539761.8,1539761.8,100.0,2.0,Member State,IND,ND,2022
+IND904,IND115,India,IND78,Jharkhand,Gumla,1277068.5,1277068.5,100.0,2.0,Member State,IND,ND,2022
+IND905,IND115,India,IND78,Jharkhand,Hazaribagh,2145891.5,2145891.5,100.0,2.0,Member State,IND,ND,2022
+IND906,IND115,India,IND78,Jharkhand,Jamtara,926718.3,926718.3,100.0,2.0,Member State,IND,ND,2022
+IND907,IND115,India,IND78,Jharkhand,Khunti,667463.06,667463.06,100.0,2.0,Member State,IND,ND,2022
+IND908,IND115,India,IND78,Jharkhand,Koderma,897422.8,897422.8,100.0,2.0,Member State,IND,ND,2022
+IND909,IND115,India,IND78,Jharkhand,Latehar,977922.0,977922.0,100.0,2.0,Member State,IND,ND,2022
+IND910,IND115,India,IND78,Jharkhand,Lohardaga,576874.0,576874.0,100.0,2.0,Member State,IND,ND,2022
+IND911,IND115,India,IND78,Jharkhand,Pakur,1078670.5,1078670.5,100.0,2.0,Member State,IND,ND,2022
+IND912,IND115,India,IND78,Jharkhand,Palamu,2307684.5,2307684.5,100.0,2.0,Member State,IND,ND,2022
+IND913,IND115,India,IND78,Jharkhand,Pashchim Singhbhum,1758781.9,1758781.9,100.0,2.0,Member State,IND,ND,2022
+IND914,IND115,India,IND78,Jharkhand,Purba Singhbhum,2800626.0,2800626.0,100.0,2.0,Member State,IND,ND,2022
+IND915,IND115,India,IND78,Jharkhand,Ramgarh,1077971.1,1077971.1,100.0,2.0,Member State,IND,ND,2022
+IND916,IND115,India,IND78,Jharkhand,Ranchi,3538127.5,3538127.5,99.99999,2.0,Member State,IND,ND,2022
+IND917,IND115,India,IND78,Jharkhand,Sahibganj,1869697.6,1869697.6,100.0,2.0,Member State,IND,ND,2022
+IND918,IND115,India,IND78,Jharkhand,Seraikela,1178074.6,1178074.6,100.0,2.0,Member State,IND,ND,2022
+IND919,IND115,India,IND78,Jharkhand,Simdega,680358.25,680358.25,100.0,2.0,Member State,IND,ND,2022
+IND920,IND115,India,IND79,Karnataka,Bagalkot,2078742.9,2078742.9,100.0,2.0,Member State,IND,ND,2022
+IND921,IND115,India,IND79,Karnataka,Bangalore,13463071.0,13463071.0,100.0,2.0,Member State,IND,ND,2022
+IND922,IND115,India,IND79,Karnataka,Bangalore Rural,1387639.4,1387639.4,100.0,2.0,Member State,IND,ND,2022
+IND923,IND115,India,IND79,Karnataka,Belgaum,5463568.5,5463568.5,100.0,2.0,Member State,IND,ND,2022
+IND924,IND115,India,IND79,Karnataka,Bellary,2975940.0,2975940.0,99.99999,2.0,Member State,IND,ND,2022
+IND925,IND115,India,IND79,Karnataka,Bidar,1859774.9,1859774.9,100.0,2.0,Member State,IND,ND,2022
+IND926,IND115,India,IND79,Karnataka,Bijapur,2626825.5,2626825.5,100.0,2.0,Member State,IND,ND,2022
+IND927,IND115,India,IND79,Karnataka,Chamrajnagar,1095447.2,1095447.2,100.0,2.0,Member State,IND,ND,2022
+IND928,IND115,India,IND79,Karnataka,Chikballapura,1329411.0,1329411.0,100.0,2.0,Member State,IND,ND,2022
+IND929,IND115,India,IND79,Karnataka,Chikmagalur,1174925.6,1174925.6,100.0,2.0,Member State,IND,ND,2022
+IND930,IND115,India,IND79,Karnataka,Chitradurga,1809629.5,1809629.5,100.0,2.0,Member State,IND,ND,2022
+IND931,IND115,India,IND79,Karnataka,Dakshina Kannada,2363051.8,2363051.8,100.0,2.0,Member State,IND,ND,2022
+IND932,IND115,India,IND79,Karnataka,Davanagere,2123868.8,2123868.8,100.0,2.0,Member State,IND,ND,2022
+IND933,IND115,India,IND79,Karnataka,Dharwad,2101651.5,2101651.5,100.0,2.0,Member State,IND,ND,2022
+IND934,IND115,India,IND79,Karnataka,Gadag,1224892.9,1224892.9,100.0,2.0,Member State,IND,ND,2022
+IND935,IND115,India,IND79,Karnataka,Gulbarga,2942587.2,2942587.2,100.0,2.0,Member State,IND,ND,2022
+IND936,IND115,India,IND79,Karnataka,Hassan,1854369.0,1854369.0,100.0,2.0,Member State,IND,ND,2022
+IND937,IND115,India,IND79,Karnataka,Haveri,1606560.8,1606560.8,100.0,2.0,Member State,IND,ND,2022
+IND938,IND115,India,IND79,Karnataka,Kodagu,579561.2,579561.2,100.0,2.0,Member State,IND,ND,2022
+IND939,IND115,India,IND79,Karnataka,Kolar,1627903.2,1627903.2,100.0,2.0,Member State,IND,ND,2022
+IND940,IND115,India,IND79,Karnataka,Koppal,1555065.0,1555065.0,100.0,2.0,Member State,IND,ND,2022
+IND941,IND115,India,IND79,Karnataka,Mandya,1802278.2,1802278.2,100.0,2.0,Member State,IND,ND,2022
+IND942,IND115,India,IND79,Karnataka,Mysore,3440341.2,3440341.2,100.0,2.0,Member State,IND,ND,2022
+IND943,IND115,India,IND79,Karnataka,Raichur,2151235.8,2151235.8,100.0,2.0,Member State,IND,ND,2022
+IND944,IND115,India,IND79,Karnataka,Ramanagara,1174297.2,1174297.2,100.0,2.0,Member State,IND,ND,2022
+IND945,IND115,India,IND79,Karnataka,Shimoga,1883465.9,1883465.9,100.0,2.0,Member State,IND,ND,2022
+IND946,IND115,India,IND79,Karnataka,Tumkur,2788779.5,2788779.5,100.0,2.0,Member State,IND,ND,2022
+IND947,IND115,India,IND79,Karnataka,Udupi,1135314.4,1135314.4,100.0,2.0,Member State,IND,ND,2022
+IND948,IND115,India,IND79,Karnataka,Uttara Kannada,1584385.9,1584385.9,100.0,2.0,Member State,IND,ND,2022
+IND949,IND115,India,IND79,Karnataka,Yadgir,1380557.0,1380557.0,100.0,2.0,Member State,IND,ND,2022
+IND950,IND115,India,IND80,Kerala,Alappuzha,2122269.2,2122269.2,100.0,2.0,Member State,IND,ND,2022
+IND951,IND115,India,IND80,Kerala,Ernakulam,3336010.8,3336010.8,100.00001,2.0,Member State,IND,ND,2022
+IND952,IND115,India,IND80,Kerala,Idukki,1056043.1,1056043.1,100.0,2.0,Member State,IND,ND,2022
+IND953,IND115,India,IND80,Kerala,Kannur,2677808.2,2677808.2,100.0,2.0,Member State,IND,ND,2022
+IND954,IND115,India,IND80,Kerala,Kasargod,1320892.8,1320892.8,100.0,2.0,Member State,IND,ND,2022
+IND955,IND115,India,IND80,Kerala,Kollam,2493647.2,2493647.2,100.0,2.0,Member State,IND,ND,2022
+IND956,IND115,India,IND80,Kerala,Kottayam,2012943.0,2012943.0,100.0,2.0,Member State,IND,ND,2022
+IND957,IND115,India,IND80,Kerala,Kozhikode,3318726.0,3318726.0,100.0,2.0,Member State,IND,ND,2022
+IND958,IND115,India,IND80,Kerala,Malappuram,4489803.5,4489803.5,100.0,2.0,Member State,IND,ND,2022
+IND959,IND115,India,IND80,Kerala,Palakkad,3029050.5,3029050.5,100.0,2.0,Member State,IND,ND,2022
+IND960,IND115,India,IND80,Kerala,Pathanamthitta,1339779.5,1339779.5,100.0,2.0,Member State,IND,ND,2022
+IND961,IND115,India,IND80,Kerala,Thiruvananthapuram,3278592.2,3278592.2,100.0,2.0,Member State,IND,ND,2022
+IND962,IND115,India,IND80,Kerala,Thrissur,3316408.0,3316408.0,100.0,2.0,Member State,IND,ND,2022
+IND963,IND115,India,IND80,Kerala,Wayanad,853700.9,853700.9,100.0,2.0,Member State,IND,ND,2022
+IND964,IND115,India,IND81,Lakshadweep,Lakshadweep,0.0,0.0,,,Member State,IND,ND,
+IND965,IND115,India,IND82,Madhya Pradesh,Agar Malwa,705672.9,705672.9,100.0,2.0,Member State,IND,ND,2022
+IND966,IND115,India,IND82,Madhya Pradesh,Alirajpur,922375.44,922375.44,100.0,2.0,Member State,IND,ND,2022
+IND967,IND115,India,IND82,Madhya Pradesh,Anuppur,911087.3,911087.3,100.0,2.0,Member State,IND,ND,2022
+IND968,IND115,India,IND82,Madhya Pradesh,Ashoknagar,1079575.2,1079575.2,100.0,2.0,Member State,IND,ND,2022
+IND969,IND115,India,IND82,Madhya Pradesh,Balaghat,1889576.5,1889576.5,100.0,2.0,Member State,IND,ND,2022
+IND970,IND115,India,IND82,Madhya Pradesh,Barwani,1779788.8,1779788.8,100.0,2.0,Member State,IND,ND,2022
+IND971,IND115,India,IND82,Madhya Pradesh,Betul,1784899.4,1784899.4,100.0,2.0,Member State,IND,ND,2022
+IND972,IND115,India,IND82,Madhya Pradesh,Bhind,1945244.9,1945244.9,99.99999,2.0,Member State,IND,ND,2022
+IND973,IND115,India,IND82,Madhya Pradesh,Bhopal,2952381.5,2952381.5,100.0,2.0,Member State,IND,ND,2022
+IND974,IND115,India,IND82,Madhya Pradesh,Burhanpur,923835.0,923835.0,100.00001,2.0,Member State,IND,ND,2022
+IND975,IND115,India,IND82,Madhya Pradesh,Chhatarpur,2112089.5,2112089.5,100.0,2.0,Member State,IND,ND,2022
+IND976,IND115,India,IND82,Madhya Pradesh,Chhindwara,2396693.5,2396693.5,100.0,2.0,Member State,IND,ND,2022
+IND977,IND115,India,IND82,Madhya Pradesh,Damoh,1445646.5,1445646.5,100.00001,2.0,Member State,IND,ND,2022
+IND978,IND115,India,IND82,Madhya Pradesh,Datia,958121.0,958121.0,99.99999,2.0,Member State,IND,ND,2022
+IND979,IND115,India,IND82,Madhya Pradesh,Dewas,1851886.6,1851886.6,100.0,2.0,Member State,IND,ND,2022
+IND980,IND115,India,IND82,Madhya Pradesh,Dhar,2735017.5,2735017.5,100.0,2.0,Member State,IND,ND,2022
+IND981,IND115,India,IND82,Madhya Pradesh,Dindori,922990.06,922990.06,100.0,2.0,Member State,IND,ND,2022
+IND982,IND115,India,IND82,Madhya Pradesh,East Nimar,1525825.5,1525825.5,99.99999,2.0,Member State,IND,ND,2022
+IND983,IND115,India,IND82,Madhya Pradesh,Guna,1464561.8,1464561.8,100.0,2.0,Member State,IND,ND,2022
+IND984,IND115,India,IND82,Madhya Pradesh,Gwalior,2532343.2,2532343.2,100.0,2.0,Member State,IND,ND,2022
+IND985,IND115,India,IND82,Madhya Pradesh,Harda,673939.7,673939.7,100.0,2.0,Member State,IND,ND,2022
+IND986,IND115,India,IND82,Madhya Pradesh,Hoshangabad,1378671.5,1378671.5,100.0,2.0,Member State,IND,ND,2022
+IND987,IND115,India,IND82,Madhya Pradesh,Indore,4215452.0,4215452.0,100.0,2.0,Member State,IND,ND,2022
+IND988,IND115,India,IND82,Madhya Pradesh,Jabalpur,2855969.0,2855969.0,100.0,2.0,Member State,IND,ND,2022
+IND989,IND115,India,IND82,Madhya Pradesh,Jhabua,1295874.6,1295874.6,100.0,2.0,Member State,IND,ND,2022
+IND990,IND115,India,IND82,Madhya Pradesh,Katni,1488755.6,1488755.6,100.0,2.0,Member State,IND,ND,2022
+IND991,IND115,India,IND82,Madhya Pradesh,Mandla,1117609.5,1117609.5,100.0,2.0,Member State,IND,ND,2022
+IND992,IND115,India,IND82,Madhya Pradesh,Mandsaur,1431667.1,1431667.1,100.00001,2.0,Member State,IND,ND,2022
+IND993,IND115,India,IND82,Madhya Pradesh,Morena,2335254.8,2335254.8,100.0,2.0,Member State,IND,ND,2022
+IND994,IND115,India,IND82,Madhya Pradesh,Narsinghpur,1284917.0,1284917.0,100.0,2.0,Member State,IND,ND,2022
+IND995,IND115,India,IND82,Madhya Pradesh,Neemuch,908735.0,908735.0,100.00001,2.0,Member State,IND,ND,2022
+IND996,IND115,India,IND82,Madhya Pradesh,Panna,1223102.4,1223102.4,100.0,2.0,Member State,IND,ND,2022
+IND997,IND115,India,IND82,Madhya Pradesh,Raisen,1589414.0,1589414.0,100.00001,2.0,Member State,IND,ND,2022
+IND998,IND115,India,IND82,Madhya Pradesh,Rajgarh,1812963.2,1812963.2,100.0,2.0,Member State,IND,ND,2022
+IND999,IND115,India,IND82,Madhya Pradesh,Ratlam,1691707.4,1691707.4,100.0,2.0,Member State,IND,ND,2022
+LKA1373,LKA231,Sri Lanka,LKA99,Central,Kandy,1478584.8,1478584.8,100.0,2.0,Member State,LKA,ND,2022
+LKA1374,LKA231,Sri Lanka,LKA99,Central,Matale,522647.7,522647.7,100.0,2.0,Member State,LKA,ND,2022
+LKA1375,LKA231,Sri Lanka,LKA99,Central,Nuwara Eliya,720466.4,720466.4,100.0,2.0,Member State,LKA,ND,2022
+LKA1376,LKA231,Sri Lanka,LKA100,Eastern,Ampara,685938.56,685938.56,100.0,2.0,Member State,LKA,ND,2022
+LKA1377,LKA231,Sri Lanka,LKA100,Eastern,Batticaloa,525064.3,525064.3,100.0,2.0,Member State,LKA,ND,2022
+LKA1378,LKA231,Sri Lanka,LKA100,Eastern,Trincomalee,390864.03,390864.03,100.0,2.0,Member State,LKA,ND,2022
+LKA1379,LKA231,Sri Lanka,LKA101,North Central,Anuradhapura,963242.06,963242.06,100.0,2.0,Member State,LKA,ND,2022
+LKA1380,LKA231,Sri Lanka,LKA101,North Central,Polonnaruwa,442548.62,442548.62,100.0,2.0,Member State,LKA,ND,2022
+LKA1381,LKA231,Sri Lanka,LKA102,North Western,Kurunegala,1776472.1,1776472.1,100.0,2.0,Member State,LKA,ND,2022
+LKA1382,LKA231,Sri Lanka,LKA102,North Western,Puttalam,766982.5,766982.5,100.0,2.0,Member State,LKA,ND,2022
+LKA1383,LKA231,Sri Lanka,LKA103,Northern,Jaffna,578339.6,578339.6,100.0,2.0,Member State,LKA,ND,2022
+LKA1384,LKA231,Sri Lanka,LKA103,Northern,Kilinochchi,78089.31,78089.31,100.0,2.0,Member State,LKA,ND,2022
+LKA1385,LKA231,Sri Lanka,LKA103,Northern,Mannar,90283.93,90283.93,100.0,2.0,Member State,LKA,ND,2022
+LKA1386,LKA231,Sri Lanka,LKA103,Northern,Mullattivu,52174.664,52174.664,100.0,2.0,Member State,LKA,ND,2022
+LKA1387,LKA231,Sri Lanka,LKA103,Northern,Vavuniya,170913.7,170913.7,100.0,2.0,Member State,LKA,ND,2022
+LKA1388,LKA231,Sri Lanka,LKA104,Sabaragamuwa,Kegalle,892933.9,892933.9,99.99999,2.0,Member State,LKA,ND,2022
+LKA1389,LKA231,Sri Lanka,LKA104,Sabaragamuwa,Ratnapura,1157377.9,1157377.9,100.0,2.0,Member State,LKA,ND,2022
+LKA1390,LKA231,Sri Lanka,LKA105,Southern,Galle,1076815.9,1076815.9,100.0,2.0,Member State,LKA,ND,2022
+LKA1391,LKA231,Sri Lanka,LKA105,Southern,Hambantota,659602.5,659602.5,100.0,2.0,Member State,LKA,ND,2022
+LKA1392,LKA231,Sri Lanka,LKA105,Southern,Matara,831071.2,831071.2,100.0,2.0,Member State,LKA,ND,2022
+LKA1393,LKA231,Sri Lanka,LKA106,Uva,Badulla,851351.06,851351.06,100.0,2.0,Member State,LKA,ND,2022
+LKA1394,LKA231,Sri Lanka,LKA106,Uva,Moneragala,497369.97,497369.97,100.0,2.0,Member State,LKA,ND,2022
+LKA1395,LKA231,Sri Lanka,LKA107,Western,Colombo,2379647.0,2379647.0,100.0,2.0,Member State,LKA,ND,2022
+LKA1396,LKA231,Sri Lanka,LKA107,Western,Gampaha,2484725.5,2484725.5,100.0,2.0,Member State,LKA,ND,2022
+LKA1397,LKA231,Sri Lanka,LKA107,Western,Kalutara,1317221.4,1317221.4,100.0,2.0,Member State,LKA,ND,2022
+MDV1398,MDV154,Maldives,MDV108,Alifu Alifu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1399,MDV154,Maldives,MDV109,Alifu Dhaalu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1400,MDV154,Maldives,MDV110,Baa,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1401,MDV154,Maldives,MDV111,Dhaalu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1402,MDV154,Maldives,MDV112,Faafu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1403,MDV154,Maldives,MDV113,Gaafu Alifu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1404,MDV154,Maldives,MDV114,Gaafu Dhaalu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1405,MDV154,Maldives,MDV115,Haa Alifu,Administrative unit not available,175.88605,175.88605,100.00001,2.0,Member State,MDV,ND,2022
+MDV1406,MDV154,Maldives,MDV116,Haa Dhaalu,Administrative unit not available,484.91763,484.91763,100.0,2.0,Member State,MDV,ND,2022
+MDV1407,MDV154,Maldives,MDV117,Kaafu,Administrative unit not available,2421.1587,2421.1587,100.0,2.0,Member State,MDV,ND,2022
+MDV1408,MDV154,Maldives,MDV118,Laamu,Administrative unit not available,1837.5681,1837.5681,100.0,2.0,Member State,MDV,ND,2022
+MDV1409,MDV154,Maldives,MDV119,Lhaviyani,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1410,MDV154,Maldives,MDV120,Male',Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1411,MDV154,Maldives,MDV121,Meemu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1412,MDV154,Maldives,MDV122,Noonu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1413,MDV154,Maldives,MDV123,Raa,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1414,MDV154,Maldives,MDV124,Seenu,Administrative unit not available,3133.67,3133.67,100.0,2.0,Member State,MDV,ND,2022
+MDV1415,MDV154,Maldives,MDV125,Shaviyani,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1416,MDV154,Maldives,MDV126,Thaa,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+MDV1417,MDV154,Maldives,MDV127,Vaavu,Administrative unit not available,0.0,0.0,,,Member State,MDV,ND,
+NPL1418,NPL175,Nepal,NPL128,Five,Arghakhanchi,143439.69,143439.69,100.0,2.0,Member State,NPL,ND,2022
+NPL1419,NPL175,Nepal,NPL128,Five,Banke,465813.9,465813.9,100.0,2.0,Member State,NPL,ND,2022
+NPL1420,NPL175,Nepal,NPL128,Five,Bardiya,366333.03,366333.03,100.0,2.0,Member State,NPL,ND,2022
+NPL1421,NPL175,Nepal,NPL128,Five,Dang Deokhuri,492800.66,492800.66,100.0,2.0,Member State,NPL,ND,2022
+NPL1422,NPL175,Nepal,NPL128,Five,Gulmi,201514.2,201514.2,100.0,2.0,Member State,NPL,ND,2022
+NPL1423,NPL175,Nepal,NPL128,Five,Kapilvastu,642411.94,642411.94,100.0,2.0,Member State,NPL,ND,2022
+NPL1424,NPL175,Nepal,NPL128,Five,Nawalparasi West,291287.12,291287.12,100.0,2.0,Member State,NPL,ND,2022
+NPL1425,NPL175,Nepal,NPL128,Five,Palpa,191211.89,191211.89,100.00001,2.0,Member State,NPL,ND,2022
+NPL1426,NPL175,Nepal,NPL128,Five,Pyuthan,184818.23,184818.23,100.0,2.0,Member State,NPL,ND,2022
+NPL1427,NPL175,Nepal,NPL128,Five,Rolpa,180979.17,180979.17,100.00001,2.0,Member State,NPL,ND,2022
+NPL1428,NPL175,Nepal,NPL128,Five,Rukum East,51856.734,51856.734,100.0,2.0,Member State,NPL,ND,2022
+NPL1429,NPL175,Nepal,NPL128,Five,Rupandehi,814696.44,814696.44,99.99999,2.0,Member State,NPL,ND,2022
+NPL1430,NPL175,Nepal,NPL129,Four,Baglung,202539.16,202539.16,100.0,2.0,Member State,NPL,ND,2022
+NPL1431,NPL175,Nepal,NPL129,Four,Gorkha,195851.38,195851.38,100.0,2.0,Member State,NPL,ND,2022
+NPL1432,NPL175,Nepal,NPL129,Four,Kaski,379357.34,379357.34,100.00001,2.0,Member State,NPL,ND,2022
+NPL1433,NPL175,Nepal,NPL129,Four,Lamjung,121189.49,121189.49,100.0,2.0,Member State,NPL,ND,2022
+NPL1434,NPL175,Nepal,NPL129,Four,Manang,3559.581,3559.581,100.0,2.0,Member State,NPL,ND,2022
+NPL1435,NPL175,Nepal,NPL129,Four,Mustang,9317.481,9317.481,100.0,2.0,Member State,NPL,ND,2022
+NPL1436,NPL175,Nepal,NPL129,Four,Myagdi,85862.57,85862.57,100.0,2.0,Member State,NPL,ND,2022
+NPL1437,NPL175,Nepal,NPL129,Four,Nawalparasi East,267704.84,267704.84,100.0,2.0,Member State,NPL,ND,2022
+NPL1438,NPL175,Nepal,NPL129,Four,Parbat,38479.254,38479.254,100.0,2.0,Member State,NPL,ND,2022
+NPL1439,NPL175,Nepal,NPL129,Four,Syangja,220322.34,220322.34,100.0,2.0,Member State,NPL,ND,2022
+NPL1440,NPL175,Nepal,NPL129,Four,Tanahu,249062.7,249062.7,100.0,2.0,Member State,NPL,ND,2022
+NPL1441,NPL175,Nepal,NPL130,One,Bhojpur,125871.09,125871.09,100.0,2.0,Member State,NPL,ND,2022
+NPL1442,NPL175,Nepal,NPL130,One,Dhankuta,124414.266,124414.266,100.0,2.0,Member State,NPL,ND,2022
+NPL1443,NPL175,Nepal,NPL130,One,Ilam,226151.84,226151.84,100.0,2.0,Member State,NPL,ND,2022
+NPL1444,NPL175,Nepal,NPL130,One,Jhapa,714381.6,714381.6,100.0,2.0,Member State,NPL,ND,2022
+NPL1445,NPL175,Nepal,NPL130,One,Khotang,140950.61,140950.61,100.0,2.0,Member State,NPL,ND,2022
+NPL1446,NPL175,Nepal,NPL130,One,Morang,881337.2,881337.2,100.0,2.0,Member State,NPL,ND,2022
+NPL1447,NPL175,Nepal,NPL130,One,Okhaldhunga,105740.375,105740.375,100.00001,2.0,Member State,NPL,ND,2022
+NPL1448,NPL175,Nepal,NPL130,One,Panchthar,138756.34,138756.34,100.0,2.0,Member State,NPL,ND,2022
+NPL1449,NPL175,Nepal,NPL130,One,Sankhuwasabha,119724.43,119724.43,100.0,2.0,Member State,NPL,ND,2022
+NPL1450,NPL175,Nepal,NPL130,One,Solukhumbu,18045.172,18045.172,100.0,2.0,Member State,NPL,ND,2022
+NPL1451,NPL175,Nepal,NPL130,One,Sunsari,3302837.5,3302837.5,100.0,2.0,Member State,NPL,ND,2022
+NPL1452,NPL175,Nepal,NPL130,One,Taplejung,92188.125,92188.125,99.99999,2.0,Member State,NPL,ND,2022
+NPL1453,NPL175,Nepal,NPL130,One,Terhathum,69871.39,69871.39,100.0,2.0,Member State,NPL,ND,2022
+NPL1454,NPL175,Nepal,NPL130,One,Udayapur,261256.11,261256.11,100.0,2.0,Member State,NPL,ND,2022
+NPL1455,NPL175,Nepal,NPL131,Seven,Achham,215475.27,215475.27,100.0,2.0,Member State,NPL,ND,2022
+NPL1456,NPL175,Nepal,NPL131,Seven,Baitadi,202442.2,202442.2,100.0,2.0,Member State,NPL,ND,2022
+NPL1457,NPL175,Nepal,NPL131,Seven,Bajhang,170225.08,170225.08,100.0,2.0,Member State,NPL,ND,2022
+NPL1458,NPL175,Nepal,NPL131,Seven,Bajura,123989.984,123989.984,100.0,2.0,Member State,NPL,ND,2022
+NPL1459,NPL175,Nepal,NPL131,Seven,Dadeldhura,120564.56,120564.56,100.0,2.0,Member State,NPL,ND,2022
+NPL1460,NPL175,Nepal,NPL131,Seven,Darchula,110575.164,110575.164,100.0,2.0,Member State,NPL,ND,2022
+NPL1461,NPL175,Nepal,NPL131,Seven,Doti,164104.2,164104.2,100.0,2.0,Member State,NPL,ND,2022
+NPL1462,NPL175,Nepal,NPL131,Seven,Kailali,1106063.8,1106063.8,100.0,2.0,Member State,NPL,ND,2022
+NPL1463,NPL175,Nepal,NPL131,Seven,Kanchanpur,1260534.6,1260534.6,100.0,2.0,Member State,NPL,ND,2022
+NPL1464,NPL175,Nepal,NPL132,Six,Dailekh,226578.61,226578.61,99.99999,2.0,Member State,NPL,ND,2022
+NPL1465,NPL175,Nepal,NPL132,Six,Dolpa,33748.68,33748.68,100.0,2.0,Member State,NPL,ND,2022
+NPL1466,NPL175,Nepal,NPL132,Six,Humla,47096.383,47096.383,100.00001,2.0,Member State,NPL,ND,2022
+NPL1467,NPL175,Nepal,NPL132,Six,Jajarkot,161379.12,161379.12,100.0,2.0,Member State,NPL,ND,2022
+NPL1468,NPL175,Nepal,NPL132,Six,Jumla,98509.4,98509.4,100.0,2.0,Member State,NPL,ND,2022
+NPL1469,NPL175,Nepal,NPL132,Six,Kalikot,27107.404,27107.404,100.0,2.0,Member State,NPL,ND,2022
+NPL1470,NPL175,Nepal,NPL132,Six,Mugu,51514.355,51514.355,100.0,2.0,Member State,NPL,ND,2022
+NPL1471,NPL175,Nepal,NPL132,Six,Rukum West,121196.58,121196.58,100.0,2.0,Member State,NPL,ND,2022
+NPL1472,NPL175,Nepal,NPL132,Six,Salyan,205766.27,205766.27,100.0,2.0,Member State,NPL,ND,2022
+NPL1473,NPL175,Nepal,NPL132,Six,Surkhet,158439.55,158439.55,100.0,2.0,Member State,NPL,ND,2022
+NPL1474,NPL175,Nepal,NPL133,Three,Bhaktapur,322928.56,322928.56,100.0,2.0,Member State,NPL,ND,2022
+NPL1475,NPL175,Nepal,NPL133,Three,Chitwan,528304.8,528304.8,100.0,2.0,Member State,NPL,ND,2022
+NPL1476,NPL175,Nepal,NPL133,Three,Dhading,253008.7,253008.7,100.0,2.0,Member State,NPL,ND,2022
+NPL1477,NPL175,Nepal,NPL133,Three,Dolakha,130613.7,130613.7,100.0,2.0,Member State,NPL,ND,2022
+NPL1478,NPL175,Nepal,NPL133,Three,Kathmandu,5166140.5,5166140.5,100.0,2.0,Member State,NPL,ND,2022
+NPL1479,NPL175,Nepal,NPL133,Three,Kavrepalanchok,115329.664,115329.664,100.0,2.0,Member State,NPL,ND,2022
+NPL1480,NPL175,Nepal,NPL133,Three,Lalitpur,490375.56,490375.56,100.0,2.0,Member State,NPL,ND,2022
+NPL1481,NPL175,Nepal,NPL133,Three,Makwanpur,338326.16,338326.16,100.0,2.0,Member State,NPL,ND,2022
+NPL1482,NPL175,Nepal,NPL133,Three,Nuwakot,204788.19,204788.19,100.0,2.0,Member State,NPL,ND,2022
+NPL1483,NPL175,Nepal,NPL133,Three,Ramechhap,147941.12,147941.12,100.0,2.0,Member State,NPL,ND,2022
+NPL1484,NPL175,Nepal,NPL133,Three,Rasuwa,30926.057,30926.057,100.0,2.0,Member State,NPL,ND,2022
+NPL1485,NPL175,Nepal,NPL133,Three,Sindhuli,212159.61,212159.61,99.99999,2.0,Member State,NPL,ND,2022
+NPL1486,NPL175,Nepal,NPL133,Three,Sindhupalchok,223910.75,223910.75,100.00001,2.0,Member State,NPL,ND,2022
+NPL1487,NPL175,Nepal,NPL134,Two,Bara,642710.8,642710.8,100.0,2.0,Member State,NPL,ND,2022
+NPL1488,NPL175,Nepal,NPL134,Two,Dhanusa,630137.8,630137.8,100.0,2.0,Member State,NPL,ND,2022
+NPL1489,NPL175,Nepal,NPL134,Two,Mahottari,564225.0,564225.0,100.0,2.0,Member State,NPL,ND,2022
+NPL1490,NPL175,Nepal,NPL134,Two,Parsa,1520168.2,1520168.2,100.00001,2.0,Member State,NPL,ND,2022
+NPL1491,NPL175,Nepal,NPL134,Two,Rautahat,649815.44,649815.44,100.0,2.0,Member State,NPL,ND,2022
+NPL1492,NPL175,Nepal,NPL134,Two,Saptari,543461.7,543461.7,100.0,2.0,Member State,NPL,ND,2022
+NPL1493,NPL175,Nepal,NPL134,Two,Sarlahi,696378.06,696378.06,100.0,2.0,Member State,NPL,ND,2022
+NPL1494,NPL175,Nepal,NPL134,Two,Siraha,946744.7,946744.7,100.0,2.0,Member State,NPL,ND,2022
+PAK1495,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Poonch,521245.8,521245.8,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1496,PAK188,Pakistan,PAK136,Gilgit Baltistan,Ghizer,161860.7,161860.7,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1497,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Bagh,385075.75,385075.75,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1498,PAK188,Pakistan,PAK136,Gilgit Baltistan,Baltistan,152390.72,152390.72,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1499,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Mirpur,319465.47,319465.47,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1500,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Neelum,154755.16,154755.16,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1501,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Kotli,771724.44,771724.44,99.99999,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1502,PAK188,Pakistan,PAK136,Gilgit Baltistan,Ghanche,106206.15,106206.15,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1503,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Bhimber,416329.5,416329.5,100.00001,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1504,PAK188,Pakistan,PAK136,Gilgit Baltistan,Hunza,48989.848,48989.848,100.00001,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1505,PAK188,Pakistan,PAK136,Gilgit Baltistan,Diamir,174653.48,174653.48,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1506,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Sudhnoti,302087.53,302087.53,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1507,PAK188,Pakistan,PAK137,Balochistan,Awaran,156833.45,156833.45,100.0,2.0,Member State,PAK,ND,2022
+PAK1508,PAK188,Pakistan,PAK137,Balochistan,Barkhan,130125.445,130125.445,100.0,2.0,Member State,PAK,ND,2022
+PAK1509,PAK188,Pakistan,PAK137,Balochistan,Chagai,137777.19,137777.19,100.0,2.0,Member State,PAK,ND,2022
+PAK1510,PAK188,Pakistan,PAK137,Balochistan,Dera Bugti,238252.4,238252.4,100.0,2.0,Member State,PAK,ND,2022
+PAK1511,PAK188,Pakistan,PAK137,Balochistan,Gwadar,228019.17,228019.17,100.0,2.0,Member State,PAK,ND,2022
+PAK1512,PAK188,Pakistan,PAK137,Balochistan,Harnai,99688.83,99688.83,100.0,2.0,Member State,PAK,ND,2022
+PAK1513,PAK188,Pakistan,PAK137,Balochistan,Jaffarabad,411094.62,411094.62,100.0,2.0,Member State,PAK,ND,2022
+PAK1514,PAK188,Pakistan,PAK137,Balochistan,Jhal Magsi,142203.34,142203.34,100.0,2.0,Member State,PAK,ND,2022
+PAK1515,PAK188,Pakistan,PAK137,Balochistan,Kachhi,258145.97,258145.97,100.0,2.0,Member State,PAK,ND,2022
+PAK1516,PAK188,Pakistan,PAK137,Balochistan,Kalat,311547.16,311547.16,100.0,2.0,Member State,PAK,ND,2022
+PAK1517,PAK188,Pakistan,PAK137,Balochistan,Kech,535725.06,535725.06,100.0,2.0,Member State,PAK,ND,2022
+PAK1518,PAK188,Pakistan,PAK137,Balochistan,Kharan,127575.484,127575.484,100.0,2.0,Member State,PAK,ND,2022
+PAK1519,PAK188,Pakistan,PAK137,Balochistan,Khuzdar,546786.1,546786.1,100.0,2.0,Member State,PAK,ND,2022
+PAK1520,PAK188,Pakistan,PAK137,Balochistan,Killa Abdullah,516971.1,516971.1,100.0,2.0,Member State,PAK,ND,2022
+PAK1521,PAK188,Pakistan,PAK137,Balochistan,Killa Saifullah,254501.8,254501.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1522,PAK188,Pakistan,PAK137,Balochistan,Kohlu,129974.13,129974.13,100.0,2.0,Member State,PAK,ND,2022
+PAK1523,PAK188,Pakistan,PAK137,Balochistan,Las Bela,403364.4,403364.4,100.0,2.0,Member State,PAK,ND,2022
+PAK1524,PAK188,Pakistan,PAK137,Balochistan,Lehri,116731.13,116731.13,100.0,2.0,Member State,PAK,ND,2022
+PAK1525,PAK188,Pakistan,PAK137,Balochistan,Loralai,325762.9,325762.9,100.0,2.0,Member State,PAK,ND,2022
+PAK1526,PAK188,Pakistan,PAK137,Balochistan,Mastung,216630.19,216630.19,100.0,2.0,Member State,PAK,ND,2022
+PAK1527,PAK188,Pakistan,PAK137,Balochistan,Musakhel,181868.2,181868.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1528,PAK188,Pakistan,PAK137,Balochistan,Nasirabad,319123.78,319123.78,100.0,2.0,Member State,PAK,ND,2022
+PAK1529,PAK188,Pakistan,PAK137,Balochistan,Nushki,129521.95,129521.95,100.0,2.0,Member State,PAK,ND,2022
+PAK1530,PAK188,Pakistan,PAK137,Balochistan,Panjgur,305322.25,305322.25,100.0,2.0,Member State,PAK,ND,2022
+PAK1531,PAK188,Pakistan,PAK137,Balochistan,Pishin,478887.12,478887.12,100.0,2.0,Member State,PAK,ND,2022
+PAK1532,PAK188,Pakistan,PAK137,Balochistan,Quetta,992624.3,992624.3,100.0,2.0,Member State,PAK,ND,2022
+PAK1533,PAK188,Pakistan,PAK137,Balochistan,Sheerani,115518.23,115518.23,100.0,2.0,Member State,PAK,ND,2022
+PAK1534,PAK188,Pakistan,PAK137,Balochistan,Sibi,135271.47,135271.47,100.0,2.0,Member State,PAK,ND,2022
+PAK1535,PAK188,Pakistan,PAK137,Balochistan,Sohbatpur,127119.84,127119.84,100.0,2.0,Member State,PAK,ND,2022
+PAK1536,PAK188,Pakistan,PAK137,Balochistan,Washuk,141574.6,141574.6,100.0,2.0,Member State,PAK,ND,2022
+PAK1537,PAK188,Pakistan,PAK137,Balochistan,Zhob,265230.5,265230.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1538,PAK188,Pakistan,PAK137,Balochistan,Ziarat,106175.76,106175.76,100.0,2.0,Member State,PAK,ND,2022
+PAK1539,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Bajaur Agency,890256.2,890256.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1540,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Bannu,46457.156,46457.156,100.0,2.0,Member State,PAK,ND,2022
+PAK1541,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Dera Ismail Khan,56432.566,56432.566,100.0,2.0,Member State,PAK,ND,2022
+PAK1542,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Kohat,163586.25,163586.25,100.0,2.0,Member State,PAK,ND,2022
+PAK1543,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Lakki Marwat,12894.423,12894.423,100.0,2.0,Member State,PAK,ND,2022
+PAK1544,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Peshawar,83942.68,83942.68,100.0,2.0,Member State,PAK,ND,2022
+PAK1545,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,FR Tank,37206.26,37206.26,100.0,2.0,Member State,PAK,ND,2022
+PAK1546,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Khyber Agency,900064.75,900064.75,100.0,2.0,Member State,PAK,ND,2022
+PAK1547,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Kurram Agency,754652.9,754652.9,100.0,2.0,Member State,PAK,ND,2022
+PAK1548,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Mohmand Agency,585578.06,585578.06,100.0,2.0,Member State,PAK,ND,2022
+PAK1549,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,North Waziristan Agency,577904.6,577904.6,100.0,2.0,Member State,PAK,ND,2022
+PAK1550,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Orakzai Agency,347178.84,347178.84,100.0,2.0,Member State,PAK,ND,2022
+PAK1551,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,South Waziristan Agency,656604.1,656604.1,100.0,2.0,Member State,PAK,ND,2022
+PAK1552,PAK188,Pakistan,PAK139,Federal Capital Territory,Islamabad,2036013.8,2036013.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1553,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Abbottabad,1648317.9,1648317.9,100.0,2.0,Member State,PAK,ND,2022
+PAK1554,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Bannu,1262279.1,1262279.1,100.0,2.0,Member State,PAK,ND,2022
+PAK1555,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Batagram,580400.0,580400.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1556,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Buner,941519.25,941519.25,100.0,2.0,Member State,PAK,ND,2022
+PAK1557,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Charsadda,1918783.6,1918783.6,100.0,2.0,Member State,PAK,ND,2022
+PAK1558,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Chitral,597138.8,597138.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1559,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Dera Ismail Khan,1607406.2,1607406.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1560,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Hangu,583656.94,583656.94,100.0,2.0,Member State,PAK,ND,2022
+PAK1561,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Haripur,1295119.8,1295119.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1562,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Karak,806958.56,806958.56,100.0,2.0,Member State,PAK,ND,2022
+PAK1563,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Kohat,1053128.1,1053128.1,100.0,2.0,Member State,PAK,ND,2022
+PAK1564,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Upper Kohistan,352994.16,352994.16,100.0,2.0,Member State,PAK,ND,2022
+PAK1565,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Lakki Marwat,910579.25,910579.25,100.0,2.0,Member State,PAK,ND,2022
+PAK1566,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Lower Dir,1548058.9,1548058.9,100.0,2.0,Member State,PAK,ND,2022
+PAK1567,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Malakand PA,859131.44,859131.44,100.0,2.0,Member State,PAK,ND,2022
+PAK1568,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Mansehra,1833298.8,1833298.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1569,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Mardan,2725030.2,2725030.2,100.00001,2.0,Member State,PAK,ND,2022
+PAK1570,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Nowshera,1653190.6,1653190.6,99.99999,2.0,Member State,PAK,ND,2022
+PAK1571,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Peshawar,3696590.2,3696590.2,100.00001,2.0,Member State,PAK,ND,2022
+PAK1572,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Shangla,821754.5,821754.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1573,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Swabi,1916754.6,1916754.6,100.0,2.0,Member State,PAK,ND,2022
+PAK1574,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Swat,2345031.8,2345031.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1575,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Tank,444288.1,444288.1,100.0,2.0,Member State,PAK,ND,2022
+PAK1576,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Tor Ghar,320240.38,320240.38,100.0,2.0,Member State,PAK,ND,2022
+PAK1577,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Upper Dir,910017.3,910017.3,100.0,2.0,Member State,PAK,ND,2022
+PAK1578,PAK188,Pakistan,PAK140,Punjab,Attock,2316768.0,2316768.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1579,PAK188,Pakistan,PAK140,Punjab,Bahawalnagar,3661085.5,3661085.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1580,PAK188,Pakistan,PAK140,Punjab,Bahawalpur,4288444.0,4288444.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1581,PAK188,Pakistan,PAK140,Punjab,Bhakkar,1842738.5,1842738.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1582,PAK188,Pakistan,PAK140,Punjab,Chakwal,1931693.5,1931693.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1583,PAK188,Pakistan,PAK140,Punjab,Chiniot,1714600.6,1714600.6,100.0,2.0,Member State,PAK,ND,2022
+PAK1584,PAK188,Pakistan,PAK140,Punjab,Dera Ghazi Khan,2918498.8,2918498.8,100.00001,2.0,Member State,PAK,ND,2022
+PAK1585,PAK188,Pakistan,PAK140,Punjab,Faisalabad,9616217.0,9616217.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1586,PAK188,Pakistan,PAK140,Punjab,Gujranwala,6018246.0,6018246.0,99.99999,2.0,Member State,PAK,ND,2022
+PAK1587,PAK188,Pakistan,PAK140,Punjab,Gujrat,3636094.0,3636094.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1588,PAK188,Pakistan,PAK140,Punjab,Hafizabad,1481406.2,1481406.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1589,PAK188,Pakistan,PAK140,Punjab,Jhang,3338206.5,3338206.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1590,PAK188,Pakistan,PAK140,Punjab,Jhelum,1659085.8,1659085.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1591,PAK188,Pakistan,PAK140,Punjab,Kasur,4164632.2,4164632.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1592,PAK188,Pakistan,PAK140,Punjab,Khanewal,3672397.5,3672397.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1593,PAK188,Pakistan,PAK140,Punjab,Khushab,1607007.0,1607007.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1594,PAK188,Pakistan,PAK140,Punjab,Lahore,11040900.0,11040900.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1595,PAK188,Pakistan,PAK140,Punjab,Layyah,1998886.0,1998886.0,100.00001,2.0,Member State,PAK,ND,2022
+PAK1596,PAK188,Pakistan,PAK140,Punjab,Lodhran,2060118.1,2060118.1,100.0,2.0,Member State,PAK,ND,2022
+PAK1597,PAK188,Pakistan,PAK140,Punjab,Mandi Bahauddin,2038679.2,2038679.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1598,PAK188,Pakistan,PAK140,Punjab,Mianwali,1882187.6,1882187.6,100.0,2.0,Member State,PAK,ND,2022
+PAK1599,PAK188,Pakistan,PAK140,Punjab,Multan,5519736.5,5519736.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1600,PAK188,Pakistan,PAK140,Punjab,Muzaffargarh,4667460.0,4667460.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1601,PAK188,Pakistan,PAK140,Punjab,Nankana Sahib,1780393.9,1780393.9,100.0,2.0,Member State,PAK,ND,2022
+PAK1602,PAK188,Pakistan,PAK140,Punjab,Narowal,2221012.2,2221012.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1603,PAK188,Pakistan,PAK140,Punjab,Okara,4001434.8,4001434.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1604,PAK188,Pakistan,PAK140,Punjab,Pakpattan,2280156.0,2280156.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1605,PAK188,Pakistan,PAK140,Punjab,Rahim Yar Khan,5600986.5,5600986.5,99.99999,2.0,Member State,PAK,ND,2022
+PAK1606,PAK188,Pakistan,PAK140,Punjab,Rajanpur,1983618.2,1983618.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1607,PAK188,Pakistan,PAK140,Punjab,Rawalpindi,5945498.0,5945498.0,100.00001,2.0,Member State,PAK,ND,2022
+PAK1608,PAK188,Pakistan,PAK140,Punjab,Sahiwal,3201172.0,3201172.0,99.99999,2.0,Member State,PAK,ND,2022
+PAK1609,PAK188,Pakistan,PAK140,Punjab,Sargodha,4733713.0,4733713.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1610,PAK188,Pakistan,PAK140,Punjab,Sheikhupura,4152231.8,4152231.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1611,PAK188,Pakistan,PAK140,Punjab,Sialkot,4821665.0,4821665.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1612,PAK188,Pakistan,PAK140,Punjab,Toba Tek Singh,2864632.5,2864632.5,100.00001,2.0,Member State,PAK,ND,2022
+PAK1613,PAK188,Pakistan,PAK140,Punjab,Vehari,3692665.2,3692665.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1614,PAK188,Pakistan,PAK141,Sindh,Badin,1836372.6,1836372.6,100.0,2.0,Member State,PAK,ND,2022
+PAK1615,PAK188,Pakistan,PAK141,Sindh,Dadu,1870664.0,1870664.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1616,PAK188,Pakistan,PAK141,Sindh,Ghotki,1650014.0,1650014.0,100.00001,2.0,Member State,PAK,ND,2022
+PAK1617,PAK188,Pakistan,PAK141,Sindh,Hyderabad,2535852.0,2535852.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1618,PAK188,Pakistan,PAK141,Sindh,Jacobabad,1273924.0,1273924.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1619,PAK188,Pakistan,PAK141,Sindh,Jamshoro,993908.4,993908.4,100.0,2.0,Member State,PAK,ND,2022
+PAK1620,PAK188,Pakistan,PAK141,Sindh,Kashmore,1092215.0,1092215.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1621,PAK188,Pakistan,PAK141,Sindh,Khairpur,2642352.5,2642352.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1622,PAK188,Pakistan,PAK141,Sindh,Larkana,1707543.5,1707543.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1623,PAK188,Pakistan,PAK141,Sindh,Matiari,845949.75,845949.75,100.0,2.0,Member State,PAK,ND,2022
+PAK1624,PAK188,Pakistan,PAK141,Sindh,Mirpur Khas,1617367.1,1617367.1,100.00001,2.0,Member State,PAK,ND,2022
+PAK1625,PAK188,Pakistan,PAK141,Sindh,Naushahro Feroze,1845806.8,1845806.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1626,PAK188,Pakistan,PAK141,Sindh,Qambar Shahdadkot,1573252.2,1573252.2,100.00001,2.0,Member State,PAK,ND,2022
+PAK1627,PAK188,Pakistan,PAK141,Sindh,Sanghar,2316674.0,2316674.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1628,PAK188,Pakistan,PAK141,Sindh,Shaheed Benazirabad,1873971.4,1873971.4,100.0,2.0,Member State,PAK,ND,2022
+PAK1629,PAK188,Pakistan,PAK141,Sindh,Shikarpur,1515832.5,1515832.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1630,PAK188,Pakistan,PAK141,Sindh,Sujawal,800238.3,800238.3,100.0,2.0,Member State,PAK,ND,2022
+PAK1631,PAK188,Pakistan,PAK141,Sindh,Sukkur,1543586.0,1543586.0,99.99999,2.0,Member State,PAK,ND,2022
+PAK1632,PAK188,Pakistan,PAK141,Sindh,Tando Allah Yar,850989.56,850989.56,100.00001,2.0,Member State,PAK,ND,2022
+PAK1633,PAK188,Pakistan,PAK141,Sindh,Tando Muhammad Khan,773820.6,773820.6,100.0,2.0,Member State,PAK,ND,2022
+PAK1634,PAK188,Pakistan,PAK141,Sindh,Tharparkar,1546961.8,1546961.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1635,PAK188,Pakistan,PAK141,Sindh,Umerkot,1129141.1,1129141.1,100.0,2.0,Member State,PAK,ND,2022
+PAK1636,PAK188,Pakistan,PAK141,Sindh,Thatta,873158.1,873158.1,100.00001,2.0,Member State,PAK,ND,2022
+PAK1637,PAK188,Pakistan,PAK141,Sindh,Karachi West,3342210.5,3342210.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1638,PAK188,Pakistan,PAK141,Sindh,Karachi Central,3641426.2,3641426.2,100.0,2.0,Member State,PAK,ND,2022
+PAK1639,PAK188,Pakistan,PAK141,Sindh,Karachi South,2760577.0,2760577.0,100.0,2.0,Member State,PAK,ND,2022
+PAK1640,PAK188,Pakistan,PAK141,Sindh,Karachi East,3254344.8,3254344.8,100.0,2.0,Member State,PAK,ND,2022
+PAK1641,PAK188,Pakistan,PAK141,Sindh,Korangi,1776770.5,1776770.5,100.0,2.0,Member State,PAK,ND,2022
+PAK1642,PAK188,Pakistan,PAK141,Sindh,Malir,1696823.4,1696823.4,100.0,2.0,Member State,PAK,ND,2022
+PAK1643,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Kolai Pallas,462770.66,462770.66,100.0,2.0,Member State,PAK,ND,2022
+PAK1644,PAK188,Pakistan,PAK138,Khyber Pakhtunkhwa,Lower Kohistan,65441.59,65441.59,100.0,2.0,Member State,PAK,ND,2022
+PAK1645,PAK188,Pakistan,PAK136,Gilgit Baltistan,Gilgit,134009.61,134009.61,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1646,PAK188,Pakistan,PAK136,Gilgit Baltistan,Nagar,94081.88,94081.88,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1647,PAK188,Pakistan,PAK136,Gilgit Baltistan,Astore,128188.75,128188.75,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1648,PAK188,Pakistan,PAK136,Gilgit Baltistan,Shigar,66797.57,66797.57,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1649,PAK188,Pakistan,PAK136,Gilgit Baltistan,Kharmang,62069.266,62069.266,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1650,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Muzaffarabad,553855.4,553855.4,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1651,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Hattian Bala,212133.52,212133.52,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
+PAK1652,PAK188,Pakistan,PAK135,Azad Jammu and Kashmir,Haveli,153068.56,153068.56,100.0,2.0,Sovereignty unsettled,PAK,ND,2022
